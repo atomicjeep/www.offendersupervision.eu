@@ -1,0 +1,401 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Experiencing supervision in England and Wales | Offender Supervision in Europe</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="canonical" href="http://www.offendersupervision.eu/blog-post/experiencing-supervision-in-england-and-wales" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Words&#8230;worth a discussion' href='http://www.offendersupervision.eu/blog-post/words-worth-a-discussion' />
+<link rel='next' title='Social work and offender supervision: local and/or national services?' href='http://www.offendersupervision.eu/blog-post/social-work-and-offender-supervision-local-andor-national-services' />
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='http://www.offendersupervision.eu/?p=341' />
+<link rel="alternate" type="application/json+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fexperiencing-supervision-in-england-and-wales" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fexperiencing-supervision-in-england-and-wales&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=D5755E768079B12E3B5CEE54EB5361ED');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-341 single-format-standard custom-background">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<p id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></p>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    	
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+<div id="content" class="row">
+
+	<div class="eight columns">
+	
+		<div class="post-341 post type-post status-publish format-standard hentry category-blog-post category-experiencing-supervision" id="post-341">
+		
+				
+						
+			<h1 class="headline">Experiencing supervision in England and Wales</h1>
+		
+	        <div class="postauthor">            
+	            <p>Posted by <a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a> on Tuesday, February 5, 2013 &middot; <a href="http://www.offendersupervision.eu/blog-post/experiencing-supervision-in-england-and-wales#comments">Leave a Comment</a> &nbsp; </p>
+	        </div>
+	        
+	        		        		            <div class="featureimg"></div>
+		         
+	        			
+			<div class="article">
+				<p>The probation services of England and Wales have a long and distinguished history and have been extremely influential in the development of systems and practices of supervision in many jurisdictions, within Europe and beyond. Yet today, they are under extreme political pressure and it looks likely that much of their work will be privatised in the near future. But how much do we know about the lived experience of supervision in England and Wales. Our colleagues Lol Burke and Wendy Fitzgibbon have recently summarised the available evidence on this question for our working group on Experiencing Supervision. Their full report can be found on the Documents and Resources page and here: <a href="http://www.offendersupervision.eu/wp-content/uploads/2013/02/Experiencing-supervision-England-and-Wales-Country-Report-FINAL.pdf">Experiencing supervision &#8211; England and Wales Country Report (FINAL)</a></p>
+<p>But to whet, your appetite, here is an excerpt:</p>
+<p>Many of the studies referred to in this overview attempt to give a voice which is usually silent in probation histories and dominated by the accounts of policymakers, academics and practitioners. However as Bailey (2007) contends, we need to understand the offender’s view and the insights provided by the desistance literature which recognises that the meaning and significance that offenders attach to life events or opportunities to desist from offending offer a valuable point of reference and their absence is a potential flaw in probation research that is only recently being redressed. Many of the studies discussed here have some methodological limitations, in that they are often based on small samples and are largely reliant on the respondents <i>perception </i>of events mainly obtained through interviews and questionnaires rather than <i>observing</i> the processes involved (see Fergus McNeill’s country report for similar findings in relation to Scottish studies). There is also a tendency to represent those subject to supervision as a homogenous group and therefore not be fully engaged with or sensitive to issues of diversity. So what lessons can be learnt from these attempts to throw light on the experiences of supervision?</p>
+<ul>
+<li>Conducting ‘consumer’ led research with those subject to supervision is not easy but it is worthwhile because it provides a potentially unique perspective from those involved in the process. Policy and practice in England and Wales, particularly since the mid 1990s, has very much taken a ‘top down’ approach driven by the findings of empirical and apparently value-neutral research primarily concerned with establishing an evidence base for the effectiveness of various accredited programmes to reduce reoffending. But as Hedderman <i>et al </i>note ‘outcome evaluations which rely exclusively or mainly on information in project databases and criminal records may not capture key elements which make an intervention “work”. Neglecting service users’ insights may lead to under-estimating resource needs, unrealistic target setting, and the eventual abandonment of promising ideas in favour of the next “new” magic bullet’ (2011, p.3). Listening to the experiences of those being supervised and using their insight to shape more responsive practices is intuitively positive but as Hughes notes; ‘these must be perceived as sincere. Approaches to seeking service user views, which are based on rigid impersonal processes may reinforce negative experiences’ (2012, p.62).</li>
+</ul>
+<ul>
+<li>Despite their differences in approach and focus, there is a remarkable consistency within the available research regarding those values that are viewed positively by those subject to supervisory sanctions. In short, this could be summed up as an encouraging and empathetic approach taken by the practitioner in the provision of advice and assistance that is viewed as practical and relevant by the individual being supervised. The value of this approach would seem to pertain regardless of broader policy changes aimed at enhancing probation’s credentials as a public protection agency and is still evidenced in the practice of many front-line staff (Fitzgibbon 2007, 2011).</li>
+</ul>
+<ul>
+<li>Legitimacy in terms of a personal attachment to a member of staff who in turn demonstrates concern for and personal interest in the individual supervised was seen to be the most effective means of promoting compliance. This would seem to support  the assertion by Canton (2007) that ‘people are more likely to comply with expectations on them and to accept decisions – <i>even decisions that go against their own preferences</i> – when they are persuaded that these are fair (have been fairly arrived at) and are reasonable’ (p.57)<b>.</b></li>
+</ul>
+<ul>
+<li>The relational aspects of supervision are at risk of becoming increasingly fragmented in England and Wales as the government intends to accelerate its plans to introduce a mixed economy of offender services involving the transfer of much of the work traditionally undertaken by the probation service to a range of private and voluntary sector providers. This will require more research across a range of providers to ensure that those subject to these services are properly heard and accounted for in terms of designing, developing and implementing services. This also raises fundamental issues in terms of legitimacy.</li>
+</ul>
+<ul>
+<li>There is clearly a need for more research into the lived experiences of supervision to counter some of the misconceptions of community sanctions held by many within society (even those within the criminal justice system). It also involves understanding supervision as a shared process involving a range of actors. Further research can assist in uncovering the ‘black box’ (Bonta <i>et al, </i>2008<i>) </i>of supervision<i> </i>but it also needs to be sensitive to how supervision is experienced by different groups and the differential impact of the increasing armoury of community disposals.</li>
+</ul>
+<ul>
+<li>There appears to be something of a gap between people’s perceptions and the realities of supervision. Whilst public support for the probation service in England and Wales has declined (despite many changes within the organisational structures largely justified on the grounds of enhancing credibility with the public) there is still significant support for the principle of rehabilitation particularly where there is a reparative element. Media coverage of serious offences committed by those on supervision, though rare, has also served to damage probation’s reputation. However, as Maruna and King (2008) found in their survey of 1000 members of the public in England and Wales, there was widespread support for the idea of ‘redeemability’ (ie. The notion that everyone can change their ways and ‘make good’ can be powerful vehicles for increasing public confidence’ (p.344).</li>
+</ul>
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.offendersupervision.eu/blog-post/experiencing-supervision-in-england-and-wales"
+    dc:identifier="http://www.offendersupervision.eu/blog-post/experiencing-supervision-in-england-and-wales"
+    dc:title="Experiencing supervision in England and Wales"
+    trackback:ping="http://www.offendersupervision.eu/blog-post/experiencing-supervision-in-england-and-wales/trackback" />
+</rdf:RDF>			</div>
+			
+							
+			<div class="postmeta">
+				<p>Category: <a href="http://www.offendersupervision.eu/category/blog-post" rel="category tag">Blog Posts</a>, <a href="http://www.offendersupervision.eu/category/experiencing-supervision" rel="category tag">Experiencing Supervision</a> &middot; Tags: </p>
+			</div>
+		
+		</div>
+		
+		<div class="postcomments">
+				<div id="comments">
+	
+	
+			<p class="nocomments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+		</div>
+		
+				
+	</div>
+	
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-6" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-3" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>    
+</div>	</div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_2621b4858a5bd1fdfb79db7e21370a3d.js"></script></body>
+</html>

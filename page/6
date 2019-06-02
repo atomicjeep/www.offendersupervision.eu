@@ -1,0 +1,1075 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Offender Supervision in Europe - COST Action IS1106 - Part 6</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel='prev' href='http://www.offendersupervision.eu/page/5' />
+<link rel='next' href='http://www.offendersupervision.eu/page/7' />
+
+<link rel="canonical" href="http://www.offendersupervision.eu/page/6" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=EE201F16DD0FFE204CEEC4B5D41C985D');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="home blog paged custom-background paged-6">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<h1 id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></h1>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+
+</div> <!-- close container -->
+
+<div class="container">
+
+<div class="row">
+	
+	<div class="eight columns">
+		<div id="homepage">
+	    	
+	    		        
+	        <div class="post first">
+	            
+	            					            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jul</div>
+	            			    <div class="day">4</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/an-oral-history-of-supervision#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/an-oral-history-of-supervision" rel="bookmark">An oral history of supervision</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/an-oral-history-of-supervision" rel="bookmark"></a>
+		                              
+	                        <p><em>I was tidying up some admin today and came across the final report of an oral history project Beth Weaver and  I completed a few years ago. I know that several people in the Action have an interest in the history of supervision &#8212; and in oral history in particular &#8212; so here&#8217;s the short summary of the project from that report. [A longer paper based on some of these findings can be accessed at:    <a href="http://www.sccjr.ac.uk/wp-content/uploads/2012/11/Apex-lecture---Fergus-McNeill.pdf">Helping, Holding and Hurting]</a></em></p>
+<p>The project employed oral history methods in interviews with 25 people who were probation educators (n=2), officers (n=11) or probationers (n=12) in Scotland in the 1960s. The aim was to explore the interstices between ‘official’ accounts of probation history, practitioners’ experiences and the experiences of probationers themselves, thus producing a rich and multi-layered account of the construction and experience of probation as an historical penal practice.The probation officers and educators were recruited through snowball sampling. Arranging and completing these interviews proved to be time-consuming. Many potential respondents (most of whom were in their 80s) had health problems; several interviews had to be cancelled or rescheduled and so these interviews were not completed until early in 2009. Eleven of the ex-probationer participants were recruited through 4 separate newspaper adverts early in 2009. One was recruited via his former probation officer. Again the process of securing interviews was not straightforward. Although people chose to respond to these adverts, their other commitments and, occasionally, a degree of ambivalence about participating, often meant that repeated attempts to conduct interviews were required. The last of these interviews was not completed until July 2009. All of the interviews were fully transcribed and data analysis continued until the end of award period. It was a challenging process, given the need to analyse in depth both each narrative in itself, emerging themes across narratives and across different types of narrative (practitioner and probationer).</p>
+<p>The main substantive findings of this project are as follows. Probation officers’ accounts of their pathways into probation work reveal the significance not only of the types of religious and political values that one might expect to find associated with humanitarian endeavour, but also of more mundane needs for meaningful work that carried a degree of social status. Their accounts of their selection and recruitment suggest a preoccupation (amongst the selectors) with the creation of a workforce capable of engaging with people in adversity but unlikely to disrupt established hierarchies within the court system. Probation officers were often ambivalent about the power and status of courts and judges; though they sometimes experienced this as marginalising and even oppressive, they were also attracted to the associated status lent them as officers of the court.</p>
+<p>Although they recollected their formal training to varying degrees, probation officers learned the job principally from their peers – and such processes of professional socialisation may have had a conservative effect, ensuring continuities with earlier eras and diminishing the practical impact of new strategies and techniques. Perhaps partly for this reason, the approaches to practice that they described were much less imbued with theories of ‘social casework’ than might be expected from a reading of official and academic sources of the time. Routine practice, most of it with young people, was focused principally on diversion and containment, with casework or ‘treatment’ approaches reserved for the small number of adults on probation, particularly those with mental health problems.  In the course of their work, probation officers were also highly conscious of their engagements with local communities, working in a patch-based system to build ties to informal sources of social control and support (families, churches, employers, youth organisations, former probationers). They actively used such ties to try to bind probationers; ‘binding’ them sometimes in the sense of healing but often in the sense of restraining.</p>
+<p>Many of these themes find echoes in the accounts of the probationers’ experiences. Their recollections of probation were also rooted in particular places – most often communities simultaneously characterised by mutual support and chronic disadvantage. Frequently, their accounts linked this wider context of adversity to a range of family problems and to the attractions of peer group ‘gangs’ during their adolescence. Most were on probation as juveniles, as first offenders and for minor property offences. They had little recollection of pre-trial assessment and recalled the court as an alienating place through which they were processed rather than in which they were engaged. Almost all had very clear recollections of their probation officers – for better or worse – and could still articulate the powerful sense of intimidation they experienced in their first encounters; intimidation that was commonly based on both physical presence and social status.</p>
+<p>The impact and experience of probation seems to have been highly contingent on the officer’s capacity to bridge the social distance between officer and probationer and to establish communication and mutual respect. Where officers succeeded in communicating care and hope, positive effects often resulted in the short or long term, but where they failed to do so the process of supervision became at best formulaic and superficial. Although officers’ accounts understandably stressed the ‘helping’ aspects of probation and many probationers recognised and celebrated this, probation was also experienced as both a ‘holding’ and a ‘hurting’ experience. Most often helping, holding and hurting combined together in individual accounts of supervision. The holding elements included support and protection but also containment and surveillance, often though the mobilisation of the informal ties referred to above. The hurting elements included rare accounts of sexual and physical abuse of probationers by probation staff, but more typically related to the burdensome nature of supervision and to the pains (including incarceration) that followed enforcement action. Notably, some of the holding and hurting elements of supervision were deemed tolerable because they were underwritten by relationships of care and support. But in the absence of such relationships, or where such relationships broke down, the burdens and pains of supervision were significantly magnified.</p>
+<p>Returning to the overall aim of the project, the main implication of this study is that we cannot properly make sense of probation or of penality if our accounts of it rely too heavily on ‘official’ sources that are detached or abstracted from the relationships and interactions between particular people at particular places in particular times. Indeed, in an important sense, beyond a narrow legal definition, probation has no meaning, no character and no architecture that defines it, until it is invented in and through its associated human processes and practices. In these processes and practices, bridging the social distance between the punished and the punishers is critical. It matters for instrumental reasons because influencing people’s lives is contingent on the legitimacy of the relational authority that an authority or a professional possesses. But it also matters for normative reasons because <i style="mso-bidi-font-style: normal;">doing</i> justice to people is not merely an abstract process of applying the proper rules, processes or procedures; it is also a human process of communication and engagement – or of the failure to communicate and engagement.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jul</div>
+	            			    <div class="day">2</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/briefing-papers-now-available#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/briefing-papers-now-available" rel="bookmark">Briefing Papers now available!</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/briefing-papers-now-available" rel="bookmark"></a>
+		                              
+	                        <p>I&#8217;m pleased to say that all four of our working groups has succeeded in producing (on time!) a short briefing paper summarising their learning from the first year of the Action&#8217;s activities. These short papers summarise what was presented at our conference in April by the working group leaders and give a taster for the more detailed analysis you can expect in our book on &#8216;Offender Supervision in Europe&#8217; which is due to be published by Palgrave in December 2013.</p>
+<p>It&#8217;s hard to summarise all of this learning in a few sentences (especially when I want you to read the briefings!), but what is most striking perhaps is how much <em>we just don&#8217;t know</em> about offender supervision. Whether we look to questions about how supervision is experienced by those subject to it, how decisions about it are made by those in authority, how it is constructed in practice by those charged with doing it, or how it is influenced by European norms and standards, we find the same problem: large gaps in the empirical literature conducted to date on the topic. Comparing offender supervision with imprisonment as a sanction, our survey reveals the relative paucity of social scientific contributions to the sorts of critical analysis that lies behind improvements in policy, practice and performance.</p>
+<p>But it&#8217;s not just that we haven&#8217;t studied supervision enough; it&#8217;s that even when we have, we haven&#8217;t done so well enough. Again looking across the groups, we face issues with the scale and representativeness of the research and with the adequacy of the methods deployed. Very often, it seems, we rely too much on accounts of supervision or decision-making elicited from interviews; there are very few supervision ethnographies of the sort that can dig beneath the story or the surface.</p>
+<p>Intriguingly, we also find that a great many probation researchers are former probation workers. In many respects this can be helpful; it may enable access and help to establish a sympathetic understanding of the sorts of challenges and pressures that practitioners face. But, on the other hand, it raises interesting questions about possible bias, or at least about critical distance. Given the wider politics of punishment &#8212; and the perennial pressure to promote supervision as an alternative to incarceration &#8212; might this explain why the &#8216;pains of probation&#8217; have been so under-examined?</p>
+<p>Clearly, we have a lot to learn, and a lot of work to do. At least we have succeeded in confirming the case for establishing the Action: this work is critically important to the future of criminal justice in Europe and it has been neglected for too long.</p>
+<p>You can read the briefings here:</p>
+<p>On &#8216;Experiencing Supervision&#8217;: <a href="http://www.offendersupervision.eu/wp-content/uploads/2013/07/WG1-Briefing-2013.pdf">WG1 Briefing 2013</a></p>
+<p>On &#8216;Decision-making and Supervision&#8217;: <a href="http://www.offendersupervision.eu/wp-content/uploads/2013/07/WG2-Briefing-2013.pdf">WG2 Briefing 2013</a></p>
+<p>On &#8216;Practising Supervision&#8217;:<a href="http://www.offendersupervision.eu/wp-content/uploads/2013/07/WG3-Briefing-2013.pdf">WG3 Briefing 2013</a></p>
+<p>On &#8216;European Norms, Policy and Practice&#8217;: <a href="http://www.offendersupervision.eu/wp-content/uploads/2013/07/WG4-Briefing-2013.pdf">WG4 Briefing 2013</a></p>
+<p>&nbsp;</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jun</div>
+	            			    <div class="day">25</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/on-the-first-french-workshop-on-probation#respond">2 Comments</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/on-the-first-french-workshop-on-probation" rel="bookmark">On a French workshop on probation&#8230;</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/on-the-first-french-workshop-on-probation" rel="bookmark"></a>
+		                              
+	                        <p><!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+</o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+<p lang="EN-US" style="mso-ansi-language: EN-US;"><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves/>
+<w:TrackFormatting/>
+<w:PunctuationKerning/>
+<w:ValidateAgainstSchemas/>
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF/>
+<w:LidThemeOther>EN-GB</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables/>
+<w:SnapToGridInCell/>
+<w:WrapTextWithPunct/>
+<w:UseAsianBreakRules/>
+<w:DontGrowAutofit/>
+<w:SplitPgBreakAndParaMark/>
+<w:DontVertAlignCellWithSp/>
+<w:DontBreakConstrainedForcedTables/>
+<w:DontVertAlignInTxbx/>
+<w:Word11KerningPairs/>
+<w:CachedColBalance/>
+</w:Compatibility>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math"/>
+<m:brkBin m:val="before"/>
+<m:brkBinSub m:val="&#45;-"/>
+<m:smallFrac m:val="off"/>
+<m:dispDef/>
+<m:lMargin m:val="0"/>
+<m:rMargin m:val="0"/>
+<m:defJc m:val="centerGroup"/>
+<m:wrapIndent m:val="1440"/>
+<m:intLim m:val="subSup"/>
+<m:naryLim m:val="undOvr"/>
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+UnhideWhenUsed="false" Name="Table Grid"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 1"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 2"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 3"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 4"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 5"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 6"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+<w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+</w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+
+
+
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+
+<![endif]--><span lang="EN-US" style="mso-ansi-language: EN-US;">Probation has become a public issue in many countries European countries since the numbers of probationers has increased significantly over the last decades, nowadays being two or three times higher than the prison population. Within this context, the workshop “Probation in France. Supervision in the community between permanency and change” held at the Jules Verne University in Amiens (France) on 14 June 2013 came at the right moment and even at the right place. Although probation has been already studied in France over twenty years (<i style="mso-bidi-font-style: normal;">Décarpes</i> 2013), this workshop can be indeed considered as the first one entirely and precisely dedicated to French probation activities.</span></p>
+<p class="MsoNormal" style="text-align: justify;"><span lang="EN-US" style="mso-ansi-language: EN-US;">Organised by four different universities and research centers where early-stage researchers currently work on probation issues, this workshop was conceptualised into four axes: Contemporary changes, institutional reconfigurations, mutation of rationalities and evolution of supervision forms. The first talk was made by <i style="mso-bidi-font-style: normal;">Ludovic Jamet</i> and<i style="mso-bidi-font-style: normal;"> Philip Milburn</i> (France) who presented some mid-term results of a research on recent evolutions of probation practices within their institutional and professional field. Doing the fieldwork in one of the biggest probation service in France with 50 probation officers, they mainly described the daily activities of POs in a very poor and heterogeneous suburb area near Paris. It echoed the next paper dealing with German probation facing penal mutations in which I explained how POs in Germany are confronted with three core missions &#8211; control, cure and care – and why it might lead to conflict or oppositions when carrying them out. Another paper from </span><i style="mso-bidi-font-style: normal;"><span style="mso-ansi-language: EN-GB;">Roxane Kaspar</span></i><span style="mso-ansi-language: EN-GB;"> (France) introduced an analysis of the territorialisation process of national penal policies and its repercussion on sentence implementation in the region of Franche-Comté. Taking into account that there are around 100 probation services in France, the understanding of local particularities are very fruitful to assess probation activities. This approach was completed by </span><i style="mso-bidi-font-style: normal;"><span lang="EN-US" style="mso-ansi-language: EN-US;">Alexia Jonckheere</span></i><span lang="EN-US" style="mso-ansi-language: EN-US;"> (Belgium) who developed the approach of routine for the sake of rationalization and how far routine day-to-day work can contribute to new probation practices. Pursuing this idea, <i style="mso-bidi-font-style: normal;">Olivier Razac, Fabien Gouriou</i> and<i style="mso-bidi-font-style: normal;"> Grégory Salle</i> (France) looked at the </span><span style="mso-ansi-language: EN-GB;">rationalities</span><span lang="EN-US" style="mso-ansi-language: EN-US;"> of French probation and highlighted six of them: penal, educative, social, sanitary, criminological and managerial. Concluding with regard to probation outputs, <i style="mso-bidi-font-style: normal;">Valérie Moulin</i> (France and Switzerland) carried out a study on French discussion groups of reoffending prevention within probation services and the gap between theory and practical adaptation, followed by <i style="mso-bidi-font-style: normal;">Philippe Pillonel </i>and <i style="mso-bidi-font-style: normal;">Simon Gabaglio</i> (Switzerland) who created and implemented their own offender evaluation tool called ‘Active Process of Risk Management and Desistance Support (PAGRED)’.</span></p>
+<p class="MsoNormal" style="text-align: justify;"><span lang="EN-US" style="mso-ansi-language: EN-US;">Focusing this blog post on France, the first remark that arises from all presentations is that, since a tragic event during which a probationer committed a murder (January 2011) and its political manipulation for electoral reasons, practical consequences in probation services are considerable: workload increased, also because even short sentences (less than three months to serve) have to be supervised, and interviews with probationers within one month after prison release (new article 741-1 code of criminal procedure) are often conducted without the files or information having been received from the prison services. The second remark is common sense, but good to keep in mind: one has to differentiate activities from POs in prison and in the community, as it is commonly said that “prisoners run after POs inside and POs run after probationers outside”. A third aspect is that the impact of New Public Management and its entrepreneurial ideology pushed to new ways of organising social work in the frame of offender supervision, introducing proceedings such as delegation of services, outsourcing, subcontracting. Finally, a clear difficulty emerged during this workshop as it appears complicated in France to provide friendly criticism on probation since many practitioners and scholars consider it as a positive concept opposed to ‘bad prisons’ – even neutral axiology becomes challenging in times of passionate penal debates.</span></p>
+<p class="MsoNormal" style="text-align: justify;"><span lang="EN-US" style="mso-ansi-language: EN-US;">With around 40 participants, this high-profile workshop provided European perspectives with insights from Belgium, Germany and Switzerland and enabled some first comparisons on the different practices between two jurisdictions, but also between two local services (under the same national legislation or not). Regarding its European and comparative ambition, this workshop has fully found its place between the COST Action “Offender supervision in Europe” and the coming first world congress on probation next October in London where COST members will participate a.o. as key speakers. Let&#8217;s meet there and continue the discussion!</span></p>
+<p class="MsoNormal" style="text-align: justify;"><i style="mso-bidi-font-style: normal;"><span lang="EN-US" style="mso-ansi-language: EN-US;">Pascal Décarpes</span></i><span lang="EN-US" style="mso-ansi-language: EN-US;"> (University of Greifswald, Germany), COST member (Working Group 3), Substitute member of the management committee.<a name="_GoBack"></a></span></p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jun</div>
+	            			    <div class="day">7</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/read-our-first-annual-newsletter#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/read-our-first-annual-newsletter" rel="bookmark">Read our first Annual Newsletter</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/read-our-first-annual-newsletter" rel="bookmark"></a>
+		                              
+	                        <p>The dust has settled a little after all of the excitement of the Liverpool conference. Some of the core group of the Action (which is the working group leaders and other &#8216;office bearers) met recently both to review our progress in our first year of work and to plan for year 2. My last post detailed my own reflections after that meeting, but you can now find a more detailed account of our progress in each working group and plans in our first annual newsletter. Please read it, share it widely with anyone who might be interested, and let us know what you think. You&#8217;ll find it on our documents and resources page.</p>
+<p>&nbsp;</p>
+<p><a href="http://www.offendersupervision.eu/wp-content/uploads/2013/06/OSE-Newsletter-final.pdf"> </a></p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">May</div>
+	            			    <div class="day">31</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/looking-back-looking-forward-looking-across#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/looking-back-looking-forward-looking-across" rel="bookmark">Looking Back, Looking Forward, Looking Across</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/looking-back-looking-forward-looking-across" rel="bookmark"></a>
+		                              
+	                        <p>The first year of the Action has been a busy one. Forming the Management Committee, allocating roles, setting up the Working Groups, building relationships with our partners (especially CEP – the European Probation Organization <a href="http://www.cep-probation.org/">http://www.cep-probation.org/</a>), planning and running our meetings and preparing the conference – all of these were challenging tasks. But the main job was to complete the review of research that we had promised. Individuals and teams of researchers completed dozens of valuable reports that were then synthesized and presented by our erstwhile Working Group leaders. Many of these are now publically available on on the documents and resources page.</p>
+<p>The Working Group leaders are now drafting briefing papers summarizing their syntheses of European research on offender supervision; we’ll publish those on the website in July. But they are also hard at work, along with the Chair and Vice-Chair of the Action, on our first book, <b>‘Offender Supervision in Europe’</b>, which will be published by Palgrave in January 2014.  Beyond these planned outcomes, we already have members of the Action collaborating on the production of special issues of journals and on bids for funding for empirical research. Perhaps most importantly, we have forged the strong relationships from which our future collaborations will grow.</p>
+<p>At the same time, we are advancing our plans for Year 2. Last year we held meetings in Belgium, England, France and Scotland; next year takes us to Slovakia, Malta and Sweden for two Working Group Meetings and one meeting of the Core Group (of WG leaders and other office-bearers).</p>
+<p>The Liverpool conference left us all clear that the job that lies ahead is a daunting but inspiring one. As David Nelken told us, to climb the mountain before us, we need to be clear what we are comparing <i>for</i> before we can determine exactly <i>how</i> we should undertake the task. I’ve been reflecting on that helpful challenge ever since and I’m clear about the answers. As we noted on page 2, our overarching goal is ‘<b>to increase and deepen knowledge about offender supervision</b><b>, so as to better understand its evolution and development…’</b><b> </b>We are not comparing in order to standardise our ‘harmonise’ offender supervision; rather we want to better understand and explain the diversity of institutions, cultures and practices of supervision that exist in our continent.</p>
+<p>Why does that kind of analysis matter? Part of the answer is that without a properly critical understanding of supervision, we can’t properly inform its future development. In this sense, our challenge is the one that increasingly confronts anyone interested in ‘civic or public social science’; that is, how can we apply our knowledge and skills to the task not just of improving policy and practice but of informing public debate and democratic deliberation about pressing social issues. In our case, these are issues of punishment and crime control that test the proper limits of state authority, the capacities of civil society, and the rights and duties of citizens. The stakes could hardly be higher.Year 2 is about imaging and then developing better approaches to the project of comparative criminal justice. In this respect, I think we are a group of ‘go-betweens’. A book with that title opens with the famous line, <b>‘The past is foreign country; they do things differently there.’</b> The narrator of the story is a man who, as a boy, was used as a go-between (or messenger) between two lovers kept distant by social class and cultural difference, and by the power of repressive social institutions. But the narrator himself is also an old man reflecting on the boy that he once was. Like him, we face the challenge of making sense of ourselves in the past and the present, and of somehow moving between different institutions, cultures and practices, while carrying important messages. Hopefully those messages mean something; hopefully, they can help us to understand one another better, and to understand ourselves better. To me, that seems like a good path to the kind of progressive development that both enriches and challenges all of us.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">May</div>
+	            			    <div class="day">3</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/more-liverpool-reflections#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/more-liverpool-reflections" rel="bookmark">More Liverpool reflections</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/more-liverpool-reflections" rel="bookmark"></a>
+		                              
+	                        <div><em>This reflection on the recent conference comes from Martine Herzog-Evans, co-leader of our working group on Decision-making and Offender Supervision&#8230;.</em></div>
+<div></div>
+<div>Like Christine, I greatly enjoyed the conference. When I attend conferences, there’s usually a point where I get a little bored and start playing with my pen or doing something entirely different. None of that this time.</div>
+<div></div>
+<div>Every meeting with the colleagues who have become friends throughout the years is joyful and the mix of academics and practitioners, along with former supervisees &#8211; I prefer the French <i>justiciables</i> – is always intensively stimulating.</div>
+<div></div>
+<div>For the French Geordie that I am, any chance to go up North – even if my Mum would say Liverpool is still down South – is an added bonus.</div>
+<div>Since I also tend to note that glasses are half empty I could not help notice the gloomy atmosphere which was also in the background, not only of the conference, but also on the news (at the time of the conference I’d already been in England for 15 days): no more state probation + much less benefits… In France, I tend to praise England and Wales’ probation – well the good sides that is; no need to advertise what’s wrong – but that’s going to be really difficult now. I really felt for the practitioners who were there in the room!</div>
+<div></div>
+<div>Back in France I read the political programme of the right – which is currently in the opposition but will very likely be elected next time around – and guess what? They are planning to eliminate the JAP (<i>juge de l’application des peines</i>), i.e; our 68 year old sort of problem-solving/reentry court, which has much to teach other countries. That’s one of the rare things we did right and are planning to get rid of it?! Really, what is wrong with these people?</div>
+<div>So clearly, there’s a lot of ‘doom and gloom’ (Christine, that’s a Rolling Stone’s song) both sides of the English Channel.</div>
+<div></div>
+<div>I do hope our network can point to the more promising, efficient and human rights respectful practices that are out there in Europe to try and fight off the massive destruction operations which are being announced.</div>
+<div></div>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Apr</div>
+	            			    <div class="day">30</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/reflections-on-the-liverpool-conference#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/reflections-on-the-liverpool-conference" rel="bookmark">Reflections on the Liverpool Conference</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/reflections-on-the-liverpool-conference" rel="bookmark"></a>
+		                              
+	                        <p><em>This post comes from Christine Morgenstern, one of the leaders of our European Policy and Practice Working Group&#8230;</em></p>
+<p>Having a criminal record of delivering lengthy papers slightly after the deadline has expired, I go for a quick and short blogpost today. Well, I try…  It should not be too difficult after returning from or first international Offender Supervision in Europe Conference in Liverpool which was truly inspiring. So I’ll write about:</p>
+<ul>
+<li><b>Words I learnt:</b> I am always keen to deepen my knowledge of the English language and I may have understood now the difference between revocation and recall. I am still unsure with resettlement and reintegration but I know now what a &#8216;graveyard shift&#8217; is (though none of the sessions felt like one!). My favourite, however, was the K.I.S.S. principle &#8211; keep it simple, stupid. Lovely! Are there any motivational posters for scholars with that slogan?</li>
+<li><b>Feelings I had:</b> There were good vibrations (is that expression still in use? For further references, see: www.thebeachboys.com) throughout the whole event &#8211; during the sessions, during formal and informal discussions, coffee and lunch breaks, and Friday night on the dancefloor (although there were some tensions between academics and practitioners – we entered first, but practitioners did better in the end…). This enjoyable atmosphere that made you love your work had to do with academic and personal friendship within the network but in particular with the chair of the Action and also with the host of the event. The mixture of scholars coming from difference disciplines and different countries, practitioners, and &#8211; few, but impressive – (ex-) supervisees was great. This does not mean it was all harmony; we still have enough controversies &#8211; for example, whether you have to marry a practitioner from another jurisdiction to be truly enabled to do sensible and culturally sensitive comparative research. We also heard from a lot of deeply frustrating developments. Despite being an outsider and of course not having the full picture I cannot really imagine that something good can result from selling the English Probation service to multi-national companies (except more money for their shareholders, perhaps?). Two of our speakers also talked about utterly unfair or useless treatment they have experienced while under supervision – about individuals who treated them inadequately, a problem which will always be there, but also about structural problems that could and should be changed. Which leads me to&#8230;</li>
+<li><b>Insights I gained: </b>There were many. I just want to write about one, because it struck me at least three times during the conference, although the aspect was only mentioned as an aside. It is the question of having a criminal record which is accessible for future employers (or others) for a very long time or forever, even if the person concerned has stopped offending (for example, if I understood correctly, as part of the spent convictions scheme for people who served a prison sentence longer than 2 1/2 years). Examples came from England/Wales, Ireland and the US (for an Australian account see Saliba, www.ejprob.ro/index.pl/national_ian_2013). This of course seriously impedes desistance. My own country, Germany, has a lot of flaws and shortcomings with regard to the treatment of offenders.  But for most offences/sentences, including murder, the conviction will not be disclosed to private employers five years (ten for serious sex offenders) after the completion of the sentence (for other European states see www.ejprob.ro/index.pl/january_2011. Hey Raymond, this may answer your question?!). How on earth can a practice as described during the conference be justified by a state like the UK that at the same time has beautiful (and expensive) programmes to help ex-offenders to resettle in the community?! Why is this legislation/practice not abolished? It would, at no financial cost, make desistance easier for many. Of course I know the political answer. Still this practice should be named and blamed as being hostile towards the ex-offender, hostile towards those who try to help him to desist, and useless, even counterproductive, with regard to the safety of the community. The state in that way – and now you’ll learn a German saying – ‘tears down with his ass what he has built with his hands…’</li>
+</ul>
+<p>&nbsp;</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Apr</div>
+	            			    <div class="day">22</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/conference-preparations-and-reviewing-progress#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/conference-preparations-and-reviewing-progress" rel="bookmark">Conference preparations and reviewing progress</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/conference-preparations-and-reviewing-progress" rel="bookmark"></a>
+		                              
+	                        <p>It&#8217;s been a busy few weeks for most of us involved with the Action. In advance of the conference, working group leaders and members have been trying to work out how on earth to summarise and present in about 40 minutes everything that we have learned from a year of reviewing research from across Europe on our four themes: experiencing supervision, decision-making and supervision, practising supervision, and European policy and practice. Having had sight of their draft presentations, I think they have done a brilliant job and I&#8217;m eager to hear how conference attendees will respond to their work.</p>
+<p>Meanwhile, Tim McBride (our erstwhile administrator) has been working extremely hard to put the practical arrangements in place for everyone to ensure that the conference runs smoothly. We now have about 150 people attending, about half and half academics and practitioners. As of today we have enlisted some extra help from Paul McGuinness &#8212; one of our postgraduate researchers whose own project is an ethnography of community payback in Scotland. Paul has been putting together the conference packs.</p>
+<p>Not that I&#8217;ve been sitting back&#8230; As well as putting together the conference programme and trying to make sure everyone knows their part (if not their lines!), I have had to complete the first annual monitoring report on the work of the Action; quite a tricky task ahead of the presentation of all of our findings. But, deadlines are deadlines, and so the report is now complete and is available for anyone interested on our Documents and Resources page (just click on the link in the bar above). You&#8217;ll also find short reports from each working group there.</p>
+<p>The final conference programme is now available on the &#8216;International Conference&#8217; page, as are the speakers&#8217; biographies. It&#8217;s quite a line up and promises to be a great event.</p>
+<p>&nbsp;</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Apr</div>
+	            			    <div class="day">2</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/the-shape-of-re-entry-probation-and-the-penal-field-in-minnesota#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/the-shape-of-re-entry-probation-and-the-penal-field-in-minnesota" rel="bookmark">The Shape of Re-Entry: Probation and the Penal Field in Minnesota</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/the-shape-of-re-entry-probation-and-the-penal-field-in-minnesota" rel="bookmark"></a>
+		                              
+	                        <p><em>This guest post comes from the second speaker in the opening plenary at our upcoming conference, Joshua Page of the University of Minnesota.</em></p>
+<p>In Spring 2007, I interviewed three young African American men serving time in a juvenile correctional facility in Minnesota. Michael, Jerome, and Scottie were locked up for serious crimes (respectively: gun possession and burglary, distribution of crack cocaine, and robbery). Over the subsequent five years, I have conducted interviews and ethnography with the three as they’ve sought to “make it”—to establish crime-free, satisfying lives—after serving juvenile time.</p>
+<p>These young men were sentenced under a law called “Extended Juvenile Jurisdiction” (EJJ). (They were juveniles when sentenced, but adults when I began interviewing them.) Minnesota passed the Juvenile Crime Act that created EJJ (also known as the “Serious Youthful Offender” law) in 1994. EJJ provided an intermediate category between the juvenile and adult courts.</p>
+<p>The idea for EJJ came out of a task force that had been convened in response to public and political pressure in Minnesota and across the United States. There was a strong perception that there had been a surge in serious juvenile crime committed by racial minorities. In other states, opportunistic politicians used the moral panic to pass “tough on crime” measures that made it easier to transfer youths to adult court and sentence them to adult prisons. Minnesota, however, created EJJ as a <i>compromise</i> to satisfy both influential actors who wanted harsher sanctions for “serious youthful offenders” and those who wanted to keep kids in the juvenile system and offer them rehabilitative services. In this climate, EJJ was a relatively progressive alternative.</p>
+<p>This EJJ legislation was a product of Minnesota’s penal field, a semiautonomous social space in which actors with different amounts and types of resources struggle to determine penal priorities, policies, and practices (one might picture a sporting field; but a sporting field in which the boundaries, rules, and goals of the game are continually challenged). Minnesota’s penal field differs from the penal fields in other states, and several of its key characteristics shaped the development of EJJ:</p>
+<ul>
+<li><i>Power of Traditional Experts and Expertise: </i>As in other states, politicians and law enforcement groups (including prosecutors) hold dominant positions in Minnesota’s penal field. However, traditional experts with have academic and penological expertise (especially legal scholars, criminologists, and criminal justice professionals) <i>also</i> occupy relatively strong positions in Minnesota’s penal field—this is not the case elsewhere. Although subordinate to legislators, law enforcement, and prosecutors, these traditional experts (who often form alliances with defense attorneys and advocacy groups) influence the nature and outcomes of penal policy deliberations.</li>
+</ul>
+<ul>
+<li><i>Deliberative Decision-making: </i>A dominant principle of Minnesota’s penal field is its commitment to deliberative decision-making over knee-jerk, populist legislating. Hence, Minnesota was the first state to develop a Sentencing Commission to create and monitor binding sentencing guidelines. The <i>modus operandi</i> is to form task forces and administrative bodies comprised of diverse “stakeholders” to hash out penal policy proposals that the legislature passes, tweaks, or rejects. This process limits (though it can’t eliminate) spontaneous, populist lawmaking.</li>
+</ul>
+<ul>
+<li><i>Managerial Orientation: </i>The principle of “public safety” (and its twin, “victims rights”) gained stature in Minnesota and other states’ penal fields in the ‘90s. The “rehabilitative ideal” decreasingly oriented practice, though proponents of rehabilitation continued to struggle for correctional programs and practices. While public safety and, to a lesser extent, rehabilitation are important principles in the contemporary field, “managerialism” is the dominant orientation. Minnesota’s emphasis is on risk management, cost-savings, and judiciousness.</li>
+</ul>
+<p>So, Extended Juvenile Jurisdiction was a product of the unique configuration and orientation of Minnesota’s penal field. Although Minnesota faced similar pressures as other states to toughen up on young offenders, Minnesota produced a novel “solution.” Rather than simply transfer “serious youthful offenders” to prison, judges could give them a blended sentence: a stint in a juvenile correctional facility and intensive probation until the age of 21—with the threat of prison time hanging over their heads if they messed up (and the promise that the adult sentence would be dropped if they completed their probation successfully).</p>
+<p>Although the EJJ compromise arguably keeps some young people from going to adult prison, it also makes their re-entry very difficult. Michael, Scottie, and Jerome served time in a rehabilitative facility that made them optimistic about future prospects. However, when they returned to the community, they lacked the social, economic, and cultural resources necessary to establish solid footholds in conventional institutions (especially work).</p>
+<p>Their “intensive probation” was set up to manage them as risks. After all, the young people were deemed “the best of the worst of the worst.” It was not meant to attend to their individual needs and desires. Without assistance from probation (or other sources), Scottie and Jerome quickly became despondent and returned to crime. Michael was lucky: his probation officer (an exception that proves the rule) helped him acquire work and housing that aided his re-entry. But it’s clear that, for most young offenders, EJJ’s hybrid structure of juvenile treatment and intensive supervisory probation, well-meaning as it is, actually sets them up for disappointment and depression, if not prison time.</p>
+<p>Now Extended Juvenile Jurisdiction, a product and reflection of Minnesota’s penal field, shapes (though doesn’t fully determine) the nature of probation that “young serious offenders” experience. The ineffective combination of intensive supervision and a lack of meaningful assistance is not the fault of individual probation officers. Rather, it’s a product of policy generated in a particular place in a particular historical moment. The field, then, structures both the development and implementation of probation and other penal policies. Meaningful reform, therefore, requires altering the field’s composition, assumptions, and principles—not simply demonstrating that individual policies “don’t work.”</p>
+<p>&nbsp;</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Mar</div>
+	            			    <div class="day">6</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/the-paradox-of-probation-understanding-probation-expansion-during-the-prison-boom#respond">2 Comments</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/the-paradox-of-probation-understanding-probation-expansion-during-the-prison-boom" rel="bookmark">The Paradox of Probation: Understanding Probation Expansion during the Prison Boom</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/the-paradox-of-probation-understanding-probation-expansion-during-the-prison-boom" rel="bookmark"></a>
+		                              
+	                        <p style="text-align: left;" align="center"><em>This guest post comes from another of our conference keynote speakers, Michelle Phelps, who is currently a PhD candidate at Princeton University but will soon take up a post as Assistant Professor of Sociology at the University of Minnesota.</em></p>
+<p style="text-align: left;">Over the past 4 decades, the United States embarked on an unparalleled expansion of imprisonment, earning a dubious international reputation for being the world’s leader in incarceration. Between 1980 and 2010, the number of individuals incarcerated in state prisons increased from 300,000 to 1.3 million persons.  As this expansion of “mass incarceration” developed, scholars took note, describing the causes and consequences of this profound shift.</p>
+<p style="text-align: left;">And yet, scholars have paid relatively little attention to the even larger expansion of probation—a form of community supervision that allows individuals convicted of crimes to serve their time in their home communities. In fact, the development of mass incarceration paled in comparison to the enormous increase in what I term “mass probation.” Between 1980 and 2010, the number of individuals under state probation supervision in the U.S. increased from 1.1 to 4.1 million persons. Surprisingly, American scholars have largely neglected this expansion, leaving unanswered many questions about the rise of mass probation and its meaning for understanding contemporary punishment.</p>
+<p style="text-align: left;">In my talk at the conference, I will focus on two key “paradoxes” around probation:</p>
+<p><b>1. Does the expansion of probation help to reduce—or expand—incarceration rates? </b>Much of the public policy talk around probation defines it as an “alternative to prison” that diverts cases away from incarceration and towards imprisonment. Advocates for expanding probation have consistently argued that probation is more cost-effective form of supervision that provides a better chance for individual rehabilitation. However, a more critical tradition from sociology suggests that while probation may intend to divert individuals from prison, in practice, it serves as a “net-widener” that increases punishment for low-level offenses. Further, once inside of this “net,” critics argue that probationers become more susceptible to future imprisonment due to the increased restrictions and monitoring of probation supervision.</p>
+<p><b>2. </b><b>How do we understand the expansion of an “alternative” sanction during the prison boom? </b>Given the focus in the U.S. of incapacitating an ever-growing prisoner population during this period, it is surprising that probation—which long held ties to the “rehabilitative ideal” in corrections—rapidly expanded. Despite the focus on the prison boom and mass incarceration, probation remains the most prevalent form of supervision. Other scholars at the conference (Gwen Robinson, Fergus McNeill, and Shadd Maruna) have referred to this as the “improbable persistence of probation.” I analyze this theoretical puzzle through the lens of the U.S. experience—a notable case study given its extreme push for more and tougher criminal sanctions.</p>
+<p style="text-align: left;">In answer to both riddles, I argue that we must understand probation as a complex institution, occupying a liminal space between rehabilitative and punitive ideologies and practices. Using quantitative national data and case studies of probation in individual states, I argue that probation <i>both</i> embodies the rehabilitative impulse to provide a more lenient, progressive, and supportive form of criminal justice supervision and the punitive impulse to surveil vast swaths of the population—particularly in urban spaces. Similarly, probation both helps to divert individual cases away from prison and to expand the net of carceral control. Rather than trying to answer the question of punitive vs. rehabilitative, or net-widener vs. prison alternative, researchers must instead investigate when, where, and how probation serves these diverse ends—and how the two logics collide and intertwine. My talk will offer a first look at these answers in the U.S. context and provide an outline for future research.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            
+	            <div class="navigation"><p><a href="http://www.offendersupervision.eu/page/5" >&laquo; Previous Page</a> &#8212; <a href="http://www.offendersupervision.eu/page/7" >Next Page &raquo;</a></p></div>
+				
+			</div>
+	        
+	        	        
+	        	    		    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    		    	
+	        <h3 class="title">Working Groups</h3>
+	    	<div class="post second">
+	    	
+				<!-- First Box -->
+					            								
+				<!-- Second Box -->
+					            					<div class="holder double second">
+						<div class="article">
+		                    <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/the-detailed-structure-of-the-experiencing-supervision-reports" rel="bookmark"></a>
+		                    <h2 class="hpboxes cat2"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></h2>
+	                        <h3 class="headline smaller"><a href="http://www.offendersupervision.eu/blog-post/the-detailed-structure-of-the-experiencing-supervision-reports" rel="bookmark">The detailed structure of the Experiencing Supervision reports</a></h3>
+	                        <h6 class="text-date">Tuesday, October 23, 2012</h6>          
+	                        <p>For those of you in (or interested) in the Experiencing Supervision group, here is the structure that we agreed in Brussels for the country reports on this topic (which&#8230;</p>
+	                    </div>
+	                </div>
+					            				
+				<!-- Third Box -->
+					            								
+				<!-- Fourth Box -->
+					            								
+				
+				
+				
+				
+				
+				
+	        </div>
+	        	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+		</div> <!-- close homepage --> 
+	</div> <!-- close eight columns --> 
+
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-4" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-4">Archives</label>
+		<select id="archives-dropdown-4" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-2" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div><div id="recent-comments-3" class="widget widget_recent_comments"><h4>Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://herzog-evans.com' rel='external nofollow' class='url'>Martine Herzog-Evans</a></span> on <a href="http://www.offendersupervision.eu/blog-post/how-15-years-can-become-3#comment-69201">How 15 years can become 30</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://herzog-evans.com' rel='external nofollow' class='url'>Martine H-Evans</a></span> on <a href="http://www.offendersupervision.eu/blog-post/consultation-on-european-rules-for-csm#comment-69200">Consultation on European Rules for CSM</a></li><li class="recentcomments"><span class="comment-author-link">Paul Doran</span> on <a href="http://www.offendersupervision.eu/blog-post/2nd-world-congress-on-community-corrections#comment-67478">2nd World Congress on Community Corrections</a></li><li class="recentcomments"><span class="comment-author-link">Fergus McNeill</span> on <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comment-63804">&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference</a></li><li class="recentcomments"><span class="comment-author-link">Peter Raynor</span> on <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comment-63803">&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference</a></li></ul></div>    
+</div>	</div>
+	
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pbd_alp = {"startPage":"6","maxPages":"8","nextLink":"http:\/\/www.offendersupervision.eu\/page\/7"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_5ee0a8d90e89afa4a3f0b21cce7a1995.js"></script></body>
+</html>

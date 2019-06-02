@@ -1,0 +1,948 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Offender Supervision in Europe - COST Action IS1106 - Part 4</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel='prev' href='http://www.offendersupervision.eu/page/3' />
+<link rel='next' href='http://www.offendersupervision.eu/page/5' />
+
+<link rel="canonical" href="http://www.offendersupervision.eu/page/4" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=613C1DB4BCD84E5C5B09133C796D6BBF');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="home blog paged custom-background paged-4">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<h1 id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></h1>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+
+</div> <!-- close container -->
+
+<div class="container">
+
+<div class="row">
+	
+	<div class="eight columns">
+		<div id="homepage">
+	    	
+	    		        
+	        <div class="post first">
+	            
+	            					            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Sep</div>
+	            			    <div class="day">26</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/robina-institute-of-criminal-law-and-criminal-justice-launches-probation-and-parole-initiatives#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/robina-institute-of-criminal-law-and-criminal-justice-launches-probation-and-parole-initiatives" rel="bookmark">Robina Institute Launches Probation and Parole Initiatives</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/robina-institute-of-criminal-law-and-criminal-justice-launches-probation-and-parole-initiatives" rel="bookmark"></a>
+		                              
+	                        <p><em><b>This guest post comes from Mariel Alper of the Robina Institute.</b></em></p>
+<p>There are two ongoing projects being conducted by the Robina Institute at the University of Minnesota Law School which closely parallel the work being done by the Offender Supervision in Europe COST Action. Focusing on states in the U.S. rather than countries in Europe, these projects seek to improve our understanding of probation and parole, as well as to inform the direction of correctional and sentencing reform movements in America.</p>
+<p>The Parole Release and Revocation Project examines the discretionary prison release and post-release violation processes. The decisions of parole boards to release prisoners and to revoke parole are important determinants of the prison population. Such decisions often define the severity of punishment and effect the rehabilitative and crime-control purposes of the criminal law. This project has three parts. The first part consists of publishing legal profiles of the relevant statutes governing parole in each state. The second part consists of conducting and issuing a comprehensive report drawing on a national survey of paroling authorities which examines their structure and powers, the current issues facing parole boards, and statistical information. The third part will involve three or more states joining as active participants in designing and implementing reform proposals to enhance release and revocation policy and practice in their systems. This project is guided by an advisory council consisting of representatives from the academic, criminal justice, and public policy community, as well as national and professional associations.</p>
+<p>The Probation Revocation Project aims to provide information and assistance to state and country jurisdictions that see the need to rethink their sentence revocation practices. Revocation practice is a critical segment of the current and growing national discourse on incarceration policy, including the most appropriate role prisons and jails should play. This project focuses on the revocation decision itself, as well as earlier stages of the process that determine the volume of cases that reach the juncture of potential revocation. Topics to be considered will include the standards governing eligibility for probation, alternatives to probation such as diversion programs, the range of probation conditions available to the sentencing judge and supervising authorities, the typical load imposed upon probationers, policies within probation offices for responding to violations, the processes available to adjudicate violations, the range of sanctions available, and any rules or guidelines that govern the sanctioning of violations. The project will help probation agencies consider the different models commonly found in other jurisdictions, while explicating the perceived advantages and disadvantages of various approaches. This project also consists of three parts. The first part consists of publishing legal profiles of the relevant statues guiding probation revocation in a sample of states. The second part consists of producing profiles of the actual practices, successes, and challenges of up to six study sites. The third part entails working closely with four to six sites to generate specific and workable options to improve their systems, along with an offer of assistance in adoption, implementation and evaluation. This project is guided by a Project Advisory Board comprised of scholars, researchers with expertise in community corrections, probation executives (including individuals from the study sites), judges, legislators, prosecutors, and defense counsel members.</p>
+<p>After meeting at the European Society of Criminology meetings, I believe there is much that the two groups can learn from each other. There are two upcoming events which may interest you. The first is a panel by the Robina Institute at the American Society of Criminology conference: Under-Examined Dimensions of Reentry, Release, and Revocation. It is scheduled for Friday, November 21st. The second event is a conference which will be held at the University of Minnesota Law School on May 1<sup>st</sup>. The theme of this conference is Divergent Worlds, Converging Worlds: Offenders&#8217; Lives in the Community. There should be more information available on our website in the coming months. For more information, see: <a href="http://www.robinainstitute.org/">Robina Institute</a></p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Sep</div>
+	            			    <div class="day">8</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/visual-meaning-reflections-from-our-amsterdam-meeting#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/visual-meaning-reflections-from-our-amsterdam-meeting" rel="bookmark">Visual meaning: Reflections from our Amsterdam meeting</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/visual-meaning-reflections-from-our-amsterdam-meeting" rel="bookmark"></a>
+		                              
+	                        <p><em>This guest post comes from Aline Bauwens (Vrije Universiteit Brussel) and Andrea Donker (Hogeschool Utrecht), who reflect on their recent meeting (with other colleagues from the Practising Supervision working group) in Amsterdam</em>.</p>
+<p>On 18th and 19th August 2014 the sub-group ‘Visual Methodology’ of Working Group 3 (Practising Supervision) met in Amsterdam. Andrea had made sure that the meeting could take place in an old traditional Dutch house, located in the heart of the famous and notorious ‘Red Light District’ in the city centre of Amsterdam. The hospitality of Andrea was very much appreciated by all. The choice for this lively city/place has undoubtedly created an enjoyable and inspiring working environment</p>
+<p>The focus of our one and a half-day meeting was to refine the methodological research questions which were put together at the Malta meeting, to describe in detail the data analysis process (including ethics and consent, gaining access and cooperation, sample, instructions given to research participants, translations of information sheets, data collection) and to start analysing the images of the five jurisdictions involved in the sub-group (Belgium, Croatia, England and Wales, Northern Ireland and the Netherlands).</p>
+<p>Prior to this meeting, it was proposed that the sub-group members read some articles on visual analysis (e.g. articles from the recent special issue of Theoretical Criminology on ‘Visual Culture and the Iconography of Crime and Punishment’ see: <a href="http://tcr.sagepub.com/content/18/2.toc">http://tcr.sagepub.com/content/18/2.toc</a>) and to bring the pictures which were taken by the research participants.</p>
+<p>Whilst recent years have seen a resurgence of interest in the use of visual research methods throughout the social sciences (e.g. media and cultural studies, educational studies, criminology, human geography, etc.), it is not always as straightforward and unproblematic how to analyse visual data.</p>
+<p>More specifically, our sub-group has to study the analysis of pictures specially produced for research purposes. Such images are produced to serve as records for reality. The reality of the research participants; not necessarily the reality of us, the researchers. Jenkings et al. (in Knoblauch et al., 2008: 5) note from their visual research that while ‘the majority of the participants do not tend to have an analytic view of their photographs, they do have an “account”’. In other words, the participants do have a story to tell us and provide us with windows on their practice. For all of us, it was after the telephone/face-to-face interview with the participant, discussing the pictures, that an initial version of their meaning(s) of the picture was co-produced. We all felt that this interview was extremely useful as it limited the risk of misinterpretation as well as over-interpretation.</p>
+<p>This brings us to the issues of representation and the importance of the relationship between content and context. Although the Belgian participants mentioned that the pictures illuminated the geography and spaces of probation practice, they felt that the context of their work got lost in their pictures. Not being able to take pictures including people (NB given the instruction on ethics provided), they felt hampered in trying to show the fundamentals of their work. They work daily with people. Some Dutch photographs did include people (professionals from the Dutch probation service) and it must be said that the presence of people brought the pictures to life, as is the case with this blog.</p>
+<p>In the place where we met, there was no Internet access, preventing us from being distracted by emails, updates and other social media messages, and creating a great atmosphere for talking and discussing. The discussions we had offered us insight in the wide range of questions that were triggered by looking at all the pictures, not in the least caused by our own cultural bias but also by the way things are done differently in different jurisdictions and in different probation services. It quickly became obvious that discussing the pictures of our two non-present members would raise too many questions; questions we felt that we were not able to answer correctly. In the end, we decided to create a new categorisation for visual data analysis and made an attempt to re-code some photographs accordingly. Furthermore, we agreed that we would each create an inventory of the pictures of our research respondents, and recode our pictures into the new categories prior to the next meeting in Belfast in October 2014.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jul</div>
+	            			    <div class="day">28</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/prisoners-view-of-surveillance-technologies-in-austria-and-in-portugal#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/prisoners-view-of-surveillance-technologies-in-austria-and-in-portugal" rel="bookmark">Prisoners&#8217; view of surveillance technologies in Austria and in Portugal</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/prisoners-view-of-surveillance-technologies-in-austria-and-in-portugal" rel="bookmark"></a>
+		                              
+	                        <p><em>This guest post comes from the latest addition to the Action &#8211;Portugal &#8212; and from the newest member of our Management Committee, Helen Machado.</em></p>
+<p>I am a professor of Sociology at the University of Minho and a researcher at the Centre for Social Studies at the University of Coimbra in Portugal. In my capacity as a recent new arrival to the working group “Experiencing supervision”, I am trying to catch up with the group’s work. I was impressed by the amount of work already done in terms of collective publications and creative thinking about methodologies and comparative analysis in different national jurisdictions.</p>
+<p>Following Fergus McNeill’s kind suggestion, I thought that a good way of introducing myself to the Action would be to describe part of my work with prisoners and their respective views about surveillance technologies. Together with the political scientist Professor Barbara Prainsack (King’s College, London) I conducted a comparative study involving in-depth interviews with a total of 57 prisoners in two prisons in Austria and in three prisons in Portugal. Results of this comparative study were published as a book, <em>Tracing Technologies. Prisoners’ views in the Era of CSI</em> (Ashgate, 2012).</p>
+<p>The main focus of this book were prisoners’ understandings of technologies used in the context of criminal investigation and criminal justice (‘tracing technologies’), including DNA analysis, fingerprints, photos, CCTV cameras and any other data retrieved from the body). Nevertheless, our research required us to seek additional information from practitioners in the criminal justice system. We interviewed attorneys, public prosecutors, police officers and criminal investigators who provided technical clarifications about legislation, criminal investigation and trial procedures. These informants also provided valuable information about the role that forensic identification technologies play in their practices, and about the use of police archives and databases containing various sorts of data – from DNA profiles and samples, to criminal psychological profiles, photos and biographical details about active criminals. We also collected and analysed documents and media coverage of criminal cases that had a high exposure to the public and which involved a relevant role of DNA technologies.</p>
+<p>There were many challenges that Barbara and I had to face in this adventure of doing comparative work. The first challenge was to deal with the fact that we were trying to conduct comparative research on two case studies which represent two very, very different contexts for the forensic uses of DNA technologies in particular: One country, Austria, having established one of the world’s first DNA databases in the mid 1990s, and the other one, Portugal, having only recently established such a tool for criminal investigation. These two national case studies also presented deep differences in the discursive, political, operational, and also historical contexts, in which forensic DNA technologies and criminal databases are utilised by law enforcement agencies. Socio-economic parameters, such as unemployment rates and GPD (Gross Domestic Product), also highlight huge differences between the two countries.</p>
+<p>Despite the obvious differences between the two national case studies, there were also significant similarities, especially when we compare these countries to systems outside of continental Europe: Both Austria and Portugal are countries where prisons are state-run, and market forces do not play a large role in service provision (also in the context of criminal investigation  provision of forensic expertise is largely restricted to state-run or state-affiliated institutions). Moreover, neither in Portugal nor in Austria does crime dominate public media and public policy agendas to the extent that it is the case in the UK or in the USA, for example. Finally, both Austria and Portugal are countries with a ‘deep state’, without a strong tradition of transparency and openness in policy making, and with informal networks playing a large role in the distribution of political and administrative functions. Similar to many other countries in the world, there is a growing public sentiment in Austria and Portugal about corruption being on the rise, and that anti-corruption measures undertaken by their governments are often not very effective.</p>
+<p>Many other challenges besides differences and similarities between the two national cases had to be faced by Barbara and me in writing this book together: not only the traditional headaches of doing comparative work but also language issues. Barbara had the transcription of her interviews in German and I have mine in Portuguese, and we had to resort to English to communicate with each other and to write the book. Many times I felt “lost in translation”.</p>
+<p>Perhaps the most prominent challenge that we had to face was to use qualitative methodologies applied to a detailed empirically grounded study. Most of the social sciences comparative work has been done at macro-levels and resorted to quantitative methodologies, which helps with the systematization of the analysis and discussion of the results. However, our choice to use a “grounded theory approach” – by which the objective is to raise new concepts from the empirical reality under observation – turned out to be our best ally. Without the shackles of a large theoretical apparatus and analytical model defined <em>a priori</em> we were able to reflect on our data with greater open-mindedness and flexibility.</p>
+<p>One of the biggest lessons I learned from this comparative work was humility – something that I suppose is very similar to what Christine has described as one of the “pains and sorrows” of doing comparative work. Perhaps due to the naivety of a beginner in making national comparative analysis by using a qualitative methodology, I was very surprised by the fact that at the end we found more similarities than differences in the narratives of the Austrian and the Portuguese prisoners. We are very easily tempted to look at our surrounding and familiar contexts as having a sort of idiosyncratic nature. I dare say that in comparative work we risk finding more insights of a cross-cultural and transnational relevance, rather than being generated by a configuration of national idiosyncrasies.</p>
+<p>When embarking on a new adventure of doing comparative work in the context of the working group “Experiencing supervision” I will have a new ground to test if my theory is right or not. I look forward to it!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jun</div>
+	            			    <div class="day">30</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/spreading-the-word-about-the-action#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/spreading-the-word-about-the-action" rel="bookmark">Spreading the word about the Action</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/spreading-the-word-about-the-action" rel="bookmark"></a>
+		                              
+	                        <p><em>This guest post comes from Lol Burke of Liverpool John Moores University.</em></p>
+<p>Given that one of the core objectives of the COST project is to facilitate an exchange with those directly concerned with the delivery of offender supervision I took advantage of an invite to speak at the inaugural professional conferences of the Probation Institute in England and Wales to promote the work of the Action and disseminate some of the emerging findings from the working groups. The Probation Institute is a newly formed, independent not-for-profit organisation, which is aiming to become a recognised centre of excellence for probation practice and to develop a strong probation profession across private, public and voluntary sectors in the wake of the ‘Transforming Rehabilitation’ agenda in England and Wales. The events were held in London and York with over 320 practitioners attending.</p>
+<p>Having initially provided an overview of the working groups I discussed the scale and reach of community supervision across Europe and some of the challenges involved in undertaking comparative research across different jurisdictions. Drawing heavily on the chapter in Offender Supervision in Europe (McNeill and Beyens 2013) by Gwen Robinson and Kerstin Svensson (Robinson and Svensson, 2013) I then went on to discuss some areas of practice that were under-developed in research terms. These included the interactions and relationships between practitioners and other professionals including sentencers, the impact of professional training in shaping the working practices and values of those involved in offender supervision and the need for more research into the impact of diversity along the lines of gender, sexual orientation, ethnicity and age.</p>
+<p>One of the stated aims of the Probation institute is to establish strong links with academics through the commissioning and publishing of evidence-based reviews aiming to impact on policy and practice. In line with the core objectives of the COST action, I urged the Probation Institute to concern itself not only with issues of technical efficiency and effectiveness (as important as these are) but to also embrace more innovative methodologies that explore what it means in terms of the ‘lived experience’ of supervision both in terms of those delivering and those on the receiving end of it. Another strand of my presentation was around encouraging practitioner-led research and developing collaborative relationships with academic institutions to address locally based issues.</p>
+<p>At a recent meeting of the Probation Institute – attended by both researchers and practitioners there was a clear statement of intent in terms of involving practitioners in undertaking research themselves, and in collaboration with others, which could not only add credibility to evaluations in the eyes of the profession but also move the practitioner and research communities closer together. Amongst the ideas put forward to facilitate this included: commissioning reviews of evidence about what makes probation work effective and identifying where further research is needed; encouraging employers to allocate working time dedicated to professional self-development, training and learning/reading around evaluations into developing practice; providing a gradual introduction to research/evaluation methods, through for example practitioner research forums; promoting fellowships to undertake research; developing Frameworks for Continuing Professional Development (CPDs) promoted by the Institute with research components; supporting the uptake of Masters Level study for suitably qualified staff; involving volunteers and students to get a ‘taster’ in evaluating probation practice.</p>
+<p>Finally, I took the opportunity to consider what I saw as the challenges to professional practice in the new working environment created by Transforming Rehabilitation in England and Wales. As many probation observers across Europe will be aware, under the proposed changes the existing Probation Trusts will be replaced by a significantly smaller National Probation Service (NPS) dealing with the rump of high-risk public protection cases with the supervision and delivery of services to those offenders assessed as low and medium risk contracted to the 21 Community Rehabilitation Companies (CRCs) on a payment by results basis (Annison et al 2014). Many of the Government’s claims for expanding ‘Payment by Results’ across the majority of rehabilitative services appear to be based largely on the preliminary findings from the HMP Peterborough pilot but if ‘What Works?’ research taught us anything, it was that showcase pilots are often unreliable indicators of effectiveness when implemented on a larger scale. As Carol Hedderman – an acknowledged expert in such evaluations – has pointed out, there have been some rather large claims about success from a weakly designed reconviction analysis which was compared with a poorly matched national sample (Hedderman 2013). This to me seems symptomatic of a deeper malaise.</p>
+<p>As Paul Senior (2013) has noted &#8211; we have no model from Europe or anywhere else in the world for Transforming Rehabilitation to draw on. The challenges facing the National Probation Service and the Community Rehabilitation Companies in some respects will be the same (in terms of the need to develop robust systems and managing staff through difficult times); in some respects they will also be significantly different. For the NPS, whose work will now almost entirely be structured around risk, the issue will be how far it is able to extend its scope beyond one of monitoring and surveillance especially as it will be constrained by its new status as Crown Servants. Reports from within the Ministry of Justice that emerged last week that describe a climate of being ‘defensive, uninterested in evidence, and unwilling to subject itself to scrutiny’ (Dunt 2014) do not bode well in this respect. Rehabilitation might be more prominent in the CRCs but I guess the key question here is what rehabilitation will look like beyond the CRCs (presuming the contracts are eventually let). This could perhaps go either way. As new providers position themselves in the marketplace, it may be that innovative practices will emerge to set them apart and increase their chances of contract renewal or it may be that ultimately individuals are warehoused through supervision at the cheapest cost – the Probation institute could have an important role to play in ensuring that it is the former and not the latter.</p>
+<p><strong>References</strong></p>
+<p>Annison, J., Burke, L. &amp; Senior, P. Transforming Rehabilitation: Another example of English ‘exceptionalism’ or a blueprint for the rest of Europe. European Journal of Probation 6(1): 1-18.</p>
+<p>Dunt, I. (2014) Just how deep does Grayling’s hatred of the Howard League go? Politics.co.uk. http://www.politics.co.uk/blogs/2014/06/11/just-how-deep-does-grayling-s-hate-of-the-howard-league-go (accessed 28 June 2014)</p>
+<p>Hedderman, C. (2013) Payment by results: hopes, fears, evidence. British Journal of Community Justice, 11 (2/3): 43-58.</p>
+<p>McNeill, F. &amp; Beyens, K. (2013) (eds) Offender Supervision in Europe, Basingstoke: Palgrave Macmillan.</p>
+<p>Robinson, G. and Svensson, K. (2103) &#8216;Practising Offender Supervision&#8217; in  McNeill, F. &amp; Beyens, K. (2013) (eds) Offender Supervision in Europe, Basingstoke: Palgrave Macmillan.</p>
+<p>Senior, P. (2013) Privatising Probation: The Death Knell of a Much-Cherished Public Service? 16th Annual Bill McWilliams Memorial Lecture: Cambridge University.</p>
+<p>&nbsp;</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jun</div>
+	            			    <div class="day">30</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/penal-evolution-and-probation#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/penal-evolution-and-probation" rel="bookmark">Penal Evolution and Probation</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/penal-evolution-and-probation" rel="bookmark"></a>
+		                              
+	                        <p>A few months ago (perhaps as far back as last October), I posted the short version of a paper presented at the European Society of Criminology Annual Conference on &#8216;Probation and social solidarity&#8217;. The final version of the paper (co-authored with my colleague Matt Dawson) has just been published online in the British Journal of Criminology, under the revised title &#8216;Social Solidarity, Penal Evolution and Probation&#8217;. You can access the article free online at this link: <a href="http://bjc.oxfordjournals.org/cgi/content/full/azu042?">Social Solidarity, Penal Evolution and Probation</a></p>
+<p>If you can&#8217;t access the final published version of the article via that link, you can download the final draft here: <a href="http://www.offendersupervision.eu/wp-content/uploads/2014/06/McNeill-and-Dawson-sub-2014.pdf">McNeill and Dawson sub (2014)</a></p>
+<p>The abstract is as follows:</p>
+<p id="p-1">Compared to the sociology of the prison, the sociology of probation has been much neglected. In Europe and the United States, that neglect is beginning to be addressed by a number of scholars, both empirically and conceptually. Where these scholars have looked to the founding figures in the sociology of punishment, they have tended to examine probation through a Foucauldian or Marxist lens. This paper takes a different direction, re-examining Durkheim’s ideas about social solidarity and penal evolution to try to offer some analytical resources for making sense of probation’s historical development and contemporary struggles. In so doing, we hope to illustrate both the continuing value of Durkheimian analyses of penality and the need to extend such analyses beyond the prison. More broadly, we aim to briefly illustrate and to stimulate new cultural analyses of probation’s historical emergence and contemporary adaptations.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jun</div>
+	            			    <div class="day">18</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/probation-myths-realities-and-challenges#respond">1 Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/probation-myths-realities-and-challenges" rel="bookmark">Probation: Myths, realities and challenges</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/probation-myths-realities-and-challenges" rel="bookmark"></a>
+		                              
+	                        <p><em>This blog post is the text of a speech I delivered in Helsinki on 17<sup>th</sup> and 18<sup>th</sup> June at the 19<sup>th</sup> Council of Europe Conference of Directors of Prisons and Probation Services.</em></p>
+<p><strong>INTRODUCTION</strong><strong> </strong></p>
+<p>In very many jurisdictions in Europe and around the world, recent decades have seen very significant developments in relation to offender supervision in the community. Probation institutions (meaning those institutions responsible for implementing all sorts of community sanctions and measures (CSM) at whichever stage in the criminal justice process) have grown remarkably both in their scale and in their geographical reach. The forms of supervision that they deliver have also intensified so that probationers (meaning here those subject to CSM) now may face a range of different and more onerous conditions; for example, relating to residence in or exclusion from particular places, medical, psychiatric or psychological interventions, offending behaviour programmes, drug or alcohol related interventions, electronically monitored curfews, and so on.</p>
+<p>The rapid expansion of offender supervision (and its changing forms) has been remarkably under-researched, at least relative to the attention that has been paid to ‘mass incarceration’. However, recent efforts have begun to redress this neglect, partly under the auspices of the COST Action on Offender Supervision in Europe (IS1106: see <a href="http://www.offendersupervision.eu">www.offendersupervision.eu</a>) which I chair. That research network’s first book contains a brief, thematic review of the available European research on how supervision is experienced (by those subject to it) and practiced (by those who deliver it), as well as on associated decision-making processes and on the influence of European norms and standards (McNeill and Beyens, 2013).</p>
+<p>For many years now, advocates of probation expansion have developed and deployed a number of compelling arguments. Perhaps the most influential of these, at least in the European context, has been that probation represents a much more cost-effective way of dealing with many offenders than imprisonment. It also avoids many of the unintended criminogenic consequences of imprisonment (e.g. disrupting family ties, diminishing labour market participation, stigmatizing and alienating offenders). The best available evidence suggests that, in general, reconviction rates are slightly lower for CSM, even taking into account differences between the prison and probation populations. From a moral or principled perspective moreover, advocates argue (or assume) that probation is inherently less problematic than prison in terms of respect for human rights and human dignity, since it obviously damages the person (and their family) less and thus represents a more parsimonious and less destructive punishment. Of course, critics sometimes see this as a weakness and suggest that probation is insufficiently onerous to represent an adequate sanction for some offences and some offenders.</p>
+<p>Whilst I continue to regard myself as an advocate of the development of probation systems and practices, for precisely the sorts of reasons outlined above, my research and experience over the last few years has compelled me to qualify these arguments – and to call for more critical and measured sort of advocacy for probation; one that recognizes its potential costs and harms as well as its benefits. The question becomes less whether probation is a useful and constructive institution of justice and more <strong>under what conditions is probation a useful and constructive institution of justice</strong>?</p>
+<p><strong>THREE MYTHS AND AN ILLUSTRATION</strong></p>
+<p>Perhaps the simplest way to illustrate my reasoning is to reflect on the example of my own jurisdiction. The Scottish experience of the last 40 years is helpful in debunking three myths about probation:</p>
+<ol>
+<li>The growth of probation shrinks the prison population.</li>
+<li>Making probation ‘tougher’ and/or more ‘credible’ and/or more ‘effective’ and/or more ‘professional’ increases public and judicial support for it.</li>
+<li>Doing probation is easier for offenders than doing prison time.</li>
+</ol>
+<p>In Scotland, between 1977 and 2008-09 (the peak year) we witnessed a near nine-fold increase in community sanctions and measures (from just over 2,000 to about 18,000, and this figure excludes post-release supervision)[1]. Not only have the numbers of people under such supervision increased, the legal forms of supervision have multiplied, as have the range of conditions to which people can be subject. This remarkable growth has been achieved partly through Government investment in ring-fenced funding (since 1991) of the criminal justice social work services delivered by local authorities, through the implementation of national objectives and standards and through the development of social work education and training. In the last decade, rates of reconviction of those subject to CSM have declined (especially relative to those receiving custodial sentences). The credibility of criminal justice social work services has improved.</p>
+<p><a href="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions.png"><img class="lazy lazy-hidden alignnone  wp-image-653" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions-300x181.png" alt="Scottish sanctions" width="454" height="274" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions-300x181.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions.png 815w" data-lazy-sizes="(max-width: 454px) 100vw, 454px" /><noscript><img class="alignnone  wp-image-653" src="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions-300x181.png" alt="Scottish sanctions" width="454" height="274" srcset="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions-300x181.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions.png 815w" sizes="(max-width: 454px) 100vw, 454px" /></noscript></a></p>
+<p>However, over the same period, the number of custodial sentences in Scotland has also increased, from about 10,000 to about 16,000. This puzzling simultaneous rise in <em>both</em> probation <em>and</em> custodial sentences is largely explained by the dramatic decline in the use of financial penalties – from around 160,000 in 1977 (and 180,000 by 1983) to about 70,000 by 2008-09 (and less than 60,000 in 2012-13). Though it would take more detailed research to establish the precise relationships between the fates of the three main sorts of penalties (financial, supervisory and custodial), <em>prima facie</em> it seems that probation’s growth has, for the most part, displaced financial penalties rather than custodial sentences.</p>
+<p>In the Scottish case, this finding may be accounted for in part by reforms elsewhere in the justice system. Since more and more ‘low-level’ offences and offenders have been diverted from court processes altogether (often through fines or fixed penalties applied by prosecutors), the profile of the population coming to court for sentencing today is different from that in the 1970s. If that population now includes a higher proportion of more serious offences and offenders, then that might account for the decline of the fine <em>as court imposed sanction. </em></p>
+<p>However, since the total number of convictions has also fallen significantly in Scotland over the same period, the rise in the prison population, and the apparent failure of probation to do much to arrest that rise remains a matter of concern. Indeed, examining the data about the criminal histories of people receiving supervisory and prison sanctions in Scotland does not provide strong evidence that probation is successfully diverting higher tariff offenders:</p>
+<table width="411">
+<tbody>
+<tr>
+<td rowspan="2" width="92"><strong>Community Service Order (CSO)</strong></td>
+<td rowspan="2" width="106"><strong>Total number of all offenders = 100</strong></td>
+<td colspan="4" width="213"><strong>Number of previous convictions</strong></td>
+</tr>
+<tr>
+<td width="50"><strong>None </strong></td>
+<td width="55"><strong>1 or 2 </strong></td>
+<td width="52"><strong>3 to 10</strong></td>
+<td width="56"><strong>Over 10</strong></td>
+</tr>
+<tr>
+<td width="92">2007-08</td>
+<td width="106">3,501</td>
+<td width="50">35</td>
+<td width="55">25</td>
+<td width="52">29</td>
+<td width="56">11</td>
+</tr>
+<tr>
+<td width="92">2008-09</td>
+<td width="106">3,727</td>
+<td width="50">34</td>
+<td width="55">26</td>
+<td width="52">29</td>
+<td width="56">11</td>
+</tr>
+<tr>
+<td width="92">2009-10</td>
+<td width="106">3,631</td>
+<td width="50">36</td>
+<td width="55">24</td>
+<td width="52">29</td>
+<td width="56">11</td>
+</tr>
+<tr>
+<td width="92">2010-11</td>
+<td width="106">3,668</td>
+<td width="50">34</td>
+<td width="55">25</td>
+<td width="52">29</td>
+<td width="56">12</td>
+</tr>
+<tr>
+<td width="92"></td>
+<td width="106"></td>
+<td width="50"></td>
+<td width="55"></td>
+<td width="52"></td>
+<td width="56"></td>
+</tr>
+<tr>
+<td rowspan="2" width="92"><strong>Probation Order (PO)</strong></td>
+<td rowspan="2" width="106"><strong>Total number of all offenders = 100</strong></td>
+<td colspan="4" width="213"><strong>Number of previous convictions</strong></td>
+</tr>
+<tr>
+<td width="50"><strong>None </strong></td>
+<td width="55"><strong>1 or 2 </strong></td>
+<td width="52"><strong>3 to 10</strong></td>
+<td width="56"><strong>Over 10</strong></td>
+</tr>
+<tr>
+<td width="92">2007-08</td>
+<td width="106">4,634</td>
+<td width="50">23</td>
+<td width="55">23</td>
+<td width="52">35</td>
+<td width="56">19</td>
+</tr>
+<tr>
+<td width="92">2008-09</td>
+<td width="106">5,150</td>
+<td width="50">23</td>
+<td width="55">23</td>
+<td width="52">36</td>
+<td width="56">18</td>
+</tr>
+<tr>
+<td width="92">2009-10</td>
+<td width="106">5,048</td>
+<td width="50">21</td>
+<td width="55">24</td>
+<td width="52">35</td>
+<td width="56">19</td>
+</tr>
+<tr>
+<td width="92">2010-11</td>
+<td width="106">4,597</td>
+<td width="50">20</td>
+<td width="55">22</td>
+<td width="52">37</td>
+<td width="56">21</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="411">
+<tbody>
+<tr>
+<td rowspan="2" width="92"><strong>Discharged from custody</strong></td>
+<td rowspan="2" width="106"><strong>Total number of all offenders = 100</strong></td>
+<td colspan="4" width="213"><strong>Number of previous convictions</strong></td>
+</tr>
+<tr>
+<td width="50"><strong>None </strong></td>
+<td width="57"><strong>1 or 2 </strong></td>
+<td width="50"><strong>3 to 10</strong></td>
+<td width="57"><strong>Over 10</strong></td>
+</tr>
+<tr>
+<td width="92">2007-08</td>
+<td width="106">7,060</td>
+<td width="50">12</td>
+<td width="57">11</td>
+<td width="50">32</td>
+<td width="57">46</td>
+</tr>
+<tr>
+<td width="92">2008-09</td>
+<td width="106">7,404</td>
+<td width="50">12</td>
+<td width="57">11</td>
+<td width="50">31</td>
+<td width="57">46</td>
+</tr>
+<tr>
+<td width="92">2009-10</td>
+<td width="106">7,432</td>
+<td width="50">12</td>
+<td width="57">10</td>
+<td width="50">32</td>
+<td width="57">46</td>
+</tr>
+<tr>
+<td width="92">2010-11</td>
+<td width="106">7,289</td>
+<td width="50">12</td>
+<td width="57">10</td>
+<td width="50">29</td>
+<td width="57">49</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>A recent US research study has helped us to better understand the complexities of the relationships between probation and prison growth. Based on an analysis of data across all US states and over 30 years (from 1980-2010), Phelps (2013) concludes that, under different conditions, probation can be both a genuine alternative to imprisonment and a form of net-widening. The following figure sets out the key conditions and relationships which affect the which of these outcomes arises:</p>
+<p><a href="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model.png"><img class="lazy lazy-hidden alignnone  wp-image-652" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model-300x184.png" alt="Phelps model" width="355" height="218" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model-300x184.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model.png 824w" data-lazy-sizes="(max-width: 355px) 100vw, 355px" /><noscript><img class="alignnone  wp-image-652" src="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model-300x184.png" alt="Phelps model" width="355" height="218" srcset="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model-300x184.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model.png 824w" sizes="(max-width: 355px) 100vw, 355px" /></noscript></a></p>
+<p><em>Phelps (2013: 58)</em></p>
+<p>There is too little space to elaborate these relationships properly here, but perhaps the key point is that reforming probation itself (for example, in relation to its effectiveness, or its approach to breach and violation of conditions, or even in relation to its symbolic and expressive aspects) is an insufficient means of seeking to reduce prison populations. The wider structural contexts and the ways in which sentencing processes are governed and implemented are also crucial influences on outcomes. In order for probation to reduce prison populations and to avoid a net-widening effect, its systemic context needs to facilitate and incentivize penal reductionist goals (through political and sentencing reform); it needs to be effectively targeted; its practices need to be effective; and its management of breach/violations needs to be careful and considered.</p>
+<p>In the Scottish case, some similar findings emerged from small scale research into efforts to establish Probation Alternative to Custody projects in the 1980s and 90s (Creamer, Hartley and Williams, 1992). When intensive probation was carefully targeted, when pre-sentences reports were well-prepared, and when judges had confidence in the quality of the supervision, probation could exercise an influence for penal reductionism.</p>
+<p>The recent Scottish Prisons Commission (2008) drew on similar arguments and evidence to recommend not just internal reforms to the organization and practice of criminal justice social work, but also <em>systemic</em> reforms to sentencing, emphasizing of the centrality of reparative, community-based sanctions not as alternatives to prison, but as the default penalty (except for those who commit serious offences or present significant risks to public safety). The subsequent introduction of some of the proposed reforms and specifically of the Community Payback Order (in 2010-11) does seem to have had some effect in reducing the use of short-term prison sentences, though we await a full evaluation of these reforms.</p>
+<p>The final myth I mentioned above relates to public (and sometimes judicial) misperceptions about the demands that probation (and other CSM) make of those subject to them. Although I noted at the outset how increasingly onerous conditions have become a part of sentencing options in many jurisdictions – both for ‘front-door’ CSM and for post-release (‘back-door’) supervision – both probation’s advocates and its critics tend to stress its ‘helping’ aspects. And indeed, the available research of the experiences of those supervised tends to stress its positive aspects and effects (Durnescu, Enengl and Grafl, 2013). However, although such research is affected by problems of possible selection bias (i.e. those with more positive experiences and who are complying with supervision are likely to be over-sampled), it is also reveals ‘holding’ and ’hurting’ aspects of supervision (see McNeill, 2009). While ‘holding’ can imply both constraint and support, both recent research on the pains of probation (Durnescu, 2011) and historical research (McNeill, 2009) makes clear that that probation can and does often cause forms of suffering – whether legitimate or illegitimate and whether intended or unintended.</p>
+<p>Offenders in several jurisdictions have reporting finding supervision – and the conditionality with which it is commonly associated (Turnbull and Hannah-Moffat, 2009) – increasingly burdensome. Indeed, there is evidence that significant proportions of those with experience of both community-based and custodial sanctions find the latter easier to deal with – at least in certain respects. Thus, for example, in Scotland, Armstrong and Weaver (2011) found that some respondents regarded short prison sentences, whilst damaging in many respects, represented respite from chaotic lives. Though they regarded CSM as more constructive sanctions, this did not mean they regarded them as easier to negotiate; indeed, they pointed out the challenging and demanding aspects of supervision. Other studies have suggested that some offenders actively prefer the apparent simplicity and clarity of doing their jail time to the intrusions and complexities of supervision. In particular, they fear ending up suffering more severe sanctions as a result of violating conditions (May and Wood, 2010; Payne and Gainey, 1998).</p>
+<p><strong>CONCLUSION</strong></p>
+<p>In my own work in recent years, I have often argued – both directly and indirectly – that prison represents an unpromising context for seeking to support desistance from crime (e.g Weaver and McNeill, 2007). It follows that if reducing reoffending is an important objective of criminal justice, we should use prisons sparingly and that we should construct their regimes carefully. I have also argued for reforms to probation practices so as to enable them to better support desistance.</p>
+<p>None of the reflections above represent a retreat from these positions or arguments: I remain convinced that – other things being equal – probation is better placed to support desistance than imprisonment. However, the caution that I have sought to add in this address is this: <strong>We cannot and must not assume that probation and its growth is an unqualified good.</strong> While it can and does support change, it also represents an expansive and penetrating form of penal control which – like all others forms of penal control – must be used proportionately and parsimoniously. Moreover, even where probation’s principal intent is to support social rehabilitation or reintegration and thus to benefit probationers, its intrusions into the lives of its European citizens must always constrained by the same human rights safeguards and principles that we apply to imprisonment.</p>
+<p><strong>REFERENCES</strong></p>
+<p><strong> </strong>Armstrong, S. and Weaver, B. (2011), <em>User Views of Punishment: The dynamics of community based punishment</em>. Glasgow: Scottish Centre for Crime and Justice Research.</p>
+<p>Creamer, A., Hartley, L and Williams, B. (1992) <em>The probation alternative A study of the impact of four enhanced probation schemes on sentencing outcomes.</em> Edinburgh: Scottish Office Central Research Unit.</p>
+<p>Durnescu, I. (2011) ‘Pains of probation: Effective practice and human rights’, International Journal of Offender Therapy and Comparative Criminology, 55: 530-545.</p>
+<p>Durnescu, I, Enengl, C. and Grafl, C. (2013) ‘Experiencing Supervision’ in McNeill, F. and Beyens, K. (2013)(eds.) <em>Offender Supervision in Europe</em>, Basingstoke: Palgrave.</p>
+<p>McNeill, F. (2009) ‘<em>Helping, Holding, Hurting: Recalling and reforming punishment’</em>, the 6<sup>th</sup> annual Apex Lecture, at the Signet Library, Parliament Square, Edinburgh, 8<sup>th</sup> September 2009. Available online at: <a href="https://pure.strath.ac.uk/portal/files/521675/strathprints026701.pdf">https://pure.strath.ac.uk/portal/files/521675/strathprints026701.pdf</a></p>
+<p>McNeill, F. and Beyens, K. (2013)(eds.) <em>Offender Supervision in Europe</em>, Basingstoke: Palgrave.</p>
+<p>May, D., &amp; Wood, P. (2010) Ranking Correctional Punishments: Views From Offenders, Practitioners and the Public. Carolina Academic Press.</p>
+<p>Payne, B.K. &amp; Gainey, R.R. (1998) ‘A qualitative assessment of the pains experienced on electronic monitoring’, International Journal of Offender Therapy and Comparative Criminology, 42, 2: 149-63.</p>
+<p>Phelps, M. (2013) ‘The paradox of probation: community supervision in the age of mass incarceration’. <em>Law and Policy, </em>35(1–2), 55–80.</p>
+<p>Scottish Prisons Commission (2008) <em>Scotland’s Choice.</em> Edinburgh: Scottish Prisons Commission.</p>
+<p>Turnbull, S. and Hannah-Moffat, K. (2009) ‘Under These Conditions:Gender, Parole and the Governance of Reintegration’<em>,</em><em>British Journal of Criminology </em>doi: 10.1093/bjc/azp015 (First published online: April 21, 2009)</p>
+<p>Weaver, B. and McNeill, F. (2007) <em>Giving up Crime: Directions for Policy</em>. Edinburgh: Scottish Consortium on Crime and Criminal Justice.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>[1]The Scottish data, charts and tables discussed in this section were supplied directly by Justice Analytical Services in the Scottish Government.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jun</div>
+	            			    <div class="day">4</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/the-quality-of-supervision#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/the-quality-of-supervision" rel="bookmark">The Quality of Supervision</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/the-quality-of-supervision" rel="bookmark"></a>
+		                              
+	                        <p><em>This guest post comes from Scott Grant of Glasgow Caledonian University.</em><br />
+If the purpose of supervising offenders in the community is to achieve reductions in reoffending, whilst protecting the public and promoting social inclusion (as it says on the Scottish tin), then we’re asking practitioners to do some very complex, delicate and ethically dense work. Not only are these Government-set objectives broad in scope, but they result in notoriously difficult outcomes to measure in practice. In Scotland at least, we appear to have a complex landscape of criminal justice policy underpinned by penal purposes of reparation, rehabilitation, restriction and reintegration (see McNeill and Weaver, 2010). This penal backdrop lends itself to (ongoing) questions about what are the best interventions or models to help achieve results. But lacking within these more technical debates about ‘effectiveness’ and ‘What Works’, are questions about the nature and concept of ‘quality’ in the routine everyday supervision of offenders in the community.<br />
+‘Quality’ is largely under-developed as a concept within practices and processes of offender supervision, whilst definitions and ideas about quality are themselves contested (See Shapland et al., 2012). In a recent article published in the British Journal of Social Work &#8211; <a href="http://bjsw.oxfordjournals.org/content/early/2014/05/25/bjsw.bcu056.short?rss=1">‘What matters in practice? Understanding ‘quality’ in the routine supervision of offenders in Scotland’</a> &#8211; Fergus McNeill and I report on a study we conducted within one of Scotland’s largest local authorities. We gained rare access to criminal justice social workers who agreed to participate in focus group interviews to explore how they conceptualise and construct meanings of ‘quality’ in their everyday work with offenders. Our research partially replicates a similar study conducted in England and Wales by a team at the University of Sheffield (See Robinson et al., 2012; 2013). The Sheffield team gave us permission to replicate elements of their study within a Scottish context (in a forthcoming paper we attempt a comparative analysis of both datasets). Data from the Scottish project was both revealing and suggestive of perhaps something far more profound at play within constituted and contested sites of practice.<br />
+Amongst a variety of interesting results, we found that by reducing ‘quality’ to a crude output metric – as some systems and agencies do – we ignore the value in more nuanced and less explicit components of good practice. We found that practitioners, on the whole, preferred working towards more qualitative outcomes in routine cases – offering flexible and individualised approaches that help to encourage incremental change instead of aiming for (unrealistic) wholesale desistance. We discovered a general resistance to punitive populism, managerialism and prescribed interventions; and we uncovered a strong commitment to ensuring that welfare needs are met in all cases, and that public protection and risk are incorporated into thinking about interventions (even if they are not centre-stage in most cases). The importance of values seemed to underpin the impulse of practitioners to frame their work as something almost vocational and deeply humane. This suggests to us that practitioners might not, as otherwise thought, be suffering from a legitimacy crisis over their role in the criminal justice system (Cavadino et al., 2013). Indeed, our data revealed that practitioners appear resilient to what seems to be a broader political project to re-assert the penal arm of the state (See ibid.; and also Wacquant, 2009).After initial data sifting, we identified seven themes that emerged from focus group interviews (essentially seven areas that appeared to underpin ‘quality’ in practice): relational processes; resources; social work values; skills and knowledge; going beyond National Standards; support from colleagues; and outcome-oriented practice.<br />
+Emerging strongly from the data was a consensus that ‘quality’ would appear to be a fluid concept that finds location in both practical application (in doing) and by the practitioners’ own approach to practice (in values, beliefs and ethics). Quality was less associated with some of the more technocratic elements of contemporary interventions (such as the use of prescribed programmes) and surprisingly less affiliated with subscription to official National Standards and national guidance on offender management (although some practitioners felt that good risk assessments were indicative of quality). Perhaps more interestingly, we found that practitioners appeared to traverse a punitive landscape with degrees of resistance to both managerial pressures and organisational demands – operating in tailored ways to ensure that multiple problems (personal, social, practical) might be addressed within routine supervision. A widespread rejection of homogeneity in favour of recognising variation and diversity emerged with strength throughout discussions.<br />
+A solid and robust consensus emerged on the theme of relationships (perhaps the strongest association with ‘quality’ in this study). Practitioners appeared to value relational processes more than other facets of practice. When we looked deeper into this, practitioners seemed to identify ‘the relationship’ as the crucial starting point with any offender &#8211; ultimately providing the foundation to build meaningful and crucially productive partnerships.<br />
+In conclusion, we argue that capturing subjective elements of quality remains a persistent difficulty and challenge for contemporary criminal justice practice. Measuring outputs would appear to neglect a wide variety of incremental changes in the offender’s life that could indicate some movement towards desistance (and towards better outcomes); but we acknowledge that practical limitations in measuring more qualitative indicators in routine cases will require more detailed research to identify and capture what we ought to be measuring in practice. One observation from our research is that whilst systems often struggle to measure change, practitioners can often see change in individual offenders (but this is notoriously difficult to articulate and capture for the purposes of agency accountability and Government reporting). In essence, our understanding of offender supervision as a constructed and constituted practice would appear to be in its infancy, but one that is slowly developing through careful empirical study. We hope our research is an important step in the further exploration into this surprisingly neglected area of criminal justice.<br />
+<strong>References</strong><br />
+Cavadino, M., Dignan, J. and Mair, G. (2013) The Penal System: An Introduction (5th Ed.), London: Sage.<br />
+McNeill, F. &amp; Weaver, B. (2010) Changing Lives? Desistence Research and Offender Management, Glasgow: Scottish Centre for Crime &amp; Justice Research.<br />
+Robinson, G., Priede, C., Farrall, S., Shapland, J., &amp; McNeill, F. (2012) ‘Doing&#8217;strengths-based&#8217; research: Appreciative Inquiry in a probation setting’, Criminology and Criminal Justice, advance access first published May 22, 2012, doi: 10.1177/1748895812445621<br />
+Robinson, G., Priede, C., Farrall, S., Shapland. J., &amp; McNeill, F. (2013) ‘Understanding ‘quality’ in probation practice: Frontline perspectives in England &amp; Wales’, Criminology and Criminal Justice, advance access first published on May 20, 2013, doi: 10.1177/1748895813483763<br />
+Shapland, J., Bottoms, A., Farrell, S., McNeill, F., Priede, C. and Robinson, G. (2012) <a href="http://www.shef.ac.uk/polopoly_fs/1.159010!/file/QualityofProbationSupervision.pdf">The Quality of Probation Supervision: A Literature Review</a>, Centre for Criminological Research, University of Sheffield, Occasional Paper 3. ( Last Accessed 20 October 2013).<br />
+Wacquant, L. (2009) Punishing the Poor: The Neoliberal Government of Social Insecurity, London: Duke University Press</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">May</div>
+	            			    <div class="day">12</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/european-research-funding#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/european-research-funding" rel="bookmark">European research funding</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/european-research-funding" rel="bookmark"></a>
+		                              
+	                        <p>I realised today that, after our meeting in Malta,  I had neglected to post Adriana Scicluna&#8217;s excellent presentation on European research funding opportunities. I&#8217;m sure everyone will find this very useful as we move from piloting our new approaches to trying to find ways to develop new funded projects. The presentation is on the Documents and Resoources page, but I have also attached it here: <a href="http://www.offendersupervision.eu/wp-content/uploads/2014/05/Pr14_H2020_Funding-Opportunities_280314.pptx">Funding Opportunities_280314</a></p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Apr</div>
+	            			    <div class="day">15</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/practising-supervision-innovative-research-methods#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/practising-supervision-innovative-research-methods" rel="bookmark">Practising supervision: Innovative research methods?</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/practising-supervision-innovative-research-methods" rel="bookmark"></a>
+		                              
+	                        <p><em>This post comes from Jake Phillips, who reflects on his experience of the &#8216;Practising Supervision&#8217; working group at the recent Malta meeting.</em></p>
+<p>This was the second time I had attended a COST event. The first was the conference in Liverpool but this was the first time I felt like I really got stuck in and that, for me, is what made the meeting so enjoyable. Rather than spending two days listening to others, the majority of the meeting was spent working in small groups thinking about how to go about conducting a small but innovative piece of research into what it means to practise supervision across Europe. I decided to join a subgroup which was working on using practice diaries to investigate the practise of supervision &#8211; something which has not been done on a large scale, as identified in the book <i>Offender Supervision in Europe</i>.</p>
+<p>We began by looking at other research (from outside the realm of community sanctions) which had used diaries as a method of research. This led to a discussion about how structured we wanted to make our diaries which resulted in a wide ranging conversation about what kind of data we want to generate and how it might be used. One issue which came up, perhaps unsurprisingly, was the time that it might take for practitioners to complete the diaries on a daily basis &#8211; we were keen to ensure that they don&#8217;t place too great a burden on practitioners&#8217; daily lives. This informed our decision to make our diary entries relatively structured which we hope practitioners will complete on a daily basis, giving us a picture of a &#8216;day in the life&#8217; of a probation worker. We decided that the structured nature of the diary necessitated a follow up reflective interview in order to examine the processes and mechanisms which underpin the general picture generated by the diary itself (for the pilot we plan to use these interviews to think about how the diary entry process went in order with a view to use to refine and amend the tool for a larger piece of research). We also discussed ethics and access and it was clear that these varied considerably across jurisdictions &#8211; at the moment we are planning a very small pilot but it was clear that these might present considerable issues when we come to do the research on a larger scale. Finally, we thought about how we could make the diaries useful to practitioners themselves and considered how we could use them to conduct action research alongside the generation of the data &#8211; we hope that by including a space for practitioners to reflect on their day as part of the diary entry they will be able to learn something new about their work.</p>
+<p>Having created a basic version of the diary tool the Practising Supervision working group reconvened and we heard about how the other subgroups had got on in their discussions around visualising probation and using observations to research probation. It was interesting to note that many of the same issues had arisen (such as how structured to be when designing the initial tool/instructions for participants, as well as issues around access and ethics). For me, the most interesting observation was that all subgroups had decided to use interviews to augment their primary mode of research. Whilst such a mixed methods approach might result in deeper and more nuanced data, it made me think about whether we need to work harder to move away from using interviews (the method which has been used most widely in probation research) or whether there is something inherently useful about them, above and beyond these innovative methods we are involved in developing. In essence, I wondered whether we were using innovative methods for the sake of it, or whether we were simply being constrained by what has come before. I think that this is partly a product of the international nature of the research &#8211; all subgroups decided to impose some structure on the initial use of their innovative method and I suspect this is because of the different contexts in which we work: there is a need to set parameters when doing comparative research in different legal frameworks, languages and with differing levels of resources  in order to ensure that everyone is focused on the same thing. The answer to this question will, hopefully, come out in due course once we&#8217;ve managed to actually do some research and then reflect on the process which will result, again hopefully, in a special issue of the European Journal of Probation on using innovative methods when researching probation. For now though, all members of the subgroup which is using practice diaries have agreed to pilot our tool with at least one practitioner in each jurisdiction and will report back at the next meeting in Belfast in October where, I&#8217;m sure, we&#8217;ll all be engaged in yet more interesting (and sometimes thorny) discussions about how best to go about conducting comparative research into the practise of offender super vision.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Apr</div>
+	            			    <div class="day">7</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/designing-vignettes-for-comparative-research-on-breach#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/designing-vignettes-for-comparative-research-on-breach" rel="bookmark">Designing vignettes for comparative research on breach</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/designing-vignettes-for-comparative-research-on-breach" rel="bookmark"></a>
+		                              
+	                        <p><em>This post, reflecting on the progress made by the &#8216;Decision-Making and Supervision&#8217; group at our recent Malta meeting, comes from Niamh Maguire.</em></p>
+<p><span style="line-height: 1.5em;">The Malta meeting was a very productive and successful one for the members of the decision-making working group. The aim of our meeting in Malta was to develop a number of vignettes that could be used to examine the issue of breach in comparative contexts. Once developed the plan is to pilot the vignettes in a number of jurisdictions to test how useful vignette methodology could be for exploring the issue of breach in offender supervision comparatively. We managed to leave Malta with an outline of two comparative vignettes that we plan to pilot over the coming months in a number of different jurisdictions.</span></p>
+<p>In Malta we built on the work that we had completed last October in Bratislava where we explored in-depth the potential for using vignettes as one part of a comparative methodology to examine decision making in the context of offender supervision in multiple jurisdictions in Europe. Whilst the focus in Bratislava was on understanding the advantages and disadvantages of vignette methodology, in Malta we agreed that while there are obvious drawbacks to using vignettes (particularly the inability to observe what goes on in practice first-hand), they offered us enormous advantages perhaps the most important of which was the ability to use a common scenario to explore decision making in many different contexts. Also highlighted was that fact that all research methodologies and methods have drawbacks and the important thing is to understand what these are and to make sure that our chosen methodology is appropriate for our research aims.</p>
+<p>In preparation for our Malta meeting we worked on identifying the types of research data that could be collected in different jurisdictions as this would influence our choice of research methodologies. For example, in some countries access to court reports might not be problematic whereas access to the judiciary might be impossible. Representatives from each jurisdiction filled in a matrix designed to capture the possibilities in terms of research data and methods. We began our meeting in Malta with an overview of this matrix by Dr. Trevor Calalafo and it emerged that the most popular methods were interviews, focus groups and vignettes and that while access to the judiciary was possible in many countries it certainly was not easy.</p>
+<p>We chose the issue of breach to focus on as our review of the literature showed that there was a dearth of research in Europe on this important issue in all decision-making three phases (Boone and Herzog-Evans 2013:85-86). We then had to decide which point in the decision-making process we would focus our efforts on. The decision-making group had already identified three stages in the decision making process relevant to offender supervision; the pre-trial phase, the sentencing phase and the release phase. Strong interest in the group emerged for exploring the sentencing and release phases and a sub-group was established to develop vignettes for each of these phases.</p>
+<p>Before we split into our sub-groups we discussed our aims and objectives and the general approach we’d take to constructing the vignettes. We had to remind ourselves that our focus was on testing vignettes as a means studying breach comparatively and so the vignettes should be developed to give us maximum insight into the differences between jurisdictions in terms of procedures, processes and approach of the various decision makers.</p>
+<p>If we want to compare approaches to breach in different systems then we needed to design something that would make sense and be comparable across a range of jurisdictions with very different laws, procedures, decision-makers and cultural contexts. Central to the design of the vignettes was figuring out what a realistic scenario was for each jurisdiction. Making the vignettes make sense in each jurisdiction meant designing a model and then identifying the various aspects of the model that will differ depending on the jurisdiction.</p>
+<p>Our next consideration was the degree of detail to include in the vignettes; if we over-specify we risk getting responses so diverse that it will be difficult to distinguish between differences that are related to the detailed factors we have included and those related to differences between jurisdictions. Over-populating the vignettes also risks making them workable in some jurisdictions but not others. The balance between the degree of detail necessary and allowing the vignettes to remain vague in places was recognized as being really important. Although it was agreed that we would use vignettes as a starting point in a semi-structured interview, as a way to situate a discussion about breach in relation to a specific set of circumstances, it also emerged that we should not forget to can pinpoint a definite decision. Most important though is supplementing a rather broad and necessarily vague description in the vignette with a very detailed topic list to make sure that we collect the same kind of data and thus really have the opportunity to compare our data at the end.</p>
+<p>The idea of seeing breach as a process involving many stages and many actors rather than just a one-stage event also emerged. We wanted to gain insight into the process of breach which involved capturing the initial decision of the immediate supervisor to report the breach of conditions, the decision of the next official actor (which could be a probation officer or a member of a local authority) and then the decision of the ultimate decision-maker in relation to the official response to the breach (which could be a judge, a probation board or another body depending on the jurisdiction). This approach is based on the idea that we cannot fully understand decisions at the breach stage without exploring the stages that precede it. Following discussion on this issue, we realized that the number of stages would differ depending on the jurisdiction but that there were likely to be at least two if not three stages. As a consequence we needed to make not just one but three vignettes per case to represent these different stages. Importantly, this meant capturing the perspectives of immediate supervisors, probation officers and ultimate decision-makers (in many cases judges).</p>
+<p>As this point we split up into our sub-groups and the challenging but highly enjoyable job of actually writing up the vignettes and choosing the breach conditions began.</p>
+<p>To be continued…!</p>
+<p><strong>References</strong></p>
+<p>Boone, M. and Herzog-Evans, M., (2013) Decision-Making and Offender Supervision in F. McNeill and K. Beyens (ed.s) (2013) <i>Offender Supervision in Europe</i>. Basingstoke, Hampshire: Palgrave Macmillan</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            
+	            <div class="navigation"><p><a href="http://www.offendersupervision.eu/page/3" >&laquo; Previous Page</a> &#8212; <a href="http://www.offendersupervision.eu/page/5" >Next Page &raquo;</a></p></div>
+				
+			</div>
+	        
+	        	        
+	        	    		    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    		    	
+	        <h3 class="title">Working Groups</h3>
+	    	<div class="post second">
+	    	
+				<!-- First Box -->
+					            					<div class="holder double first">
+						<div class="article">
+		                    <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/social-work-and-offender-supervision-local-andor-national-services" rel="bookmark"></a>
+		                    <h2 class="hpboxes cat1"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></h2>
+	                        <h3 class="headline smaller"><a href="http://www.offendersupervision.eu/blog-post/social-work-and-offender-supervision-local-andor-national-services" rel="bookmark">Social work and offender supervision: local and/or national services?</a></h3>
+	                        <h6 class="text-date">Wednesday, February 6, 2013</h6>          
+	                        <p>Those of you that read yesterday&#8217;s post, and Lol and Wendy&#8217;s excellent report, will know about the proposed changes to probation in England and Wales. Rather fewer people&#8230;</p>
+	                    </div>
+	                </div>
+												
+				<!-- Second Box -->
+					            					<div class="holder double second">
+						<div class="article">
+		                    <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/experiencing-supervision-in-england-and-wales" rel="bookmark"></a>
+		                    <h2 class="hpboxes cat2"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></h2>
+	                        <h3 class="headline smaller"><a href="http://www.offendersupervision.eu/blog-post/experiencing-supervision-in-england-and-wales" rel="bookmark">Experiencing supervision in England and Wales</a></h3>
+	                        <h6 class="text-date">Tuesday, February 5, 2013</h6>          
+	                        <p>The probation services of England and Wales have a long and distinguished history and have been extremely influential in the development of systems and practices of supervision in&#8230;</p>
+	                    </div>
+	                </div>
+					            				
+				<!-- Third Box -->
+					            					<div class="holder double first">
+						<div class="article">
+		                    <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/we-are-europe-sort-of" rel="bookmark"></a>
+		                    <h2 class="hpboxes cat3"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European policy and practice</a></h2>
+	                        <h3 class="headline smaller"><a href="http://www.offendersupervision.eu/blog-post/we-are-europe-sort-of" rel="bookmark">We are Europe (sort of&#8230;)</a></h3>
+	                        <h6 class="text-date">Tuesday, October 23, 2012</h6>          
+	                        <p>We are Europe… more precisely we are the Working Group on European Policy and Practice of Offender Supervision but since this is a long name, somebody said that&#8230;</p>
+	                    </div>
+	                </div>
+												
+				<!-- Fourth Box -->
+					            					<div class="holder double second">
+						<div class="article">
+		                    <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/comparative-research-on-decision-making-reflections-on-the-bratislava-meeting-from-france" rel="bookmark"></a>
+		                    <h2 class="hpboxes cat4"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></h2>
+	                        <h3 class="headline smaller"><a href="http://www.offendersupervision.eu/blog-post/comparative-research-on-decision-making-reflections-on-the-bratislava-meeting-from-france" rel="bookmark">Comparative research on decision-making: Reflections on the Bratislava meeting (from France)</a></h3>	                        
+	                        <h6 class="text-date">Monday, October 28, 2013</h6>          
+	                        <p>This post comes from our colleague Prof Martine Herzog Evans&#8230; Whilst my friends and colleagues were brainstorming about comparative research methodology in Bratislava on October 25-26, I was&#8230;</p>
+	                    </div>
+	                </div>
+					            				
+				
+				
+				
+				
+				
+				
+	        </div>
+	        	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+		</div> <!-- close homepage --> 
+	</div> <!-- close eight columns --> 
+
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-4" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-4">Archives</label>
+		<select id="archives-dropdown-4" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-2" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div><div id="recent-comments-3" class="widget widget_recent_comments"><h4>Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://herzog-evans.com' rel='external nofollow' class='url'>Martine Herzog-Evans</a></span> on <a href="http://www.offendersupervision.eu/blog-post/how-15-years-can-become-3#comment-69201">How 15 years can become 30</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://herzog-evans.com' rel='external nofollow' class='url'>Martine H-Evans</a></span> on <a href="http://www.offendersupervision.eu/blog-post/consultation-on-european-rules-for-csm#comment-69200">Consultation on European Rules for CSM</a></li><li class="recentcomments"><span class="comment-author-link">Paul Doran</span> on <a href="http://www.offendersupervision.eu/blog-post/2nd-world-congress-on-community-corrections#comment-67478">2nd World Congress on Community Corrections</a></li><li class="recentcomments"><span class="comment-author-link">Fergus McNeill</span> on <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comment-63804">&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference</a></li><li class="recentcomments"><span class="comment-author-link">Peter Raynor</span> on <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comment-63803">&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference</a></li></ul></div>    
+</div>	</div>
+	
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pbd_alp = {"startPage":"4","maxPages":"8","nextLink":"http:\/\/www.offendersupervision.eu\/page\/5"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_5ee0a8d90e89afa4a3f0b21cce7a1995.js"></script></body>
+</html>

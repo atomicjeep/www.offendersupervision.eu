@@ -1,0 +1,409 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Reality testing: A psychologist&#039;s reflection on researching supervision | Offender Supervision in Europe</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="canonical" href="http://www.offendersupervision.eu/blog-post/reality-testing-a-psychologists-reflection-on-researching-supervision" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference' href='http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference' />
+<link rel='next' title='Seasons, Senses, Spaces: Discerning the Social Choreography of the Penal Field' href='http://www.offendersupervision.eu/blog-post/seasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field' />
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='http://www.offendersupervision.eu/?p=823' />
+<link rel="alternate" type="application/json+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Freality-testing-a-psychologists-reflection-on-researching-supervision" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Freality-testing-a-psychologists-reflection-on-researching-supervision&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=16944B4F318DB47A88715B06C5A158D8');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-823 single-format-standard custom-background">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<p id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></p>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    	
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+<div id="content" class="row">
+
+	<div class="eight columns">
+	
+		<div class="post-823 post type-post status-publish format-standard hentry category-blog-post" id="post-823">
+		
+				
+						
+			<h1 class="headline">Reality testing: A psychologist&#8217;s reflection on researching supervision</h1>
+		
+	        <div class="postauthor">            
+	            <p>Posted by <a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a> on Tuesday, June 9, 2015 &middot; <a href="http://www.offendersupervision.eu/blog-post/reality-testing-a-psychologists-reflection-on-researching-supervision#comments">Leave a Comment</a> &nbsp; </p>
+	        </div>
+	        
+	        		        		            <div class="featureimg"></div>
+		         
+	        			
+			<div class="article">
+				<p><em>This guest post comes from Stef Decoene who was one of the guest speakers at our Athens conference. It reminds us of the value of critical inter-disciplinary friends who can challenge our assumptions and provoke new thoughts about how our work can proceed.</em></p>
+<p>When Kristel Beyens asked me if I would be interested in speaking at the Athens conference, my first reaction was to find a good enough reason not to. I don’t like the airport tedium, I had planned to do some gardening at home … and her specific question was not just to speak about a social-psychological perspective on offender supervision, but to challenge the audience. I think she knew I would try to duck her challenge—knowing that Flemish criminology is legally and sociologically oriented (this being a polite way to say that psychology is not considered to be the ideal interdisciplinary co-traveller)—but also that I would not come up with good reasons not to.</p>
+<p>But I should not have worried. Attending the Athens conference was a quite positive experience. Of course, the hotel was wonderful—coming home I could tell about my first experience with a porter (and how I thought for one moment that he was trying to steal my bag!) Also, my worry of being booed, or worse, given the cold shoulder, was misguided. There was a refreshing open-mindedness towards every presentation. Clearly, using the word ‘obedience’ had a certain ‘valence’ which needs analysis. But the presentations of the many working groups all offered glimpses of what motivates the COST members and their intensive and constructive collaboration. The atmosphere showed that many of the researchers present enjoy working together—when Kristel says a Cost meeting is a bit like going home, I now understand a little what she is trying to say! And I very much enjoyed the conference dinner and the table talk—even when it implied being instructed on why psychology is a boring science!</p>
+<p>So, on to my psychologist’s thoughts concerning the conference:</p>
+<p>1. The distinction between compliance and obedience quickly took on; but this risks side-lining more important themes. I think the in/outgroup distinction is even more fundamental, and prior to the differentiation between complying and obeying. In taking obedience as the challenging concept, it may be forgotten that the primary social-psychological question is whether an (ex-)offender is considered by society as in-group, ànd/or whether the ex-offender considers himself as being in-group. If defined (or defining himself) as out-group, the word obedience is no longer a valid description, and using the concept may camouflage that we really are talking about submission instead. I think submission and obedience should be clearly kept apart—obedience implies being in a hierarchical in-group relationship, submission implies being in a raw power (force) out-group relationship.</p>
+<p>And even more crucial is the objective/subjective distinction. From a psychological point of view, whether an offender sees himself in a compliance, obedience, or submission position is not something objective but idiosyncratic/individual/subjective. Knowing how to ‘do’ supervision needs to start with assessing how the ex-offender positions himself vis-à-vis the probation officer/justice. Of course, there may well be ‘objective’ indicators of how an ex-offender positions himself: having a house, a family, friends who came to visit during detention …, may determine a higher probability of seeing oneself as in-group (and thus of being asked to obey). Having interpreted justice as being unfair, having the idea that one does not belong … may raise the chances of seeing oneself as out-group (and being asked to submit). This is an important empirical issue. But anyway, doing offender supervision from a social-psychological perspective implies assessing this positioning (as an aspect of where the working relationship has to start).</p>
+<p>2. Thinking about the conversations I had with other participants, and listening to the impressive congress summary by Prof. McNeill, I wonder what it is that the concept of obedience really triggered. If it is challenging, this seems not to be because it refers to something alien, but more because it makes explicit what is implicitly known but unacknowledged. It seems challenging in the way a therapist may question ways of framing an experience in order to allow the client to make something annoying consciously available and usable for working-through. In fact, some participants came to tell me that they were quite happy that the ‘word’ was out.</p>
+<p>It is strange that concepts such as power, obedience, control generate this tension, while the experiences reported during the conference (and in published papers)—experiences of both (ex-)offenders and probations—so clearly reflect the emotive signs of being in either a power or submission relationship (be it at the commanding vs forcing or obeying vs submitting position).</p>
+<p>Why? To me, the criminological research on offender supervision (and treatment, for that matter) seems quite prescriptive, value-driven. And I don’t think this is a virtue, but a problem. While it is inescapable that our society (just as most others) relegates offenders to either a less-than or a no-citizen position, and while I fully agree that societal reactions towards offenders should be scrutinized and questioned, I think that, as scientists, we are wrong to use the science-label to import these extra-scientific critiques as if their content is descriptive and empirically valid (by presenting it as science).</p>
+<p>Science, although never value-free in its day-to-day individual and social practice, aims—as a social institution and rational practice&#8211; at an intersubjectively validated understanding of reality, using historically validated rules of evidence (Ian Hacking would say it allows to intervene; or to borrow Girard’s assessment of religion, that science reveals the hidden foundations of the world). It is descriptive in a rich but fundamental sense. It does not aim at saying that things should be such or so, but at saying how things are. I’m not being naïve about the complexities underlying this statement, nor about the dangers of science divorced from ethical consideration. But when the descriptive stance is left behind, the questions we ask (for example, what the consequences are of living under imposed conditions) become difficult or impossible to formulate operationally, and by consequence, impede selection of the best possible methodology to get at reliable data, and bias or even blind us when mining these data to uncover their ‘meaning’. Looking at offender supervision from a should-be perspective is valid and important as a too often lacking social and cultural critique, but it is not science.</p>
+<p>What are the possible consequences of “talking to” and “intervening in” the to-be-uncovered reality of offender supervision, when these interventions are not based on well-enough validated knowledge of what is, but on prescriptions of what we would like reality to be, and chosen to be compatible with these wishes? For example, how will an offender interpret the question of a power-holder (such as a probation officer) if he would be willing to “consent” to certain conditions imposed from outside? Can we not expect that this offender will disown the power-holder and experience the consent-seeking as a dishonest manipulation, one of many examples through which justice shows bland disrespect? Is it, then, at all relevant that the probation officer had asked consent because she wants to help?</p>
+<p>More fundamentally still, and putting the behaviour-attitude distinction more central. If it is the case that our society probes deeper and deeper into the biological and personal functioning of its citizens; and that what we call the biopolitical shape of power enlarges step by step the zone of bare life (using Agamben’s concept) in order to globalize enforced control, what does a probation officer do when she tries to change identity (thoughts and feelings), which in any democratic state should be zealously guarded as a private empire?</p>
+<p>Should the empirical knowledge a psychology of social influence offers (however lacking the lustre of creative thinking), with its observation that it is already difficult enough to realize behaviour change, not do more than enough? That is, help to ensure re-entry without putting the bar too high for the offender, and in doing so keeping social control out of the mind? Does acting out of prescription, however well intentioned, in a world culture of control not contribute to even more control? Is this not exactly what Foucault warned against when calling for an archaeology of power? Is it not better to look reality in its face, accumulate knowledge, and then to act within the bounds of interdisciplinary reason and value?</p>
+<p>Obedience (or submission: depending on the relational positions) is what an ex-offender has to do if he wants to leave the prison on conditional release. It is, I think, a fundamental form of respect towards the offender to make that clear. He may not like it, it may hinder or hurt, but modifying his behaviour (doing as told) is what is demanded. If he accepts and invests in bringing behaviour into ‘prosociality’, we are content. What he thinks or feels about me, whether he forms a prosocial identity or instead keeps his antisocial attitudes (in the privacy of his mind) is of no legitimate concern—many good citizens have a lot of very dark antisocial thoughts (as the concept of motivational posturing implies). If it is not my concern as supervisor, it may become a little more difficult to be perverted as an instrument of control. It may be an aspect of archaeology of resistance.</p>
+<p>I think value enters with the question if, when and how we implement (or not) the knowledge we have accumulated. If it enters during the investigation process we lose grip of reality. In this sense, correct terminology reflecting validated knowledge is the founding stone for effective intervention (and for me, effective implies morally guided).</p>
+<p>3. I have the impression that I never before heard the word ‘experience’ more than during the Athens congress. And I have to admit that this strong focus on ‘experiences’ made me uneasy: An experience is by definition a subjective state, a correlate of underlying internal metal processes, the meaning and significance of which are notoriously difficult to ascertain.</p>
+<p>What does it mean if I say that I feel like scum? That I define myself as scum? That I am treated as scum? That I think my interlocutor will be shocked if I say this, and give me lee-way to do as I like (because I hypothesize that he wants to help)? Or maybe that because I feel he hopes to hear exactly this, and I want to be polite?</p>
+<p>The only way to treat an experience scientifically seems to me to accept it as a verbal report (communicating an experience is an action) made for an as yet unknown purpose and expressing a complex, unobservable set of mental processes (thoughts, emotions, motivations, an interpretation of a situation ….). In fact, verbalizing how something is experienced only rarely fulfils a purely informative goal. It performs within a social relationship.</p>
+<p>Let me focus briefly on one of the pictures shown during the Supervisible presentation: a female ex-offender takes a picture of a Greek-like statue, breasts naked. At the conference, the author of the photograph was reported to have said she took this picture to show how exposed she felt. It may be tempting to take this at face-value, but maybe this temptation should be resisted. Of all possible pictures of ‘being exposed’, why precisely this one?</p>
+<p>I have but little experience in art analysis. But if the picture is not taken as a pure and direct summary of a particular experience, and instead as a communicated sign with a to be explored relationship to unobservable mental states, what could (should) one make out of it? The picture shows a forbidding bird/predator-like female—a siren or a harpy. The breasts are imposingly directed outward, but do not succeed in hiding claws from view. The face seems more impassioned than angry, cold. I fail to ascribe to the statue a state of being-exposed. In fact, her nudity is part of her pride and strength—there is nothing weak, hurt, or unstable here.</p>
+<p>And if the author did not suggest identification with the statue (as being made by a female ex-offender, this would be the obvious but possibly naïve supposition), but instead indexed being under the gaze of the statue, why being under the gaze of a naked woman? Statues of justice are never showing a naked woman. And I would suspect that a woman trying the picture being exposed would depict this as being under the gaze of a man … I assume the statue is part of some entrance to a building, symbolically guarding it, installing in the visitor a feeling of … respect/veneration ….? Being under the gaze of the statue only exposes oneself if one enters with disrespectful intent.</p>
+<p>None of these thoughts are intended to suggest a well-enough approximation of what the picture signifies (and/or wants to communicate). But I would like to suggest that the verbal report of an experience is never an explanation of something, but a data point that should be analysed, and not be taken at face-value. The same methodological point can be made about the pictures of probation service buildings: What does the scientist/photographer intend? What does it reveal at closer inspection about unspoken assumptions and values, implicit meanings, inadvertent symbolisation? …. It could also, ànd should, be made about the many verbal reports of offenders, ex-offenders, prison staff and probation officers that are reported in the offender supervision and penology literature.</p>
+<p>A reported experience is a data-point, never an explanation: It needs empirically validated theory to be analysed, explained, and understood. We can understand which significance/valence an ex-offender gives to the supervision by eliciting experiences only when these experiences are taken apart, scrutinized, and analysed to the bone.</p>
+<p>4. I admire the research creativity shown during the many presentations: an eurobarometer, photography to tap experience of supervision, vignettes. Less clear to me is which methodologies will be used to extract knowledge from these studies. With respect to visual data, there is a lot of (semiotic and art-critical) research which seems quite applicable to mine the Supervisible studies, but which were not put to the foreground during the sessions. Using vignettes to elicit reasoning processes is a strong technique, but it presupposes good knowledge of relevant variables to distinguish cases/vignettes ‘systematically’, and I’m unsure if we already have this knowledge. Cognitive psychologists have developed methods to analyze reasoning protocols generated by experts when thinking about problems/cases, and maybe this would be a good way to further understanding why probation officers using professional discretion (as Andrews &amp; Bonta argue that they should always do before deciding) in evaluating what breach really means, look at attitudes. I find the idea of the Eurobarometer appealing—interestingly, relatively less attention was given to this than to, e.g., Supervisible—while its application (when empirically based during construction) could offer a rich inroad into variations in supervision experiences—absolutely necessary when we want to understand what determines these experiences (and how they relate to, e.g., efficacy of kinds of work relationships, or the (un)successful termination of time under imposed conditions).</p>
+<p>In closing: I do not believe that psychology is the sole answer to understanding offender supervision. I do not believe that empirical research is ever able to solve the mysteries of life. And I do not believe that the best way of living is posturing. But I do believe that science is a historically validated route to understanding. And I believe that acting morally presupposes understanding. Acting morally needs to start with looking reality in the eyes, and not blinking.</p>
+<p>Using psychology as an ally (as anyone who has really read Andrews &amp; Bonta should know, it is) may contribute to understanding what offender supervision is.</p>
+<p>Understanding that an offender who considers himself a citizen needs to obey; understanding that an offender who considers himself an alien in our world, needs to submit; understanding that the aim of offender supervision is making the transposition from submission/obedience to compliance; understanding that power and force are everywhere … and I could go on here … should help to find ways to include those who have transgressed and need to be included again, or for the first time in their life.</p>
+<p>An offender has to obey, if he considers himself part of justice’s group. An offender has to submit, if he considers himself outside justice. And society has to be cosmopolitan (in the way Appiah defines it) if it wants to be (and feel) safe by taking ex-offenders in (again). I think this is what a psychology of social influencing implies for research on offender supervision.</p>
+<p>&nbsp;</p>
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.offendersupervision.eu/blog-post/reality-testing-a-psychologists-reflection-on-researching-supervision"
+    dc:identifier="http://www.offendersupervision.eu/blog-post/reality-testing-a-psychologists-reflection-on-researching-supervision"
+    dc:title="Reality testing: A psychologist&#8217;s reflection on researching supervision"
+    trackback:ping="http://www.offendersupervision.eu/blog-post/reality-testing-a-psychologists-reflection-on-researching-supervision/trackback" />
+</rdf:RDF>			</div>
+			
+							
+			<div class="postmeta">
+				<p>Category: <a href="http://www.offendersupervision.eu/category/blog-post" rel="category tag">Blog Posts</a> &middot; Tags: </p>
+			</div>
+		
+		</div>
+		
+		<div class="postcomments">
+				<div id="comments">
+	
+	
+			<p class="nocomments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+		</div>
+		
+				
+	</div>
+	
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-6" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-3" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>    
+</div>	</div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_2621b4858a5bd1fdfb79db7e21370a3d.js"></script></body>
+</html>

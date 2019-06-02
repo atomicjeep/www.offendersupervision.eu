@@ -1,0 +1,379 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_0dd82a92bfcddf6eeaea31b3b377dc93.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Seen and Heard | Offender Supervision in Europe</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="canonical" href="http://www.offendersupervision.eu/supervisible" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Seen and Heard Comments Feed" href="http://www.offendersupervision.eu/supervisible/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='http://www.offendersupervision.eu/?p=754' />
+<link rel="alternate" type="application/json+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fsupervisible" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fsupervisible&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=144C11CC9B0987ED49799320CA4865D5');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="page-template-default page page-id-754 custom-background">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<p id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></p>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    	
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-754 current_page_item menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+<div class="banner"></div>
+
+<div id="content" class="row">
+
+	<div class="eight columns">
+
+        <div class="post-754 page type-page status-publish hentry" id="page-754">
+    
+            
+            <h1 class="headline page">Seen and Heard</h1>
+            
+            <div class="article">
+	            <p>Two of the pilot studies undertaken in the Action used visual methods. In &#8216;Supervisible&#8217;, we invited people with lived experience of being supervised to take photos that reflected upon and represented these experiences. In &#8216;Visualising practice&#8217;, we invited probation practitioners to do likewise.</p>
+<p>Supervisible was supported financially by the University of Applied Sciences and Arts in Dortmund and by the Howard League for Penal Reform in England and Wales, as well as benefiting from one of our Short Term Scientific Missions (see: <a href="http://www.offendersupervision.eu/wp-content/uploads/2015/03/STSM-Fitzgibbon.pdf" rel="">STSM Fitzgibbon</a>). With this funding we were able to work with people in England, Germany and Scotland and to develop plans to repeat the pilot in five more countries.</p>
+<p><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/9.jpg" rel="attachment wp-att-915"><img class="lazy lazy-hidden alignnone size-medium wp-image-915" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/9-300x225.jpg" alt="9" width="300" height="225" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/9-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/9-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/9-1024x768.jpg 1024w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-915" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/9-300x225.jpg" alt="9" width="300" height="225" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/9-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/9-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/9-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/51.jpg" rel="attachment wp-att-916"><img class="lazy lazy-hidden alignnone size-medium wp-image-916" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/51-300x225.jpg" alt="51" width="300" height="225" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/51-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/51-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/51-1024x768.jpg 1024w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-916" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/51-300x225.jpg" alt="51" width="300" height="225" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/51-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/51-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/51-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/52.jpg" rel="attachment wp-att-917"><img class="lazy lazy-hidden alignnone size-medium wp-image-917" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/52-300x225.jpg" alt="52" width="300" height="225" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/52-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/52-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/52-1024x768.jpg 1024w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/52.jpg 1600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-917" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/52-300x225.jpg" alt="52" width="300" height="225" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/52-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/52-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/52-1024x768.jpg 1024w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/52.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/53.jpg" rel="attachment wp-att-918"><img class="lazy lazy-hidden alignnone size-medium wp-image-918" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/53-300x225.jpg" alt="53" width="300" height="225" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/53-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/53-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/53-1024x768.jpg 1024w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-918" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/53-300x225.jpg" alt="53" width="300" height="225" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/53-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/53-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/53-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/54.jpg" rel="attachment wp-att-919"><img class="lazy lazy-hidden alignnone size-medium wp-image-919" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/54-300x169.jpg" alt="54" width="300" height="169" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/54-300x169.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/54-768x431.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/54-1024x575.jpg 1024w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/54-640x360.jpg 640w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-919" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/54-300x169.jpg" alt="54" width="300" height="169" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/54-300x169.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/54-768x431.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/54-1024x575.jpg 1024w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/54-640x360.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/55.jpg" rel="attachment wp-att-920"><img class="lazy lazy-hidden alignnone size-medium wp-image-920" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/55-300x201.jpg" alt="55" width="300" height="201" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/55-300x201.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/55-768x514.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/55-1024x686.jpg 1024w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-920" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/55-300x201.jpg" alt="55" width="300" height="201" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/55-300x201.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/55-768x514.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/55-1024x686.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/56.jpg" rel="attachment wp-att-921"><img class="lazy lazy-hidden alignnone size-medium wp-image-921" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/56-300x200.jpg" alt="56" width="300" height="200" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/56-300x200.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/56-768x512.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/56-1024x683.jpg 1024w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-921" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/56-300x200.jpg" alt="56" width="300" height="200" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/56-300x200.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/56-768x512.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/56-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/8.jpg" rel="attachment wp-att-922"><img class="lazy lazy-hidden alignnone size-medium wp-image-922" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/8-300x199.jpg" alt="8" width="300" height="199" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/8-300x199.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/8-768x509.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/8-1024x678.jpg 1024w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-922" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/8-300x199.jpg" alt="8" width="300" height="199" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/8-300x199.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/8-768x509.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/8-1024x678.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/10.jpg" rel="attachment wp-att-924"><img class="lazy lazy-hidden alignnone size-medium wp-image-924" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/10-300x225.jpg" alt="10" width="300" height="225" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/10-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/10-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/10-1024x768.jpg 1024w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-924" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/10-300x225.jpg" alt="10" width="300" height="225" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/10-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/10-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/10-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/11.jpg" rel="attachment wp-att-925"><img class="lazy lazy-hidden alignnone size-medium wp-image-925" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/11-300x225.jpg" alt="PTDC0006a" width="300" height="225" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/11-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/11-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/11-1024x768.jpg 1024w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-925" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/11-300x225.jpg" alt="PTDC0006a" width="300" height="225" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/11-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/11-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/11-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/15.jpg" rel="attachment wp-att-926"><img class="lazy lazy-hidden alignnone size-medium wp-image-926" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/15-300x197.jpg" alt="15" width="300" height="197" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/15-300x197.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/15-768x505.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/15-1024x673.jpg 1024w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/15-640x420.jpg 640w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-926" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/15-300x197.jpg" alt="15" width="300" height="197" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/15-300x197.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/15-768x505.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/15-1024x673.jpg 1024w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/15-640x420.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/02/20.jpg" rel="attachment wp-att-927"><img class="lazy lazy-hidden alignnone size-medium wp-image-927" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/20-300x225.jpg" alt="20" width="300" height="225" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/20-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/20-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/20-1024x768.jpg 1024w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-927" src="http://www.offendersupervision.eu/wp-content/uploads/2015/02/20-300x225.jpg" alt="20" width="300" height="225" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/02/20-300x225.jpg 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/20-768x576.jpg 768w, http://www.offendersupervision.eu/wp-content/uploads/2015/02/20-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a></p>
+<p>The Visualising practice project collected images from 12 practitioners in 5 countries, also with support from the Action.</p>
+<p>In total we collected and analysed over 700 images. For our final conference in Brussels on 11-12th March, 2016, these images were given to an artist, Carolyne Kardia who is curating an exhibition of 60 images.</p>
+<p>12 of those images also provided the stimuli for a 2-day song-writing workshop in Glasgow in February 2016 facilitated by the charity <a href="http://voxliminis.co.uk">Vox Liminis</a>. The workshop involved musicians, people with experience of supervision, a criminal justice social worker, an artist, two criminologists and a radio producer in co-writing 12 songs, some of which wereperformed at our final conference.</p>
+<p>You can listen to a short podcast about the songwriting workshop here:</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-754-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.offendersupervision.eu/wp-content/uploads/2016/03/Vox-Supervision-edit2.mp3?_=1" /><a href="http://www.offendersupervision.eu/wp-content/uploads/2016/03/Vox-Supervision-edit2.mp3">http://www.offendersupervision.eu/wp-content/uploads/2016/03/Vox-Supervision-edit2.mp3</a></audio>
+<p>We&#8217;re very grateful to Richard Bull for making this podcast.</p>
+<p>You can also find and listen to all 12 songs here: <a href="http://www.voxliminis.co.uk/seen-and-heard/">Vox Liminis: Seen and Heard</a></p>
+<p>To see the full exhibition brochure and read more about the songwriting workshop, click here: <a href="http://www.offendersupervision.eu/wp-content/uploads/2016/03/Seen-and-Heard.pdf" rel="">Seen and Heard</a></p>
+	            <div style="clear:both;"></div>
+	            <p></p> 
+	        </div>
+	            
+                                    
+                        
+        </div>
+        
+    </div>
+
+    <div class="four columns">
+    	<div class="sidebar right">
+ 
+	<div id="archives-6" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-3" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>    
+</div>    </div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+var mejsL10n = {"language":"en-us","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_9ace56f77b2e008209c168fab2f6bce4.js"></script></body>
+</html>

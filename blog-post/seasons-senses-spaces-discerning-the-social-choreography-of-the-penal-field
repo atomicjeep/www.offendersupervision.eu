@@ -1,0 +1,404 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Seasons, Senses, Spaces: Discerning the Social Choreography of the Penal Field | Offender Supervision in Europe</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="canonical" href="http://www.offendersupervision.eu/blog-post/seasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Reality testing: A psychologist&#8217;s reflection on researching supervision' href='http://www.offendersupervision.eu/blog-post/reality-testing-a-psychologists-reflection-on-researching-supervision' />
+<link rel='next' title='2nd World Congress on Community Corrections' href='http://www.offendersupervision.eu/blog-post/2nd-world-congress-on-community-corrections' />
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='http://www.offendersupervision.eu/?p=833' />
+<link rel="alternate" type="application/json+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fseasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fseasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=7D2B3034F481873C91445984CA6449F9');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-833 single-format-standard custom-background">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<p id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></p>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    	
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+<div id="content" class="row">
+
+	<div class="eight columns">
+	
+		<div class="post-833 post type-post status-publish format-standard hentry category-blog-post" id="post-833">
+		
+				
+						
+			<h1 class="headline">Seasons, Senses, Spaces: Discerning the Social Choreography of the Penal Field</h1>
+		
+	        <div class="postauthor">            
+	            <p>Posted by <a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a> on Thursday, June 18, 2015 &middot; <a href="http://www.offendersupervision.eu/blog-post/seasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field#comments">Leave a Comment</a> &nbsp; </p>
+	        </div>
+	        
+	        		        		            <div class="featureimg"></div>
+		         
+	        			
+			<div class="article">
+				<p><em>This guest post comes from Hannah Graham who has recently taken up a post at the University of Stirling but who is relatively new to Scotland, the UK and Europe&#8230; which made her an ideal person to comment on our recent conference and on the developing work of the Action&#8230;</em></p>
+<p>This is a reflexive response to the wonderfully <em>carte blanche </em>invitation to offer thoughts on the work of the COST Action ‘Offender Supervision in Europe’, and its recent conference in Athens, from the perspective of one who has only recently encountered this network (having only recently moved to the continent from Australia). Following on from the last guest post in this blog is no easy feat. In that post, conference guest speaker and psychologist Prof. Stef Decoene articulated numerous questions and arguments about the conference, and about the research methods developing in and through the network’s activities. Although my post was mostly written before reading Stef’s post, and is not intended as a formal response to his, it is clear that my voice and thoughts on the same conference and the same research are different. Informed by the work of French sociologist Pierre Bourdieu, the notion of ‘the penal field’ shapes the thoughts that follow – a concept that has already been employed in a guest post for this blog by Joshua Page back in 2013 (available <a href="http://www.offendersupervision.eu/blog-post/the-shape-of-re-entry-probation-and-the-penal-field-in-minnesota">here</a>, see also Page, 2012; Durnescu and McNeill, 2014).</p>
+<p>Considering the penal field, including its practices and cultures, creates space for simultaneous (self) reflection on ourselves as criminological actors (and our respective disciplinary allegiances, cultures and ‘habitus’ as Bourdieu would say, as ‘seers’ and ‘knowers’ of the penal field). The leitmotif of this COST network is its culture. It encompasses a remarkable and rare combination of productivity, creativity, empirical integrity, and epistemological humility. I affirm Stef’s observation that a palpable sense of joy and camaraderie exists among COST network researchers, creating a special atmosphere infrequently observed in other academic forums of the same size.</p>
+<p>In the following sub-sections, I summarise some of the network’s compelling characteristics and contributions across three inter-related spheres, using the metaphors of ‘seasons’, ‘senses’ and ‘spaces’. Interwoven within this is a reflexive critique of what I see as some of the wider issues affecting criminology and criminal justice research, demarcating why the work of this COST network is distinctive.</p>
+<p><strong>Seasons: Understanding Shifts in the Social Ecology of the Penal Field</strong></p>
+<p>In order to argue how and why the COST research agenda constitutes a progressive development, I wish to first examine some of the current issues (and ideology wars) affecting the discipline. These are illuminated using the analogy of weather forecasting and meteorology. Trying to understand the complex social problem of crime and those who commit it (individually and collectively) predominantly based on criminogenic risk instruments and recidivism rates is like trying to understand complex weather conditions and events predominantly based on the use of a thermometer. Such instruments and metrics have their uses. However, to accurately gauge the temperature (or criminogenic risk or recidivism rates) is not the same as knowing the seasons and conditions which influence weather patterns and events (that is, the relational, socio-political, spatial and temporal conditions and generative structures in which crime and punishment exist).</p>
+<p>Further extension of the analogy about weather forecasting instruments captures key points of difference: while the temperature is measured based on the <em>volume </em>of mercury in a thermometer; the weight of the air is measured based on <em>flows </em>and <em>differences </em>in the <em>atmospheric pressure </em>above the reservoir of mercury in a barometer. Akin to an (over)reliance on the volumetric and numeric measurements of the thermometer, a current issue in criminology is the narrowing of empirical attention to that which is easily measurable and knowable in terms of crime and criminal justice (which is, in part, tied in to what is commissioned and what is fundable). As valuable as this type of knowledge is, we do not learn more about the penal field &#8212; and its actors, nor its potential transformation &#8212; by perpetually producing more of it. Other types of ‘evidence’ and experience, from other experts and sources of knowledge, are still required. Just as the multi-faceted phenomenon of climate change is not fully understood, nor sufficiently responded to, based on knowledge of the temperature and predicting future rises, so too the complex phenomena of mass supervision and mass incarceration are not aptly understood, nor adequately responded to based on a preoccupation with knowing and predicting recidivism rates, incarceration rates and the plethora of other symptoms of problems with deeper roots in society and culture. The problems and their magnitude are increasingly well known, and the penal emergency well documented. Arguably, what is needed are more advanced mixed methodologies to investigate and explain the <em>fullness</em> of ‘what is’ – the socio-political conditions and ‘seasons’ within penality, and across the wider populace, which surround the numbers and rates of the problems – as well as more sophisticated ways of foreseeing and realising different futures.</p>
+<p>Similar to the equivalent of a bureau of meteorology, the COST network is timely in its role as a kind of ‘discerning collective’ in European criminology. With members from 23 nations and diverse disciplinary backgrounds (yes, especially psychology and law, as well as sociology and social work), this network is well positioned in its capacity to analyse the social ecology and shifting seasons affecting the penal field, within and across institutional and jurisdictional borders. A social-ecological understanding of the field can complement (but not replace) and build on what is already known about social problems and professional practices, to illuminate issues of power and the generative structures which shape them.</p>
+<p>A cutting-edge example of the network’s contributions is the bespoke ‘Eurobarometer’ survey tool, designed by members of the COST ‘Experiencing Supervision’ working group whose work was presented by Dr Ioan Durnescu at the Athens conference. While Stef Decoene and I both applaud with interest the advent of this tool, as well as the others mentioned in other sub-sections of this blog, it is the emphasis on understanding experience where our views differ.</p>
+<p>Stef felt ‘uneasy’ about the focus on experience; yet from my perspective, the emphasis on experience is valuable. People’s experiences and their interpretations of those experiences matter; especially as it gives voice to the value and import of their lives (be it personal or professional). For too long, and with too few exceptions, not enough has been known about the perspectives and experiences of people under supervision, beyond evaluations limited to specific instruments, initiatives and institutions. Just as a weather barometer is sensitive to pressures, flows and differences, the Eurobarometer tool and associated research has the capacity to realise more advanced insights into people’s experiences of offender supervision within and across jurisdictions. In part, this will help to address a crucial knowledge gap about the contours and dynamics of ‘mass supervision’, beyond assessing its scale and shape. If the Eurobarometer is used in combination with the other research methods and tools developed by the three COST working groups, building on their existing outputs (e.g., McNeill and Beyens, 2013), we can expect to see some of the most sophisticated critical and comparative insights into offender supervision in Europe yet. Given the recent rapid changes in influential jurisdictions (for better or for worse) like England and Wales, as well as the advent of new probation services and systems in some European nations in recent years, it feels like such contributions could hardly be more timely.</p>
+<p><strong>Senses: Creative Insights into Visceral Experiences</strong></p>
+<p>Much of the extant international criminological literature is based on stats or stories, with research findings routinely evidenced by surveys, randomised control trials, interviews, evaluation research and other stock standard staples. The pervasive influence of psychology, with its passion for expert-led measurement, and the ‘What Works?’ movement is that these have given rise to a dominant emphasis on the cognitive-behavioural, both in terms of penal practices and, more indirectly, in terms of ‘correctional’ research methodologies. Research questions often (perhaps too often) seek to instrumentally elicit what people <em>think </em>and <em>do</em>. There is nothing necessarily wrong with this. Yet, more cognitive behaviourally-oriented methods are by no means the only valid ways of empirically engaging with practitioners and people with convictions to better understand the penal field and its impacts.</p>
+<p>A major strength of the work of this COST network is its development of mixed methodologies that can be summarised by four C’s: critical, comparative, co-productive, and creative ways of knowing. Like many others present, I thoroughly enjoyed the conference sessions explaining the design and use of visual criminology and ‘photovoice’ in the ‘Supervisible’ project, observation and ethnography, vignettes and diaries. These types of research methods elicit not only with what people think and do, but go further to engage the senses, seeking insights into what is seen, heard, spoken, written and touched/traversed in practising and experiencing offender supervision. They reach beyond the realms of the cognitive to engage with moral and emotional dimensions. They also have the capacity to creatively reveal ideological concerns, and normative concerns, as well as any one-off instrumental structured interview can. Finally, they may yield rich descriptive data that is not entirely possible in a Randomised Control Trial precisely because they do not seek control, and do not limit what is seen down to a small list of ‘variables’.</p>
+<p>These creative mixed methods are empirically defensible <em>and </em>refreshingly reveal the use of the criminological imagination (see Young, 2011). Their design and use within one jurisdictional context is interesting. Their development and mobilisation for use in diverse institutional and jurisdictional contexts <em>across a continent</em> is ground-breaking. If hearts and minds are to be changed beyond the confines of academia – a task increasingly important in an era bearing the brunt of penal populism and neoliberalism – these types of engaging and evocative means and ends are welcome additions to the field.</p>
+<p><strong>Spaces: The ‘Social Choreography’ of Penal Architectures and Actors</strong></p>
+<p>Following on from this, one of the more exciting facets of the COST network research, as well as other studies by individual members (e.g., see Phillips, 2014), is exploration of ‘penal spaces.’ The ‘Picturing Probation’ project being undertaken by the COST ‘Practising Supervision’ working group uses visual and ethnographic observational methods to critically analyse the influence of penal architectures, designs, geographies and technologies on practices and people’s experiences.</p>
+<p>This emergent line of inquiry fits with what Danish architecture academic Trine Brun Petersen (2013) calls ‘social choreography’, a notion which advances understanding of the dynamic interfaces between the material, spatial, relational and social in penal institutions. Based on her PhD research, Brun Petersen (2013) shows how penal architectures are inscribed with penal values, implying that their character and power (and interpretation) influences and is influenced by actors and social relations involved in their design and use. If her contributions are considered alongside those of the likes of Michel Foucault, Henri LeFebvre and Antony Duff, there are compelling reasons as to why the interfaces between the material and the social within penal spaces should be analysed as a form of penal communication.</p>
+<p>Importantly, this facet of the COST research is an early step in the right direction to address a significant knowledge gap in criminology. Although ‘carceral geographies’ and ‘critical carceral studies’ are starting to come to the fore internationally, their proponents’ preoccupation with the prison has led to neglect of parts of the wider penal field and its architectures beyond sites of literal confinement. Conversely, the COST network research and the fascinating yet robust cross-floor discussions at the conference following these presentations, start to shed light on the symbolic signs and ‘linguistic landscapes’ (Shah, 2015) which make up the material realities of probation and parole offices and discursive practices, and other penal spaces beyond the prison. More empirical and theoretical work needs to be done in this area.</p>
+<p><strong>What have ‘We’ Become and Where are ‘We’ Going? Some Final Reflections on Criminologists as Actors in the Penal Field</strong></p>
+<p>The compelling work and culture of the COST network is refreshing for what it is, and for what it isn’t. This raises some final critiques which reflect on the discipline. It feels like criminology has encountered a paradoxical bind: many criminologists persistently critique institutions and their bounded rationalities, and call for ‘their’ reform, yet so much of what makes up <em>our </em>current criminological output reflects a bounded and blinkered focus on institutions, interventions and individuals. We count recidivism rates; we judge institutions and individual lives predicated on a focus delimited to programmes, policies and interventions. To return to my earlier analogy, are we potentially at risk of thinking we are scientists who know and critique the complex vagaries of climate change (or crime and punishment), and yet find ourselves holding only a thermometer? Don’t get me wrong, we need the tools and knowledge that we have. However, these should not unnecessarily limit our understandings of sound ‘defensible practice’, in criminological research, nor in criminal justice practice. Innovative criminological networks and mixed methodologies, such as those being pioneered by this COST network, remind us of the possibilities of the collective and the critically comparative. Criminology has a lot to offer, and ‘we’ are key actors who have the capacity to not only understand but shape the penal field.</p>
+<p>In his 2013 blog post about the penal field in a US State, Joshua Page argued that meaningful reform of the penal field ‘requires altering the field’s composition, assumptions and principles – not simply demonstrating that individual policies “don’t work”’, and I would add: or even that they do ‘work’. We cannot afford to ignore issues of culture and context. Beyond the fundamental ethical and empirical thresholds that we were taught, and now teach, at university, and which underpin academic peer review, I am happy to let rest the stand-alone arguments about ‘What Works’, and what counts as science (and, implicitly, who counts as a scientist). Perhaps these are unwinnable wars? Are these just unsustainable side-effects of disciplinary denominationalism and the hegemonic ‘us’ building that makes up attempts at the ‘colonisation’ of criminology (for more, see Beyens and McNeill, 2013)? It is naïve to think that our relational dynamics as criminologists and penal actors have no effect on the social choreography of the field. While I don’t wish to put COST network members on a pedestal, as they are not immune to these dynamics, however, they do offer a positive exemplar as helpful cause for wider critical reflection: what have ‘we’ become? And where are ‘we’ going?</p>
+<p>In closing, I wish to thank the COST network members for their part in what was a fantastic international conference. I will leave you with a few questions as you embark on your final year of this COST Action: What do you hope for? What will become of your findings, and what will be the sustainable legacy beyond the life of this network (at least, in its iteration as a COST Action)? How might the work of this COST network foster shifts from preoccupation with the carceral, to critical analysis and pursuit of the transformative in improving offender supervision? How might your tools and research outputs be disseminated and used to reimagine and reconfigure different futures? Rest assured, your experiences matter, your work is already having a positive impact, and the rest of us keenly follow on with interest.</p>
+<p><strong>Dr Hannah Graham</strong> is a Research Fellow in Criminology in the Scottish Centre for Crime and Justice Research (SCCJR) at the University of Stirling, Scotland. Email: <a href="mailto:h.m.graham@stir.ac.uk">h.m.graham@stir.ac.uk</a> Twitter: @DrHannahGraham</p>
+<p><strong>References </strong>available upon request.</p>
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.offendersupervision.eu/blog-post/seasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field"
+    dc:identifier="http://www.offendersupervision.eu/blog-post/seasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field"
+    dc:title="Seasons, Senses, Spaces: Discerning the Social Choreography of the Penal Field"
+    trackback:ping="http://www.offendersupervision.eu/blog-post/seasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field/trackback" />
+</rdf:RDF>			</div>
+			
+							
+			<div class="postmeta">
+				<p>Category: <a href="http://www.offendersupervision.eu/category/blog-post" rel="category tag">Blog Posts</a> &middot; Tags: </p>
+			</div>
+		
+		</div>
+		
+		<div class="postcomments">
+				<div id="comments">
+	
+	
+			<p class="nocomments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+		</div>
+		
+				
+	</div>
+	
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-6" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-3" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>    
+</div>	</div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_2621b4858a5bd1fdfb79db7e21370a3d.js"></script></body>
+</html>

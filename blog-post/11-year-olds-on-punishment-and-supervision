@@ -1,0 +1,489 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>11 year olds on punishment and supervision | Offender Supervision in Europe</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="canonical" href="http://www.offendersupervision.eu/blog-post/11-year-olds-on-punishment-and-supervision" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; 11 year olds on punishment and supervision Comments Feed" href="http://www.offendersupervision.eu/blog-post/11-year-olds-on-punishment-and-supervision/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Free copies of &#8216;Offender Supervision in Europe&#8217;?' href='http://www.offendersupervision.eu/blog-post/free-copies-of-offender-supervision-in-europe' />
+<link rel='next' title='Supervision, qu&#8217;est-ce que c&#8217;est?' href='http://www.offendersupervision.eu/blog-post/supervision-quest-ce-que-cest' />
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='http://www.offendersupervision.eu/?p=578' />
+<link rel="alternate" type="application/json+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2F11-year-olds-on-punishment-and-supervision" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2F11-year-olds-on-punishment-and-supervision&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=86EF85F5D1AF1FA0EC093A5EA719FE22');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-578 single-format-standard custom-background">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<p id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></p>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    	
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+<div id="content" class="row">
+
+	<div class="eight columns">
+	
+		<div class="post-578 post type-post status-publish format-standard hentry category-blog-post category-decision-making-and-supervision" id="post-578">
+		
+				
+						
+			<h1 class="headline">11 year olds on punishment and supervision</h1>
+		
+	        <div class="postauthor">            
+	            <p>Posted by <a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a> on Friday, January 24, 2014 &middot; <a href="http://www.offendersupervision.eu/blog-post/11-year-olds-on-punishment-and-supervision#comments">4 Comments</a> &nbsp; </p>
+	        </div>
+	        
+	        		        		            <div class="featureimg"></div>
+		         
+	        			
+			<div class="article">
+				<p>On Tuesday of this week, I faced my biggest public-speaking challenge for a while &#8212; I had agreed to go into my daughter&#8217;s school to speak to two primary 7 (aged 11-12) classes about punishment. Though I hadn&#8217;t been expecting it, the children&#8217;s responses really left an impression and got me thinking about our interests in penal decision-making; and about our aspirations to engage with public understandings of supervision. So, I thought I&#8217;d share the approach that I took (a kind of deliberative process) and the children&#8217;s reactions and see if any of you might be tempted to repeat the exercise in other places. If we want to engage with public attitudes and understanding, we should start with the decision-makers of the future!</p>
+<p>The PowerPoint slides from the 90 minute session can be accessed here: <a href="http://www.offendersupervision.eu/wp-content/uploads/2014/01/Punishment_11-12.ppt">Punishment_11-12</a></p>
+<p>You&#8217;ll see that I started by getting the children to reflect on their examples of punishment at home, at school and in other contexts. We also had an interesting discussion about the ways that they punish and forgive each other as friends (i.e. when they fall out) &#8212; and I tried to get them to think about unfair punishment and how that might be a result of a problem with the process of deciding how to punish, or a problem with the decision itself. As it had hoped, this allowed us to get a three main purposes or justifications of punishment: (1) making people pay back for harms done (2) teaching people a lesson and influencing their future behaviour (3) sending clear messages about how we feel and what we believe is wrong.</p>
+<p>On my daughter&#8217;s advice (in fact at her insistence), I showed them lots of pictures of different kinds of punishment &#8212; past and present. Nothing gory or gratuitous, but ranging from capital to corporal to carceral to community punishments. This set the scene for me to lay out a simplified range of sentencing options available in Scotland today: warnings, financial penalties (fines and compensation orders), supervisory penalties (including probation, unpaid work and electronic monitoring) and custodial penalties. I also asked the children (working in groups) to sort a list of crimes in order of seriousness, and to order a list of possible penalties in terms of severity. They arrived at broad consensus fairly readily, but they were quick to note that in both cases (crimes and punishment), seriousness or severity depended on the individual circumstances: how big a fine, how long on supervision or in prison, how much was stolen, why was the driver driving dangerously, etc&#8230;</p>
+<p>Next, I introduced them to a case and &#8216;put them on the bench&#8217;; i.e. I got them to close their eyes and imagine themselves in the judge&#8217;s seat, with the &#8216;offender&#8217; in front of them, the prosecutor and the defence agent, and the public. The fact that many of them had been on a recent trip to a court (to conduct a mock civil trial) helped them get the feel for this.</p>
+<p>The first phase of deliberation about the case introduced the following information:</p>
+<ul>
+<li>Robert Johnson breaks into a house in the night. He breaks a window to get in. No one is at home. He steals a TV and an iPad; goods worth about £1,000. The cost of repairing the window is £250. Robert has been in trouble before; he has two convictions for stealing from shops. What sentence would you pass?</li>
+</ul>
+<p>Perhaps unsurprisingly, the children (having discussed the task for a few minutes in small groups) settled mostly on financial penalties, perhaps following the cue that the monetary costs of the crime provided. But some supplemented the notion of pound-for-pound repayment (in the form of compensation) with punitive damages (usually a few hundred pounds, paid to the state via a fine). A small number of the groups wanted the punitive part of the sentence to involve imprisonment.</p>
+<p>The second phase introduced some information about the victim:</p>
+<ul>
+<li>The owner of the house is an old lady called Mrs Beech. She is a widow and lives alone. She has been in hospital at the time of the break-in. She doesn’t get out much anymore and relies on the TV for news and entertainment. Her iPad held all the photos of her grandchildren who live in Australia and she used it to Skype them regularly. She has house insurance and can get the TV and iPad replaced (and maybe the photos too), but she has been left scared about living on her own. She fears the thief might come back. Does this information make you want to reconsider the sentence you gave Robert?</li>
+</ul>
+<p>Again, perhaps predictably, the children responded to this information by adding to the punitive element of the sentence. More groups opted for custody (which they wanted to be in addition to the payment of compensation) and the length of the custodial sentences grew. Some expressed a more emotive reaction to the case &#8212; a stronger sense of anger about the harms done and a clearer desire to express that anger in punitive terms.</p>
+<p>The third phase introduced some information about Robert:</p>
+<ul>
+<li>Robert is 21. He is a drug addict and is homeless. He has been living on the streets since he was 15, when we ran away from a children’s home. He was in the home because his mum couldn’t look after him properly because of her drug problem. He doesn’t know his dad. He says he broke into the house because he was desperate for money. He has a son (aged 3) who lives with his ex-girlfriend. He wanted to be able to buy his son something nice for Christmas. He didn’t have any money because (a) he can’t work because of his drug problem and (b) his benefits had been stopped when he missed appointments (also because of his drug problems). Does any of this information change the way you would sentence Robert?</li>
+</ul>
+<p>At this point, the mood in the class altered. The children were still concerned for Mrs Beech, but now many of them felt concern for Robert too. It was at this point the supervision began to be discussed as an option. For some this was about helping Robert tackle his drug problems &#8212; and his homelessness. For others, it was about making sure these problems were tackled so that he wouldn&#8217;t offend again. Some wanted supervision to be added to the fine and/or imprisonment, but several groups now abandoned financial penalties on the grounds that Robert had no prospects of paying. One or two now looked to electronic monitoring as condition of supervision &#8212; both the satisfy the need to punish and to control or influence his behaviour. A few suggested he should go to prison since at least he would have a place to stay and to get off drugs.</p>
+<p>In the final phase, I told the children that they had decided to defer sentence for a year, since Robert had a place lined up in drug rehab, and then added the following:</p>
+<ul>
+<li>During his time in the rehab, Robert wrote a letter to Mrs Beech and, after some careful planning, they met up. He apologised and explained why he had done what he had done. Mrs Beech was relieved to find that he hadn’t targeted her house for any particular reason. She was also very glad to know that he was sorting his life out. She and Robert agreed that he would spend the next 2 or 3 weekends tidying up her garden as a way of saying sorry. The time has come to pass final sentence on Robert. What will you do?</li>
+</ul>
+<p>For many of the children, this was enough for them to decide to settle the matter with a warning. But for others, they wanted a period of supervision &#8212; both to ensure that Robert received help to ensure that progress was sustained and to make sure that the change was real.</p>
+<p>You probably won&#8217;t be surprised to hear that I went on to explain a little about desistance from crime, and about the role that age, social bonds and shifts in identity play in the process. Again, they seemed to grasp this intuitively. Unfortunately, I ran out of time for the last step &#8212; which was to invite them to develop a supervision plan for Robert.</p>
+<p>I hope you can see why I was so impressed and encouraged by the children&#8217;s responses. They demonstrated their ability to assimilate and respond to new information &#8212; but without forgetting the importance of what had gone before. And they were careful to balance the interests of the different parties and to attend to all three of the justifications of punishment that we had discussed (though I made no real effort to encourage them to do so).</p>
+<p>So… is anyone tempted to repeat the exercise with some 11-12 year olds in your country?</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.offendersupervision.eu/blog-post/11-year-olds-on-punishment-and-supervision"
+    dc:identifier="http://www.offendersupervision.eu/blog-post/11-year-olds-on-punishment-and-supervision"
+    dc:title="11 year olds on punishment and supervision"
+    trackback:ping="http://www.offendersupervision.eu/blog-post/11-year-olds-on-punishment-and-supervision/trackback" />
+</rdf:RDF>			</div>
+			
+							
+			<div class="postmeta">
+				<p>Category: <a href="http://www.offendersupervision.eu/category/blog-post" rel="category tag">Blog Posts</a>, <a href="http://www.offendersupervision.eu/category/decision-making-and-supervision" rel="category tag">Decision-making and supervision</a> &middot; Tags: </p>
+			</div>
+		
+		</div>
+		
+		<div class="postcomments">
+				<div id="comments">
+	
+	
+			<h3 id="comments-title">
+			4 Comments on &ldquo;<span>11 year olds on punishment and supervision</span>&rdquo;		</h3>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-2437">
+		<article id="comment-2437" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://1.gravatar.com/avatar/d9da395f63e26493265161255acb08aa?s=72&#038;d=mm&#038;r=g' data-lazy-srcset='http://1.gravatar.com/avatar/d9da395f63e26493265161255acb08aa?s=144&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-72 photo' height='72' width='72' /><noscript><img alt='' src='http://1.gravatar.com/avatar/d9da395f63e26493265161255acb08aa?s=72&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d9da395f63e26493265161255acb08aa?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /></noscript><span class="fn">S3m4n71cs</span> <br/> <a href="http://www.offendersupervision.eu/blog-post/11-year-olds-on-punishment-and-supervision#comment-2437"><time pubdate datetime="2014-01-24T18:58:31+00:00">January 24, 2014</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>Excellent post. This approach has great value in educating the wider public not just 11 year olds!</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2438">
+		<article id="comment-2438" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://0.gravatar.com/avatar/05a71654d7199d8449282401c73a649e?s=72&#038;d=mm&#038;r=g' data-lazy-srcset='http://0.gravatar.com/avatar/05a71654d7199d8449282401c73a649e?s=144&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-72 photo' height='72' width='72' /><noscript><img alt='' src='http://0.gravatar.com/avatar/05a71654d7199d8449282401c73a649e?s=72&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/05a71654d7199d8449282401c73a649e?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /></noscript><span class="fn"><a href='http://gapingsilence.wordpress.com' rel='external nofollow' class='url'>Phil</a></span> <br/> <a href="http://www.offendersupervision.eu/blog-post/11-year-olds-on-punishment-and-supervision#comment-2438"><time pubdate datetime="2014-01-24T20:21:13+00:00">January 24, 2014</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>Never mind 11-year-olds, I&#8217;m tempted to borrow this for my third-year Criminology students&#8230;! Sounds like a great exercise.</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-2518">
+		<article id="comment-2518" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://0.gravatar.com/avatar/683f5cb063ca874bf8b9d02f2db67470?s=72&#038;d=mm&#038;r=g' data-lazy-srcset='http://0.gravatar.com/avatar/683f5cb063ca874bf8b9d02f2db67470?s=144&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-72 photo' height='72' width='72' /><noscript><img alt='' src='http://0.gravatar.com/avatar/683f5cb063ca874bf8b9d02f2db67470?s=72&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/683f5cb063ca874bf8b9d02f2db67470?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /></noscript><span class="fn">Azrni</span> <br/> <a href="http://www.offendersupervision.eu/blog-post/11-year-olds-on-punishment-and-supervision#comment-2518"><time pubdate datetime="2014-02-20T10:39:51+00:00">February 20, 2014</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>Great slides. Brilliant commentary.</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-2592">
+		<article id="comment-2592" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=72&#038;d=mm&#038;r=g' data-lazy-srcset='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=144&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-72 photo' height='72' width='72' /><noscript><img alt='' src='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=72&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /></noscript><span class="fn"><a href='http://herzog-evans.com' rel='external nofollow' class='url'>Martine Herzog-Evans</a></span> <br/> <a href="http://www.offendersupervision.eu/blog-post/11-year-olds-on-punishment-and-supervision#comment-2592"><time pubdate datetime="2014-03-12T07:40:40+00:00">March 12, 2014</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>What a wonderful idea Fergus. One that I would love to emulate at my kids’ schools.<br />
+The two youngest, just turned 7 &amp; 10, have become Lego fans. Unfortunately Lego is not what it used to be (listen to the Old Grandma!) and now proposes entire ‘worlds’ for the kids to build. Amongst said worlds are police precincts, prison vans, and prisons. As much as I love the Lego concept (kids do learn to concentrate on a given task for hours on end and become very adept at building) I must say I was initially rather distraught at the carceral and law and order brainwashing that this daily creates. Inevitably, my kids started spending their times playing with the Lego thief who stole from the Lego museum, only to be chased by the Lego police car, and be locked up in the Lego jail. Mind you thieves then went on to systematically escape&#8230; only to be caught again, and so on and so forth.<br />
+The other day, however, my kids built a&#8230; courthouse (which, importantly is not part of the Lego official worlds). In other words they have moved from ‘police sends nasty man to jail’ to first ‘police refers nasty man to the court and the court decides and there’s a fair trial’.<br />
+I thought that was a very positive sign of progress.<br />
+Then my 10 year old son started explaining to me that things weren’t always what they seemed. That the unshaved apparent thief Lego character was in fact the victim, and that the tiny weeny cute blue Lego character was in fact the guilty chap who had assaulted the other one. Great: my sons were now ready not to judge people on face value.<br />
+I asked them what the sentence for the assault had been: ‘ten days’ they told me. Even though I have tried to explain to them what probation and treatment were, somehow it does not seem to fit in the Lego universe and I guess it’s not as exciting as a car chase followed by prison. Still I thought that ten days was a very lenient sanction.<br />
+My 10 year old also commented the other day: ‘Imagine being in prison for 30 years Mum! One year is hugely long as it is. No crime deserves thirty years!’<br />
+I am relieved: Legos have not totally influenced my boys.</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+	
+</div><!-- #comments -->
+		</div>
+		
+				
+	</div>
+	
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-6" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-3" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>    
+</div>	</div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_2621b4858a5bd1fdfb79db7e21370a3d.js"></script></body>
+</html>

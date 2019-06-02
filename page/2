@@ -1,0 +1,878 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_0dd82a92bfcddf6eeaea31b3b377dc93.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Offender Supervision in Europe - COST Action IS1106 - Part 2</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel='prev' href='http://www.offendersupervision.eu/' />
+<link rel='next' href='http://www.offendersupervision.eu/page/3' />
+
+<link rel="canonical" href="http://www.offendersupervision.eu/page/2" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=C2474F82499F4820DCF2EF5A38D8636B');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="home blog paged custom-background paged-2">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<h1 id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></h1>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+
+</div> <!-- close container -->
+
+<div class="container">
+
+<div class="row">
+	
+	<div class="eight columns">
+		<div id="homepage">
+	    	
+	    		        
+	        <div class="post first">
+	            
+	            					            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Feb</div>
+	            			    <div class="day">1</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/conference-programme-published-early-bird-rate-and-group-discounts#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/conference-programme-published-early-bird-rate-and-group-discounts" rel="bookmark">Conference Programme Published, Early Bird Rate and Group Discounts!</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/conference-programme-published-early-bird-rate-and-group-discounts" rel="bookmark"></a>
+		                              
+	                        <p>The final programme for our forthcoming conference has now been published: see <a href="http://www.offendersupervision.eu/wp-content/uploads/2016/02/OSE-Brussels-Conference-Programme.pdf" rel="">OSE Brussels Conference Programme</a>. Please do take a look: We think you&#8217;ll agree that it looks like being and exceptionally interesting event for practitioners, policymaker, academics and students &#8212; and for anyone interested in penal reform. You can hear our chair, Prof Fergus McNeill discussing the programme in this podcast:</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-891-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/COST-Conference-Trailer_1.m4a?_=1" /><a href="http://www.offendersupervision.eu/wp-content/uploads/2016/01/COST-Conference-Trailer_1.m4a">http://www.offendersupervision.eu/wp-content/uploads/2016/01/COST-Conference-Trailer_1.m4a</a></audio>
+<p>We have now extended the &#8216;early bird rate&#8217; of €150 for this two day event until 15th February and are offering 5 places for the price of 4 for any person or organisation making a block booking. Please do come and join us!</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jan</div>
+	            			    <div class="day">22</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/conference-trailer#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/conference-trailer" rel="bookmark">Conference Trailer&#8230;</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/conference-trailer" rel="bookmark"></a>
+		                              
+	                        <p>If you&#8217;d like to know more about our forthcoming conference (including why it involves an exhibition of photographs and a musical performance!), have a listen to this brief interview with our Action Chair, Prof Fergus McNeill&#8230;</p>
+<audio class="wp-audio-shortcode" id="audio-886-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/COST-Conference-Trailer_1.m4a?_=2" /><a href="http://www.offendersupervision.eu/wp-content/uploads/2016/01/COST-Conference-Trailer_1.m4a">http://www.offendersupervision.eu/wp-content/uploads/2016/01/COST-Conference-Trailer_1.m4a</a></audio>
+<p>This is the first of a series of short podcasts exploring the results of our work over the last 4 years. We&#8217;ll be releasing more of these over the next few weeks, so watch this space.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jan</div>
+	            			    <div class="day">20</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/conference-update-book-now#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/conference-update-book-now" rel="bookmark">Conference Update: Book Now!</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/conference-update-book-now" rel="bookmark"></a>
+		                              
+	                        <p><strong>Bridging Research, Policy and Practice: Final Conference</strong></p>
+<p>Our final conference, <strong>Bridging Research, Policy and Practice</strong>, will be held on March 11 to 12 2016, at the Free University of Brussels. A conference flyer can be downloaded <a href="http://www.offendersupervision.eu/wp-content/uploads/2015/10/OSE-Brussels-Conference.pdf">here</a>, and delegates can register at <a href="http://www.eventbrite.co.uk/e/cost-conference-2016-bridging-research-policy-and-practice-tickets-18306871345">www.eventbrite.co.uk/e/cost-conference-2016-bridging-research-policy-and-practice-tickets-18306871345</a></p>
+<p>As regular readers of this blog will know, we are a network of researchers across 23 countries who have been working for almost four years to promote cooperation between institutions and individuals in different European states (and with different disciplinary perspectives) carrying out research on offender supervision. In the first year of our work, we reviewed and synthesized existing knowledge about supervision across these jurisdictions. Since then, we have been developing new conceptual and methodological approaches to studying supervision comparatively and seeking to stimulate policy, practice and public debate about supervision. The final conference reports on the findings of our work and explores the future of offender supervision and the crucial role of relationships between research, policy and practice in that future.</p>
+<p>Conference presentations and responses will come from leading academics, policymakers and probation leaders from European institutions and jurisdictions, as well as people with lived experience of supervision. Thanks to funding from the UK Economic and Social Research Council, the conference will also be accompanied by an exhibition comprising photographs (from across several European states) representing those lived experiences as well as images taken by probation practitioners. The exhibition launch will also feature a performance of songs inspired by these images, co-written by musicians, artists and people with experience of supervision. The songs will be performed by Louis Abbott of the renowned Scottish indie band <a href="http://admiralfallow.com">Admiral Fallow</a></p>
+<p>Conference Fees and Registration, drinks and food included:<br />
+• Early bird rate, register before 1st February 2016: €150<br />
+• Standard rate (after 1st February 2016): €175<br />
+• Concession rate available for the first 20 PhD students: €50 (first come first served basis)</p>
+<p><strong>Closing date for applications is 28th February 2016 (Early booking advised as places as limited)</strong><br />
+For registration enquiries, please see the <a href="http://www.eventbrite.co.uk/e/cost-conference-2016-bridging-research-policy-and-practice-tickets-18306871345">event registration page</a> or contact<strong> Shona.Craven@glasgow.ac.uk </strong></p>
+<p><strong>Preliminary Programme</strong></p>
+<p><u>Friday 11th March 2016</u></p>
+<p>9.00 Registration (Tea and Coffee)<br />
+9.45 Plenary I: Two futures for offender supervision: Values and markets<br />
+(Chair: Kristel Beyens)<br />
+• Common wisdom? European norms and values for offender supervision (Christine Morgenstern)<br />
+• Probation in the Public and Private Sectors: The case of England and Wales (Gwen Robinson, Lol Burke and Matthew Millings)<br />
+11.30 Break<br />
+12.00 Plenary II: Experiencing supervision, expressing subjectivity<br />
+(Convened by Ioan Durnescu and Christian Grafl; and with a response from someone with lived experience of supervision)</p>
+<p>13.30 Lunch</p>
+<p>14.30 Plenary III: Decision-making and supervision: Who’s got the power?<br />
+(Convened by Miranda Boone and Niamh Maguire; and with a response from a judge)<br />
+16.00 Break<br />
+16.30 Plenary IV: Practicing supervision: Inside the black box<br />
+(Convened by Gwen Robinson and Kerstin Svensson; Respondent: Annette Hennessy, former Chief Probation Officer of Merseyside, UK)<br />
+18.00 Drinks reception, exhibition opening/music performance and conference dinner (buffet)</p>
+<p><u>Saturday 12th March 2016</u></p>
+<p>9.30 Panel Discussion: Strengthening links between research, policy and<br />
+Practice (Chair: Ioan Durnescu, Panel Members: Willem van der Brugge (CEP), Jesca Beneder (European Commission – DG Justice) Annie Devos (Houses of Justice, French speaking part of Belgium), Hans Dominicus (Houses of Justice, Flemish part of Belgium) and Peter Palsma (Director of the Leger des Heils (Salvation Army) division of the Dutch Probation Service).<br />
+10.45 Break<br />
+11.15 Plenary V: Reforming supervision and reforming research: Where the<br />
+Action is (Fergus McNeill, Chair of COST Action IS1106)<br />
+12.30 Close and lunch</p>
+<p>&nbsp;</p>
+<p><strong>Suggested accommodation</strong></p>
+<h4>Bed and Breakfasts</h4>
+<p>Not far from the university (located in Ixelles, near the Matonge area), at a reasonable price and very near to each other:</p>
+<ol>
+<li>B&amp;B Vincent V Gallery: <a href="https://www.bedandbreakfast.eu/bed-and-breakfast/ixelles-elsene/b-b-vincentv-gallery/111267/">https://www.bedandbreakfast.eu/bed-and-breakfast/ixelles-elsene/b-b-vincentv-gallery/111267/</a></li>
+<li>BnBUrban : <a href="http://www.bnburban.com/home-en">http://www.bnburban.com/home-en</a></li>
+<li>Urban Rooms : <a href="http://www.urbanrooms.be/home">http://www.urbanrooms.be/home</a></li>
+</ol>
+<p>&nbsp;</p>
+<p>In Brussels centre :</p>
+<ol>
+<li>Happy Guesthouse : <a href="http://www.booking.com/hotel/be/happy.en-gb.html?aid=311093;label=happy-ayvbQFB_oRUPNf9XUJsXIAS48457741643%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atikwd-90567944718%3Alp1001004%3Ali%3Adec%3Adm;sid=025abd8d6aff242b628045db355c61bb;dcid=4;dist=0;room1=A%2CA;sb_price_type=total;srfid=c8324d0c65928f46b1ce212dd44319b5915705e3X1;type=total;ucfs=1&amp;;lang=en-gb">http://www.booking.com/hotel/be/happy.en-gb.html?aid=311093;label=happy-ayvbQFB_oRUPNf9XUJsXIAS48457741643%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atikwd-90567944718%3Alp1001004%3Ali%3Adec%3Adm;sid=025abd8d6aff242b628045db355c61bb;dcid=4;dist=0;room1=A%2CA;sb_price_type=total;srfid=c8324d0c65928f46b1ce212dd44319b5915705e3X1;type=total;ucfs=1&amp;;lang=en-gb</a></li>
+</ol>
+<h4>Hotels</h4>
+<ol>
+<li>Hotel Bedford : <a href="http://www.bedfordhotelcongresscentre.com/index.htm?lbl=ggl-en-ntp&amp;gclid=CKrn7bSgmsgCFScTwwodzxcPwA">http://www.bedfordhotelcongresscentre.com/index.htm?lbl=ggl-en-ntp&amp;gclid=CKrn7bSgmsgCFScTwwodzxcPwA</a></li>
+<li>Thon Hotel Stephanie (be careful, because there are several Thon Hotels in Brussels!) : <a href="https://www.thonhotels.be/nl/booking/selecteer-hotel/selecteer-kamer/?cc=BRU&amp;c=BE&amp;f=12.03.2016&amp;t=13.03.2016&amp;ad=1%7C&amp;ch=0%7C&amp;ex=&amp;pa=&amp;ba=&amp;ag=&amp;bookingcontext=2&amp;hc=BRUBRI">https://www.thonhotels.be/nl/booking/selecteer-hotel/selecteer-kamer/?cc=BRU&amp;c=BE&amp;f=12.03.2016&amp;t=13.03.2016&amp;ad=1|&amp;ch=0|&amp;ex=&amp;pa=&amp;ba=&amp;ag=&amp;bookingcontext=2&amp;hc=BRUBRI</a></li>
+<li>NH Hotel du grand Sablon : <a href="http://www.booking.com/hotel/be/grandsablon.nl.html?aid=304142;label=gen173nr-15CAEoggJCAlhYSDNiBW5vcmVmaBWIAQGYARy4AQTIAQTYAQPoAQE;sid=025abd8d6aff242b628045db355c61bb;dcid=4;no_rooms=1;req_adults=2;req_children=0&amp;;checkin=2016-03-09;checkout=2016-03-12;atlas_src=hp_iw_title">http://www.booking.com/hotel/be/grandsablon.nl.html?aid=304142;label=gen173nr-15CAEoggJCAlhYSDNiBW5vcmVmaBWIAQGYARy4AQTIAQTYAQPoAQE;sid=025abd8d6aff242b628045db355c61bb;dcid=4;no_rooms=1;req_adults=2;req_children=0&amp;;checkin=2016-03-09;checkout=2016-03-12;atlas_src=hp_iw_title</a></li>
+<li>Hotel Sabina : <a href="http://www.booking.com/hotel/be/sabina.en-gb.html?label=gen173nr-17CAEoggJCAlhYSDNiBW5vcmVmaBWIAQGYAS64AQTIAQTYAQHoAQH4AQs;sid=025abd8d6aff242b628045db355c61bb;dcid=1;dist=0;group_adults=2;sb_price_type=total;srpos=1;type=total&amp;">http://www.booking.com/hotel/be/sabina.en-gb.html?label=gen173nr-17CAEoggJCAlhYSDNiBW5vcmVmaBWIAQGYAS64AQTIAQTYAQHoAQH4AQs;sid=025abd8d6aff242b628045db355c61bb;dcid=1;dist=0;group_adults=2;sb_price_type=total;srpos=1;type=total&amp;</a></li>
+<li>Hotel Crowne Plaza Brussels – Le Palace : <a href="http://www.booking.com/hotel/be/crowneplazabrussels.en-gb.html?aid=304142;label=gen173nr-17CAEoggJCAlhYSDNiBW5vcmVmaBWIAQGYAS64AQTIAQTYAQHoAQH4AQs;sid=025abd8d6aff242b628045db355c61bb;dcid=1;no_rooms=1;req_adults=2;req_children=0&amp;;checkin=2016-03-09;checkout=2016-03-12;atlas_src=hp_iw_title">http://www.booking.com/hotel/be/crowneplazabrussels.en-gb.html?aid=304142;label=gen173nr-17CAEoggJCAlhYSDNiBW5vcmVmaBWIAQGYAS64AQTIAQTYAQHoAQH4AQs;sid=025abd8d6aff242b628045db355c61bb;dcid=1;no_rooms=1;req_adults=2;req_children=0&amp;;checkin=2016-03-09;checkout=2016-03-12;atlas_src=hp_iw_title</a></li>
+</ol>
+<p>&nbsp;</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jan</div>
+	            			    <div class="day">8</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/consultation-on-european-rules-for-csm#respond">1 Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/consultation-on-european-rules-for-csm" rel="bookmark">Consultation on European Rules for CSM</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/consultation-on-european-rules-for-csm" rel="bookmark"></a>
+		                              
+	                        <p>The European Rules on Community Sanctions and Measures are currently being updated by the Council of Europe. The Council for Penological Co-operation (PC-CP), which advises and reports to the European Committee on Crime Problems (CDPC), undertakes this work (Prof Rob Canton being the PC-CP expert that has contacted the COST Action).</p>
+<p>Christine Morgenstern, leader of our Working Group on European Norms, Policy and Practice, with the help of several colleagues in the Action, has prepared this excellent response: <a href="http://www.offendersupervision.eu/wp-content/uploads/2016/01/CSM-Rules-Consultation-Response.pdf" rel="">CSM Rules Consultation Response</a>. Please do read it and share it widely.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jan</div>
+	            			    <div class="day">4</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/studying-electronic-monitoring-in-hungary-and-scotland#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/studying-electronic-monitoring-in-hungary-and-scotland" rel="bookmark">Studying electronic monitoring in Hungary and Scotland</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/studying-electronic-monitoring-in-hungary-and-scotland" rel="bookmark"></a>
+		                              
+	                        <p>This post comes from Léna Podoletz, who is an assistant lecturer at the Eötvös Loránd University (ELTE) Faculty of Law, Department of Criminology. Lena conducted a Short-Term Scientific Mission (STSM) research between 1<sup>st</sup> August and 15<sup>th</sup> October in Scotland (at the University of Strathclyde) and in Hungary on the topic of electronic monitoring of offenders. Here, she describes what she did and what she learned&#8230;</p>
+<p>&#8216;My aim was to examine and compare how electronic monitoring of offenders is implemented in Hungary and in Scotland and also to study the perception of electronic tagging among the various actors of the criminal justice system and to compare the two frequently used methods of electronic monitoring (radio frequency technology and GPS technology).</p>
+<p>During the weeks of my STSM – along with reviewing the available literature on the topics of my research questions and studying the legal regulation and available data, reports and guidances both in Hungary and in Scotland – I was able to talk to many highly skilled and knowledgeable experts and practitioners, visit institutions and attend interesting informative events, all of which added priceless new information and knowledge to my research.</p>
+<p>I also had the opportunity to interview actors of the criminal justice system and experts on electronic monitoring and the conversations gave me a deeper understanding of electronic monitoring and the system within it is being operated.</p>
+<p>I visited the electronic monitoring centre in Scotland and was given an insight to the practical issues of electronic monitoring.</p>
+<p>As a guest, I observed a meeting of the subgroup of the ‘Electronic Monitoring in Scotland Working Group’ where the member of the group were sharing ideas on the communication on electronic monitoring to the various stakeholders and on the development of the electronic monitoring communication strategy.</p>
+<p>On 26<sup>th</sup> August I participated the conference titled ‘ENCOURAGING TAG-TICAL REHABILITATION &#8211; (The Role of Electronic Monitoring)’ in Perth where experts from all areas of the criminal justice system were discussing the future of electronic monitoring. I also participated in the conference workshops which were organized for sharing experiences and ideas on electronic monitoring as a tool and also the system it is supposed to operated in. At the conference I also had the possibility to experience the feeling of ‘being tagged’ as part of a small demonstration of GPS tags.</p>
+<p>Throughout my research – and in the paper I wrote based on my project – I was mainly concentrating on the question whether electronic monitoring should be used as a stand alone punishment. According to my findings, electronic monitoring has more potential to achieve the goals of its use when it is implemented in a combination with social work. Social work can provide the essential support for offenders&#8217; integration or reintegration. It is questionable whether electronic monitoring used by itself can achieve this. Of course, the fact that the offender is not separated from his/her usual environment, family, etc. can also contribute to this effect, providing huge support but I believe that the role of social work in this matter is an absolute necessity.</p>
+<p>The other questions I discuss in my paper were either raised during the interviews I conducted with experts or are based on my observation regarding electronic monitoring. I debate whether electronic monitoring should be handled by the public or the private sector, how might the different characteristics of the two sectors affect the implementation and practice of electronic monitoring; what is the possible role of the family in electronic monitoring – if there are family members living in the same household as the offender -; the questions of breach criteria in Scotland; the possible uses and advantages of both radio frequency and GPS based technologies; and one of the most essential questions: the communication between the various actors who are involved in electronic monitoring.</p>
+<p>I would like to express my gratitude and thank to all people who helped me during my research. First and foremost to Professor Mike Nellis, who was my host at the University of Strathclyde and who provided essential help to my research, and Professor Klára Kerezsi, my thesis supervisor. I also have to mention all the experts who I met and interviewed, and of course, the COST Action IS1106 – Offender Supervision in Europe which made my research possible.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Oct</div>
+	            			    <div class="day">30</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/bridging-research-policy-and-practice-final-conference#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/bridging-research-policy-and-practice-final-conference" rel="bookmark">Bridging Research, Policy and Practice: Final Conference</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/bridging-research-policy-and-practice-final-conference" rel="bookmark"></a>
+		                              
+	                        <p>We are delighted to announce the provisional programme of our <strong>Final Conference: Bridging Research, Policy and Practice</strong> which will be held on 11-12th March, 2016, at the Free University of Brussels. A conference flyer can be downloaded here: <a href="http://www.offendersupervision.eu/wp-content/uploads/2015/10/OSE-Brussels-Conference.pdf">OSE Brussels Conference</a></p>
+<p>As regular readers of this blog will know, we are a network of researchers across 23 countries who have been working for almost 4 years to promote cooperation between institutions and individuals in different European states (and with different disciplinary perspectives) carrying out research on offender supervision. In the first year of our work, we reviewed and synthesized existing knowledge about supervision across these jurisdictions. Since then, we have been developing new conceptual and methodological approaches to studying supervision comparatively and seeking to stimulate policy, practice and public debate about supervision. The final conference reports on the findings of our work and explores the future of offender supervision and the crucial role of relationships between research, policy and practice in that future.</p>
+<p>Conference presentations and responses will come from leading academics, policymakers and probation leaders from European institutions and jurisdictions, as well as people with lived experience of supervision. Thanks to funding from the UK Economic and Social Research Council, the conference will also be accompanied by an exhibition comprising photographs (from across several European states) representing those lived experiences as well as images taken by probation practitioners. The exhibition launch will also feature a performance of songs inspired by these images.</p>
+<p>Conference Fees and Registration, drinks and food included:<br />
+• For COST Action Members: €40 (reimbursed through COST expenses system)<br />
+• Early bird rate, register before 1st February 2016: €150<br />
+• Standard rate (after 1st February 2016): €175<br />
+• Concession rate available for the first 20 PhD students: €50 (first come first served basis)<br />
+• Closing date for applications is 28th February 2016 (Early booking advised as places as limited)<br />
+• For registration enquiries, please contact<strong> Shona.Craven@glasgow.ac.uk </strong></p>
+<p><strong>Preliminary Programme</strong></p>
+<p>Friday 11th March 2016</p>
+<p>9.00 Registration (Tea and Coffee)<br />
+9.45 Plenary I: Two futures for offender supervision: Values and markets<br />
+(Chair: Kristel Beyens)<br />
+• Common wisdom? European norms and values for offender supervision (Christine Morgenstern)<br />
+• Probation in the Public and Private Sectors: The case of England and Wales (Gwen Robinson, Lol Burke and Matthew Millings)<br />
+11.30 Break<br />
+12.00 Plenary II: Experiencing supervision, expressing subjectivity<br />
+(Convened by Ioan Durnescu and Christian Grafl; and with a response from someone with lived experience of supervision)</p>
+<p>13.30 Lunch</p>
+<p>14.30 Plenary III: Decision-making and supervision: Who’s got the power?<br />
+(Convened by Miranda Boone and Niamh Maguire; and with a response from a judge)<br />
+16.00 Break<br />
+16.30 Plenary IV: Practicing supervision: Inside the black box<br />
+(Convened by Gwen Robinson and Kerstin Svensson; Respondent: Annette Hennessy, former Chief Probation Officer of Merseyside, UK)<br />
+18.00 Drinks reception, exhibition opening/music performance and conference dinner (buffet)</p>
+<p>Saturday 12th March 2016</p>
+<p>9.30 Panel Discussion: Strengthening links between research, policy and<br />
+Practice (Chair: Ioan Durnescu, Panel Members: Willem van der Brugge (CEP), Jesca Beneder (European Commission &#8211; DG Justice) Annie Devos (Houses of Justice, French speaking part of Belgium), Hans Dominicus (Houses of Justice, Flemish part of Belgium) and Peter Palsma (Director of the Leger des Heils (Salvation Army) division of the Dutch Probation Service).<br />
+10.45 Break<br />
+11.15 Plenary V: Reforming supervision and reforming research: Where the<br />
+Action is (Fergus McNeill, Chair of COST Action IS1106)<br />
+12.30 Close and lunch</p>
+<p>Please book soon to avoid dissappointment!</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jul</div>
+	            			    <div class="day">23</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/2nd-world-congress-on-community-corrections#respond">1 Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/2nd-world-congress-on-community-corrections" rel="bookmark">2nd World Congress on Community Corrections</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/2nd-world-congress-on-community-corrections" rel="bookmark"></a>
+		                              
+	                        <p>This time last week, I had the honour to provide the closing plenary address to the 2nd World Congress on Community Corrections in Los Angeles. In it, I drew a little on the work of the Action, and included some of the images from our Supervisible project to illustrate it. The talk was an attempt to combine philosophical, sociological and criminological thought to explore (respectively) the purposes, scale and shape of community corrections. You can find an audio recording and the powerpoint presentation here:</p>
+<audio class="wp-audio-shortcode" id="audio-844-3" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://www.offendersupervision.eu/wp-content/uploads/2015/07/McNeill_LA_170715.mp3?_=3" /><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/07/McNeill_LA_170715.mp3">http://www.offendersupervision.eu/wp-content/uploads/2015/07/McNeill_LA_170715.mp3</a></audio>
+<p><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/07/McNeill-LA-July15-revised.pdf">McNeill LA 170715</a></p>
+<p>On the question of scale, which has been addressed in this blog before, I drew once again on the work of Michelle Phelps. Action members will recall that at our first annual conference we were lucky enough to hear Michelle discuss her work. It was great to see her again in LA and to attend her workshop which again explored the challenges posed by the development of &#8216;mass probation&#8217;. It was also good to see probation administrators and practitioners engaging in a thoughtful and critical discussion of why probation growth is not, in and of itself, an unqualified good.</p>
+<p>In another workshop, I was fortunate to present alongside Ioan Durnescu (who discussed early findings from his study of the reentry Romanians who has been imprisoned in Norway) and Reuben Miller (who discussed his work on reentry in Chicago). Again, Action members will remember Reuben&#8217;s excellent address to us in Bratislava.</p>
+<p>All in all, one of my key impressions of the Congress was of a global community of practitioners that is coming of age. That maturing is evidenced in the enthusiasm for learning from one another; and in the willingness to listen to and engage with some difficult messages from &#8216;critical friends&#8217; from the academy (like Michelle, Reuben, Ioan and me). That capacity for developing a critical reflexive analysis of community corrections could hardly be more important &#8212; if indeed we are entering an era when mass incarceration is set to be restrained, partly by increased reliance on offender supervision in the community.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jun</div>
+	            			    <div class="day">18</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/seasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/seasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field" rel="bookmark">Seasons, Senses, Spaces: Discerning the Social Choreography of the Penal Field</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/seasons-senses-spaces-discerning-the-social-choreography-of-the-penal-field" rel="bookmark"></a>
+		                              
+	                        <p><em>This guest post comes from Hannah Graham who has recently taken up a post at the University of Stirling but who is relatively new to Scotland, the UK and Europe&#8230; which made her an ideal person to comment on our recent conference and on the developing work of the Action&#8230;</em></p>
+<p>This is a reflexive response to the wonderfully <em>carte blanche </em>invitation to offer thoughts on the work of the COST Action ‘Offender Supervision in Europe’, and its recent conference in Athens, from the perspective of one who has only recently encountered this network (having only recently moved to the continent from Australia). Following on from the last guest post in this blog is no easy feat. In that post, conference guest speaker and psychologist Prof. Stef Decoene articulated numerous questions and arguments about the conference, and about the research methods developing in and through the network’s activities. Although my post was mostly written before reading Stef’s post, and is not intended as a formal response to his, it is clear that my voice and thoughts on the same conference and the same research are different. Informed by the work of French sociologist Pierre Bourdieu, the notion of ‘the penal field’ shapes the thoughts that follow – a concept that has already been employed in a guest post for this blog by Joshua Page back in 2013 (available <a href="http://www.offendersupervision.eu/blog-post/the-shape-of-re-entry-probation-and-the-penal-field-in-minnesota">here</a>, see also Page, 2012; Durnescu and McNeill, 2014).</p>
+<p>Considering the penal field, including its practices and cultures, creates space for simultaneous (self) reflection on ourselves as criminological actors (and our respective disciplinary allegiances, cultures and ‘habitus’ as Bourdieu would say, as ‘seers’ and ‘knowers’ of the penal field). The leitmotif of this COST network is its culture. It encompasses a remarkable and rare combination of productivity, creativity, empirical integrity, and epistemological humility. I affirm Stef’s observation that a palpable sense of joy and camaraderie exists among COST network researchers, creating a special atmosphere infrequently observed in other academic forums of the same size.</p>
+<p>In the following sub-sections, I summarise some of the network’s compelling characteristics and contributions across three inter-related spheres, using the metaphors of ‘seasons’, ‘senses’ and ‘spaces’. Interwoven within this is a reflexive critique of what I see as some of the wider issues affecting criminology and criminal justice research, demarcating why the work of this COST network is distinctive.</p>
+<p><strong>Seasons: Understanding Shifts in the Social Ecology of the Penal Field</strong></p>
+<p>In order to argue how and why the COST research agenda constitutes a progressive development, I wish to first examine some of the current issues (and ideology wars) affecting the discipline. These are illuminated using the analogy of weather forecasting and meteorology. Trying to understand the complex social problem of crime and those who commit it (individually and collectively) predominantly based on criminogenic risk instruments and recidivism rates is like trying to understand complex weather conditions and events predominantly based on the use of a thermometer. Such instruments and metrics have their uses. However, to accurately gauge the temperature (or criminogenic risk or recidivism rates) is not the same as knowing the seasons and conditions which influence weather patterns and events (that is, the relational, socio-political, spatial and temporal conditions and generative structures in which crime and punishment exist).</p>
+<p>Further extension of the analogy about weather forecasting instruments captures key points of difference: while the temperature is measured based on the <em>volume </em>of mercury in a thermometer; the weight of the air is measured based on <em>flows </em>and <em>differences </em>in the <em>atmospheric pressure </em>above the reservoir of mercury in a barometer. Akin to an (over)reliance on the volumetric and numeric measurements of the thermometer, a current issue in criminology is the narrowing of empirical attention to that which is easily measurable and knowable in terms of crime and criminal justice (which is, in part, tied in to what is commissioned and what is fundable). As valuable as this type of knowledge is, we do not learn more about the penal field &#8212; and its actors, nor its potential transformation &#8212; by perpetually producing more of it. Other types of ‘evidence’ and experience, from other experts and sources of knowledge, are still required. Just as the multi-faceted phenomenon of climate change is not fully understood, nor sufficiently responded to, based on knowledge of the temperature and predicting future rises, so too the complex phenomena of mass supervision and mass incarceration are not aptly understood, nor adequately responded to based on a preoccupation with knowing and predicting recidivism rates, incarceration rates and the plethora of other symptoms of problems with deeper roots in society and culture. The problems and their magnitude are increasingly well known, and the penal emergency well documented. Arguably, what is needed are more advanced mixed methodologies to investigate and explain the <em>fullness</em> of ‘what is’ – the socio-political conditions and ‘seasons’ within penality, and across the wider populace, which surround the numbers and rates of the problems – as well as more sophisticated ways of foreseeing and realising different futures.</p>
+<p>Similar to the equivalent of a bureau of meteorology, the COST network is timely in its role as a kind of ‘discerning collective’ in European criminology. With members from 23 nations and diverse disciplinary backgrounds (yes, especially psychology and law, as well as sociology and social work), this network is well positioned in its capacity to analyse the social ecology and shifting seasons affecting the penal field, within and across institutional and jurisdictional borders. A social-ecological understanding of the field can complement (but not replace) and build on what is already known about social problems and professional practices, to illuminate issues of power and the generative structures which shape them.</p>
+<p>A cutting-edge example of the network’s contributions is the bespoke ‘Eurobarometer’ survey tool, designed by members of the COST ‘Experiencing Supervision’ working group whose work was presented by Dr Ioan Durnescu at the Athens conference. While Stef Decoene and I both applaud with interest the advent of this tool, as well as the others mentioned in other sub-sections of this blog, it is the emphasis on understanding experience where our views differ.</p>
+<p>Stef felt ‘uneasy’ about the focus on experience; yet from my perspective, the emphasis on experience is valuable. People’s experiences and their interpretations of those experiences matter; especially as it gives voice to the value and import of their lives (be it personal or professional). For too long, and with too few exceptions, not enough has been known about the perspectives and experiences of people under supervision, beyond evaluations limited to specific instruments, initiatives and institutions. Just as a weather barometer is sensitive to pressures, flows and differences, the Eurobarometer tool and associated research has the capacity to realise more advanced insights into people’s experiences of offender supervision within and across jurisdictions. In part, this will help to address a crucial knowledge gap about the contours and dynamics of ‘mass supervision’, beyond assessing its scale and shape. If the Eurobarometer is used in combination with the other research methods and tools developed by the three COST working groups, building on their existing outputs (e.g., McNeill and Beyens, 2013), we can expect to see some of the most sophisticated critical and comparative insights into offender supervision in Europe yet. Given the recent rapid changes in influential jurisdictions (for better or for worse) like England and Wales, as well as the advent of new probation services and systems in some European nations in recent years, it feels like such contributions could hardly be more timely.</p>
+<p><strong>Senses: Creative Insights into Visceral Experiences</strong></p>
+<p>Much of the extant international criminological literature is based on stats or stories, with research findings routinely evidenced by surveys, randomised control trials, interviews, evaluation research and other stock standard staples. The pervasive influence of psychology, with its passion for expert-led measurement, and the ‘What Works?’ movement is that these have given rise to a dominant emphasis on the cognitive-behavioural, both in terms of penal practices and, more indirectly, in terms of ‘correctional’ research methodologies. Research questions often (perhaps too often) seek to instrumentally elicit what people <em>think </em>and <em>do</em>. There is nothing necessarily wrong with this. Yet, more cognitive behaviourally-oriented methods are by no means the only valid ways of empirically engaging with practitioners and people with convictions to better understand the penal field and its impacts.</p>
+<p>A major strength of the work of this COST network is its development of mixed methodologies that can be summarised by four C’s: critical, comparative, co-productive, and creative ways of knowing. Like many others present, I thoroughly enjoyed the conference sessions explaining the design and use of visual criminology and ‘photovoice’ in the ‘Supervisible’ project, observation and ethnography, vignettes and diaries. These types of research methods elicit not only with what people think and do, but go further to engage the senses, seeking insights into what is seen, heard, spoken, written and touched/traversed in practising and experiencing offender supervision. They reach beyond the realms of the cognitive to engage with moral and emotional dimensions. They also have the capacity to creatively reveal ideological concerns, and normative concerns, as well as any one-off instrumental structured interview can. Finally, they may yield rich descriptive data that is not entirely possible in a Randomised Control Trial precisely because they do not seek control, and do not limit what is seen down to a small list of ‘variables’.</p>
+<p>These creative mixed methods are empirically defensible <em>and </em>refreshingly reveal the use of the criminological imagination (see Young, 2011). Their design and use within one jurisdictional context is interesting. Their development and mobilisation for use in diverse institutional and jurisdictional contexts <em>across a continent</em> is ground-breaking. If hearts and minds are to be changed beyond the confines of academia – a task increasingly important in an era bearing the brunt of penal populism and neoliberalism – these types of engaging and evocative means and ends are welcome additions to the field.</p>
+<p><strong>Spaces: The ‘Social Choreography’ of Penal Architectures and Actors</strong></p>
+<p>Following on from this, one of the more exciting facets of the COST network research, as well as other studies by individual members (e.g., see Phillips, 2014), is exploration of ‘penal spaces.’ The ‘Picturing Probation’ project being undertaken by the COST ‘Practising Supervision’ working group uses visual and ethnographic observational methods to critically analyse the influence of penal architectures, designs, geographies and technologies on practices and people’s experiences.</p>
+<p>This emergent line of inquiry fits with what Danish architecture academic Trine Brun Petersen (2013) calls ‘social choreography’, a notion which advances understanding of the dynamic interfaces between the material, spatial, relational and social in penal institutions. Based on her PhD research, Brun Petersen (2013) shows how penal architectures are inscribed with penal values, implying that their character and power (and interpretation) influences and is influenced by actors and social relations involved in their design and use. If her contributions are considered alongside those of the likes of Michel Foucault, Henri LeFebvre and Antony Duff, there are compelling reasons as to why the interfaces between the material and the social within penal spaces should be analysed as a form of penal communication.</p>
+<p>Importantly, this facet of the COST research is an early step in the right direction to address a significant knowledge gap in criminology. Although ‘carceral geographies’ and ‘critical carceral studies’ are starting to come to the fore internationally, their proponents’ preoccupation with the prison has led to neglect of parts of the wider penal field and its architectures beyond sites of literal confinement. Conversely, the COST network research and the fascinating yet robust cross-floor discussions at the conference following these presentations, start to shed light on the symbolic signs and ‘linguistic landscapes’ (Shah, 2015) which make up the material realities of probation and parole offices and discursive practices, and other penal spaces beyond the prison. More empirical and theoretical work needs to be done in this area.</p>
+<p><strong>What have ‘We’ Become and Where are ‘We’ Going? Some Final Reflections on Criminologists as Actors in the Penal Field</strong></p>
+<p>The compelling work and culture of the COST network is refreshing for what it is, and for what it isn’t. This raises some final critiques which reflect on the discipline. It feels like criminology has encountered a paradoxical bind: many criminologists persistently critique institutions and their bounded rationalities, and call for ‘their’ reform, yet so much of what makes up <em>our </em>current criminological output reflects a bounded and blinkered focus on institutions, interventions and individuals. We count recidivism rates; we judge institutions and individual lives predicated on a focus delimited to programmes, policies and interventions. To return to my earlier analogy, are we potentially at risk of thinking we are scientists who know and critique the complex vagaries of climate change (or crime and punishment), and yet find ourselves holding only a thermometer? Don’t get me wrong, we need the tools and knowledge that we have. However, these should not unnecessarily limit our understandings of sound ‘defensible practice’, in criminological research, nor in criminal justice practice. Innovative criminological networks and mixed methodologies, such as those being pioneered by this COST network, remind us of the possibilities of the collective and the critically comparative. Criminology has a lot to offer, and ‘we’ are key actors who have the capacity to not only understand but shape the penal field.</p>
+<p>In his 2013 blog post about the penal field in a US State, Joshua Page argued that meaningful reform of the penal field ‘requires altering the field’s composition, assumptions and principles – not simply demonstrating that individual policies “don’t work”’, and I would add: or even that they do ‘work’. We cannot afford to ignore issues of culture and context. Beyond the fundamental ethical and empirical thresholds that we were taught, and now teach, at university, and which underpin academic peer review, I am happy to let rest the stand-alone arguments about ‘What Works’, and what counts as science (and, implicitly, who counts as a scientist). Perhaps these are unwinnable wars? Are these just unsustainable side-effects of disciplinary denominationalism and the hegemonic ‘us’ building that makes up attempts at the ‘colonisation’ of criminology (for more, see Beyens and McNeill, 2013)? It is naïve to think that our relational dynamics as criminologists and penal actors have no effect on the social choreography of the field. While I don’t wish to put COST network members on a pedestal, as they are not immune to these dynamics, however, they do offer a positive exemplar as helpful cause for wider critical reflection: what have ‘we’ become? And where are ‘we’ going?</p>
+<p>In closing, I wish to thank the COST network members for their part in what was a fantastic international conference. I will leave you with a few questions as you embark on your final year of this COST Action: What do you hope for? What will become of your findings, and what will be the sustainable legacy beyond the life of this network (at least, in its iteration as a COST Action)? How might the work of this COST network foster shifts from preoccupation with the carceral, to critical analysis and pursuit of the transformative in improving offender supervision? How might your tools and research outputs be disseminated and used to reimagine and reconfigure different futures? Rest assured, your experiences matter, your work is already having a positive impact, and the rest of us keenly follow on with interest.</p>
+<p><strong>Dr Hannah Graham</strong> is a Research Fellow in Criminology in the Scottish Centre for Crime and Justice Research (SCCJR) at the University of Stirling, Scotland. Email: <a href="mailto:h.m.graham@stir.ac.uk">h.m.graham@stir.ac.uk</a> Twitter: @DrHannahGraham</p>
+<p><strong>References </strong>available upon request.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Jun</div>
+	            			    <div class="day">9</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/reality-testing-a-psychologists-reflection-on-researching-supervision#respond">Comment</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/reality-testing-a-psychologists-reflection-on-researching-supervision" rel="bookmark">Reality testing: A psychologist&#8217;s reflection on researching supervision</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/reality-testing-a-psychologists-reflection-on-researching-supervision" rel="bookmark"></a>
+		                              
+	                        <p><em>This guest post comes from Stef Decoene who was one of the guest speakers at our Athens conference. It reminds us of the value of critical inter-disciplinary friends who can challenge our assumptions and provoke new thoughts about how our work can proceed.</em></p>
+<p>When Kristel Beyens asked me if I would be interested in speaking at the Athens conference, my first reaction was to find a good enough reason not to. I don’t like the airport tedium, I had planned to do some gardening at home … and her specific question was not just to speak about a social-psychological perspective on offender supervision, but to challenge the audience. I think she knew I would try to duck her challenge—knowing that Flemish criminology is legally and sociologically oriented (this being a polite way to say that psychology is not considered to be the ideal interdisciplinary co-traveller)—but also that I would not come up with good reasons not to.</p>
+<p>But I should not have worried. Attending the Athens conference was a quite positive experience. Of course, the hotel was wonderful—coming home I could tell about my first experience with a porter (and how I thought for one moment that he was trying to steal my bag!) Also, my worry of being booed, or worse, given the cold shoulder, was misguided. There was a refreshing open-mindedness towards every presentation. Clearly, using the word ‘obedience’ had a certain ‘valence’ which needs analysis. But the presentations of the many working groups all offered glimpses of what motivates the COST members and their intensive and constructive collaboration. The atmosphere showed that many of the researchers present enjoy working together—when Kristel says a Cost meeting is a bit like going home, I now understand a little what she is trying to say! And I very much enjoyed the conference dinner and the table talk—even when it implied being instructed on why psychology is a boring science!</p>
+<p>So, on to my psychologist’s thoughts concerning the conference:</p>
+<p>1. The distinction between compliance and obedience quickly took on; but this risks side-lining more important themes. I think the in/outgroup distinction is even more fundamental, and prior to the differentiation between complying and obeying. In taking obedience as the challenging concept, it may be forgotten that the primary social-psychological question is whether an (ex-)offender is considered by society as in-group, ànd/or whether the ex-offender considers himself as being in-group. If defined (or defining himself) as out-group, the word obedience is no longer a valid description, and using the concept may camouflage that we really are talking about submission instead. I think submission and obedience should be clearly kept apart—obedience implies being in a hierarchical in-group relationship, submission implies being in a raw power (force) out-group relationship.</p>
+<p>And even more crucial is the objective/subjective distinction. From a psychological point of view, whether an offender sees himself in a compliance, obedience, or submission position is not something objective but idiosyncratic/individual/subjective. Knowing how to ‘do’ supervision needs to start with assessing how the ex-offender positions himself vis-à-vis the probation officer/justice. Of course, there may well be ‘objective’ indicators of how an ex-offender positions himself: having a house, a family, friends who came to visit during detention …, may determine a higher probability of seeing oneself as in-group (and thus of being asked to obey). Having interpreted justice as being unfair, having the idea that one does not belong … may raise the chances of seeing oneself as out-group (and being asked to submit). This is an important empirical issue. But anyway, doing offender supervision from a social-psychological perspective implies assessing this positioning (as an aspect of where the working relationship has to start).</p>
+<p>2. Thinking about the conversations I had with other participants, and listening to the impressive congress summary by Prof. McNeill, I wonder what it is that the concept of obedience really triggered. If it is challenging, this seems not to be because it refers to something alien, but more because it makes explicit what is implicitly known but unacknowledged. It seems challenging in the way a therapist may question ways of framing an experience in order to allow the client to make something annoying consciously available and usable for working-through. In fact, some participants came to tell me that they were quite happy that the ‘word’ was out.</p>
+<p>It is strange that concepts such as power, obedience, control generate this tension, while the experiences reported during the conference (and in published papers)—experiences of both (ex-)offenders and probations—so clearly reflect the emotive signs of being in either a power or submission relationship (be it at the commanding vs forcing or obeying vs submitting position).</p>
+<p>Why? To me, the criminological research on offender supervision (and treatment, for that matter) seems quite prescriptive, value-driven. And I don’t think this is a virtue, but a problem. While it is inescapable that our society (just as most others) relegates offenders to either a less-than or a no-citizen position, and while I fully agree that societal reactions towards offenders should be scrutinized and questioned, I think that, as scientists, we are wrong to use the science-label to import these extra-scientific critiques as if their content is descriptive and empirically valid (by presenting it as science).</p>
+<p>Science, although never value-free in its day-to-day individual and social practice, aims—as a social institution and rational practice&#8211; at an intersubjectively validated understanding of reality, using historically validated rules of evidence (Ian Hacking would say it allows to intervene; or to borrow Girard’s assessment of religion, that science reveals the hidden foundations of the world). It is descriptive in a rich but fundamental sense. It does not aim at saying that things should be such or so, but at saying how things are. I’m not being naïve about the complexities underlying this statement, nor about the dangers of science divorced from ethical consideration. But when the descriptive stance is left behind, the questions we ask (for example, what the consequences are of living under imposed conditions) become difficult or impossible to formulate operationally, and by consequence, impede selection of the best possible methodology to get at reliable data, and bias or even blind us when mining these data to uncover their ‘meaning’. Looking at offender supervision from a should-be perspective is valid and important as a too often lacking social and cultural critique, but it is not science.</p>
+<p>What are the possible consequences of “talking to” and “intervening in” the to-be-uncovered reality of offender supervision, when these interventions are not based on well-enough validated knowledge of what is, but on prescriptions of what we would like reality to be, and chosen to be compatible with these wishes? For example, how will an offender interpret the question of a power-holder (such as a probation officer) if he would be willing to “consent” to certain conditions imposed from outside? Can we not expect that this offender will disown the power-holder and experience the consent-seeking as a dishonest manipulation, one of many examples through which justice shows bland disrespect? Is it, then, at all relevant that the probation officer had asked consent because she wants to help?</p>
+<p>More fundamentally still, and putting the behaviour-attitude distinction more central. If it is the case that our society probes deeper and deeper into the biological and personal functioning of its citizens; and that what we call the biopolitical shape of power enlarges step by step the zone of bare life (using Agamben’s concept) in order to globalize enforced control, what does a probation officer do when she tries to change identity (thoughts and feelings), which in any democratic state should be zealously guarded as a private empire?</p>
+<p>Should the empirical knowledge a psychology of social influence offers (however lacking the lustre of creative thinking), with its observation that it is already difficult enough to realize behaviour change, not do more than enough? That is, help to ensure re-entry without putting the bar too high for the offender, and in doing so keeping social control out of the mind? Does acting out of prescription, however well intentioned, in a world culture of control not contribute to even more control? Is this not exactly what Foucault warned against when calling for an archaeology of power? Is it not better to look reality in its face, accumulate knowledge, and then to act within the bounds of interdisciplinary reason and value?</p>
+<p>Obedience (or submission: depending on the relational positions) is what an ex-offender has to do if he wants to leave the prison on conditional release. It is, I think, a fundamental form of respect towards the offender to make that clear. He may not like it, it may hinder or hurt, but modifying his behaviour (doing as told) is what is demanded. If he accepts and invests in bringing behaviour into ‘prosociality’, we are content. What he thinks or feels about me, whether he forms a prosocial identity or instead keeps his antisocial attitudes (in the privacy of his mind) is of no legitimate concern—many good citizens have a lot of very dark antisocial thoughts (as the concept of motivational posturing implies). If it is not my concern as supervisor, it may become a little more difficult to be perverted as an instrument of control. It may be an aspect of archaeology of resistance.</p>
+<p>I think value enters with the question if, when and how we implement (or not) the knowledge we have accumulated. If it enters during the investigation process we lose grip of reality. In this sense, correct terminology reflecting validated knowledge is the founding stone for effective intervention (and for me, effective implies morally guided).</p>
+<p>3. I have the impression that I never before heard the word ‘experience’ more than during the Athens congress. And I have to admit that this strong focus on ‘experiences’ made me uneasy: An experience is by definition a subjective state, a correlate of underlying internal metal processes, the meaning and significance of which are notoriously difficult to ascertain.</p>
+<p>What does it mean if I say that I feel like scum? That I define myself as scum? That I am treated as scum? That I think my interlocutor will be shocked if I say this, and give me lee-way to do as I like (because I hypothesize that he wants to help)? Or maybe that because I feel he hopes to hear exactly this, and I want to be polite?</p>
+<p>The only way to treat an experience scientifically seems to me to accept it as a verbal report (communicating an experience is an action) made for an as yet unknown purpose and expressing a complex, unobservable set of mental processes (thoughts, emotions, motivations, an interpretation of a situation ….). In fact, verbalizing how something is experienced only rarely fulfils a purely informative goal. It performs within a social relationship.</p>
+<p>Let me focus briefly on one of the pictures shown during the Supervisible presentation: a female ex-offender takes a picture of a Greek-like statue, breasts naked. At the conference, the author of the photograph was reported to have said she took this picture to show how exposed she felt. It may be tempting to take this at face-value, but maybe this temptation should be resisted. Of all possible pictures of ‘being exposed’, why precisely this one?</p>
+<p>I have but little experience in art analysis. But if the picture is not taken as a pure and direct summary of a particular experience, and instead as a communicated sign with a to be explored relationship to unobservable mental states, what could (should) one make out of it? The picture shows a forbidding bird/predator-like female—a siren or a harpy. The breasts are imposingly directed outward, but do not succeed in hiding claws from view. The face seems more impassioned than angry, cold. I fail to ascribe to the statue a state of being-exposed. In fact, her nudity is part of her pride and strength—there is nothing weak, hurt, or unstable here.</p>
+<p>And if the author did not suggest identification with the statue (as being made by a female ex-offender, this would be the obvious but possibly naïve supposition), but instead indexed being under the gaze of the statue, why being under the gaze of a naked woman? Statues of justice are never showing a naked woman. And I would suspect that a woman trying the picture being exposed would depict this as being under the gaze of a man … I assume the statue is part of some entrance to a building, symbolically guarding it, installing in the visitor a feeling of … respect/veneration ….? Being under the gaze of the statue only exposes oneself if one enters with disrespectful intent.</p>
+<p>None of these thoughts are intended to suggest a well-enough approximation of what the picture signifies (and/or wants to communicate). But I would like to suggest that the verbal report of an experience is never an explanation of something, but a data point that should be analysed, and not be taken at face-value. The same methodological point can be made about the pictures of probation service buildings: What does the scientist/photographer intend? What does it reveal at closer inspection about unspoken assumptions and values, implicit meanings, inadvertent symbolisation? …. It could also, ànd should, be made about the many verbal reports of offenders, ex-offenders, prison staff and probation officers that are reported in the offender supervision and penology literature.</p>
+<p>A reported experience is a data-point, never an explanation: It needs empirically validated theory to be analysed, explained, and understood. We can understand which significance/valence an ex-offender gives to the supervision by eliciting experiences only when these experiences are taken apart, scrutinized, and analysed to the bone.</p>
+<p>4. I admire the research creativity shown during the many presentations: an eurobarometer, photography to tap experience of supervision, vignettes. Less clear to me is which methodologies will be used to extract knowledge from these studies. With respect to visual data, there is a lot of (semiotic and art-critical) research which seems quite applicable to mine the Supervisible studies, but which were not put to the foreground during the sessions. Using vignettes to elicit reasoning processes is a strong technique, but it presupposes good knowledge of relevant variables to distinguish cases/vignettes ‘systematically’, and I’m unsure if we already have this knowledge. Cognitive psychologists have developed methods to analyze reasoning protocols generated by experts when thinking about problems/cases, and maybe this would be a good way to further understanding why probation officers using professional discretion (as Andrews &amp; Bonta argue that they should always do before deciding) in evaluating what breach really means, look at attitudes. I find the idea of the Eurobarometer appealing—interestingly, relatively less attention was given to this than to, e.g., Supervisible—while its application (when empirically based during construction) could offer a rich inroad into variations in supervision experiences—absolutely necessary when we want to understand what determines these experiences (and how they relate to, e.g., efficacy of kinds of work relationships, or the (un)successful termination of time under imposed conditions).</p>
+<p>In closing: I do not believe that psychology is the sole answer to understanding offender supervision. I do not believe that empirical research is ever able to solve the mysteries of life. And I do not believe that the best way of living is posturing. But I do believe that science is a historically validated route to understanding. And I believe that acting morally presupposes understanding. Acting morally needs to start with looking reality in the eyes, and not blinking.</p>
+<p>Using psychology as an ally (as anyone who has really read Andrews &amp; Bonta should know, it is) may contribute to understanding what offender supervision is.</p>
+<p>Understanding that an offender who considers himself a citizen needs to obey; understanding that an offender who considers himself an alien in our world, needs to submit; understanding that the aim of offender supervision is making the transposition from submission/obedience to compliance; understanding that power and force are everywhere … and I could go on here … should help to find ways to include those who have transgressed and need to be included again, or for the first time in their life.</p>
+<p>An offender has to obey, if he considers himself part of justice’s group. An offender has to submit, if he considers himself outside justice. And society has to be cosmopolitan (in the way Appiah defines it) if it wants to be (and feel) safe by taking ex-offenders in (again). I think this is what a psychology of social influencing implies for research on offender supervision.</p>
+<p>&nbsp;</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            	            
+	            	<div class="holder single">
+	            	
+	            		<div class="postdata">
+	            			<div class="datebox">
+	            			    <div class="month">Apr</div>
+	            			    <div class="day">18</div>
+	            			</div>
+	            			<p><span class="label">Author:</span><br/> 
+	            			<a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a></p> 
+	            			<p><a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#respond">4 Comments</a></p>
+	            			
+	            				            				            		</div>
+	            		
+	            		<div class="article">
+	            			<h2 class="headline"><a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference" rel="bookmark">&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference</a></h2> 
+		                    		                        <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference" rel="bookmark"></a>
+		                              
+	                        <p>For those who did and those who couldn’t attend our recent conference in Athens on ‘Compliance, Enforcement and Breach’, I thought I’d share the gist of my concluding summary of the event.</p>
+<p><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35.png"><img class="lazy lazy-hidden alignnone size-medium wp-image-786" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35-300x202.png" alt="Screen Shot 2015-04-18 at 19.48.35" width="300" height="202" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35-300x202.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35.png 416w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-786" src="http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35-300x202.png" alt="Screen Shot 2015-04-18 at 19.48.35" width="300" height="202" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35-300x202.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35.png 416w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a></p>
+<p>Setting aside my own opening contribution (with Gwen Robinson) on ‘Compliance, Legitimacy and Offender Supervision’, which was based on two papers that some readers will know well, our first major contribution came from an unfamiliar voice and an unfamiliar discipline (to many of us). Prof Stef Decoene (who is both an academic at the Free University of Brussels and a practicing prison psychologist) questioned conventional criminological thinking on compliance by introducing us to how social psychologists understand how one person influences another.</p>
+<p>The first &#8212; and perhaps most fundamental challenge that he posed was that when we (as criminologists) discuss ‘compliance’, we indulge in a kind of collective use of euphemism; the word we should use is ‘obedience’. For social psychologists the term compliance (and the term conformity) apply only to influence between people of the same status and/or in the same social group. When there is a difference in social status or a clear power differential, as in most criminal justice encounters, or when one social group is trying to influence another, obedience is the ‘correct’ term for the objective of the influence attempt. For Stef, this is not a moral or a normative claim but rather an empirically derived distinction. However, he (correctly) anticipated that many of us (both academics and practitioners) would find the term obedience difficult.</p>
+<p>Reflecting on our conversations throughout the conference, I think this may be because obedience implies <em>submission</em>, and while we may typically want people subject to supervision to submit to its formal conditions, a lot of emphasis has been placed on more active forms of <em>cooperation</em> that seem to be implied in the aspirations and content of supervision &#8212; which are often cast in rehabilitative (and sometimes welfarist) terms. Indeed, in my own talk, I had suggested a possible path to legitimate supervision that moved from formal compliance (based on instrumental mechanisms of incentive and disincentive) towards a more substantive compliance based on receiving help, developing an attachment (to the supervisor), and thus coming to see the authority as psychologically (and not just legally) legitimate.</p>
+<p>But, of course, my law scholar colleagues (and in particular Christine Morgenstern) reminded me that, in fact, the obedience of submission to the formal requirements of the order is all that we can reasonably and lawfully <em>demand</em> of the person under supervision. Since these requirements (as I’ll illustrate below) have real punitive weight, submission to them is all that is necessary for retributive justice to be done; and demanding anything further (in the way of substantive compliance or cooperation) would be to cross the threshold into punishment beyond the law (even if the intent is benign). That said, we can<em> ask</em> people to engage more substantively with the constructive intent of supervision (in terms of rehabilitation, reintegration or resocialisation) &#8212; and we can and should do all that we can to <em>offer</em> assistance (not least to mitigate any unintended collateral pains of the punishment).</p>
+<p>In my talk, I had also alluded to the work of Valerie Braithwaite on tax-payers’ ‘motivational postures’ towards tax authorities. She distinguishes between postures of <em>deference</em> (which might represent commitment to or capitulation in the face of the tax authorities) and postures of <em>defiance</em> (which might include explicit resistance, game-playing or disengagement). Crucially, her empirical research shows that these different postures are discernible but that their relationship to tax-payers’ actual compliance with (or obedience towards) tax regimes is contingent.</p>
+<p>This idea of postures (or attitudes and dispositions) towards supervision came alive in our second session focused on the two pilot projects of our working group on experiencing supervision. Wendy Fitzgibbon presented some of the early findings from our ongoing ‘Supervisible’ project. In research sites in England, Germany and Scotland, we have asked people with lived experiences of supervision (past or present, and of whatever sort) to represent their experiences in and through photographs. In the images that Wendy shared (and in a different way in the pilot testing of the ‘Eurobarometer’ &#8212; a survey measure of experiences of supervision &#8212; that Ioan Durnescu presented), we found some evidence that postures of commitment and substantive, cooperative engagement with supervision are possible. However, by far the stronger message of the images was that supervision is experienced as pervasive and painful, particularly in the constraints that it imposes. While we make no claims that these pilot study findings are generalizable or representative, in the three sites the recurring images of <em>constraint</em> (and of <em>waste</em> and of <em>judgment</em>) seemed to endorse Stef’s argument that, first and foremost, supervisees feel that they are compelled to submit obediently. And even when supervision becomes a positive and helpful experience (often represented in images of <em>nature and growth</em>), this does <em>not</em> mean that it stops being experienced as painful and pervasive.</p>
+<p>In the third session, our working group on decision-making and supervision explored how ‘breach’ decisions are made (and avoided). Intriguingly, reporting the Spanish part of the multi-site pilot study, Ester Blay suggested that these judgments are much more about ‘attitudes’ (and hence postures or dispositions) than they are about the formal requirements of the law. The decision-makers (whether immediate supervisors, or managers, or judges) have dispositional postures towards supervisees, and they judge the dispositional postures (or attitudes) of the supervisee. If they deem the supervisee to be <em>trying to</em> comply (or obey), they are typically quick to re-intepret or to forgive formal non-compliance or disobedience. In the Spanish case, the decision-makers exercise of discretion seems to offer the promise of protecting supervisees from what might be seen as cruel or disproportionate enforcement. But, of course, supervisees in other contexts might be highly vulnerable to discretionary decision-making by powerful actors with different dispositions &#8212; for example, in those US states where the approach to probation and parole is sometimes described as “tail them, nail them and fail them”.</p>
+<p>In the penultimate session, the working group on ‘practising supervision’ presented two papers. One came from Ines Sucic and Renata Tkalic (from Croatia) and drew on their recent paper in the <a href="http://www.uk.sagepub.com/journals/Journal202239">European Journal of Probation</a>. They offered and then evidenced an important difference between consent to the <em>order</em> itself (and its formal requirements) and agreement with the <em>content</em> of supervision (and the substantive expectations implied in that content). Their research revealed that, to use a Scottish term, Croatian supervisees are effectively compelled (not least by the threat of imprisonment) to agree to ‘a pig in a poke’. They consent to an order the lived experience of which is shaped later by a ‘treatment plan’ over which they have little or no control and which they typically had no idea would be so central to their supervision. In other words, they sort of agree to obey, but are offered little choice about the implications of required cooperation.</p>
+<p>Jake Phillips then went on to use photographs from the working group’s ‘Picturing Probation’ project (which has collected photos from practitioners in several countries) to explore the relationships between probation architecture and compliance. Drawing on Goffman’s familiar concepts, Jake’s presentation suggested (to me at least) that the front-stage of supervision (the buildings, the waiting areas and the interview rooms) often sets the stage for obedience rather than cooperation. Security measures in particular construct the supervisee as a risk or a threat, and control and constrain access to help in ways which might serve to set people up for <em>dis</em>engagement and passivity rather than cooperation. On the other hand, where the architecture sets the stage for help, nurture and support, it might nonetheless also be an architecture of infantilisation &#8212; and indeed, this was one of the themes that emerged in the ‘supervisible’ project’s photographs (linked to the themes of both constraint and judgment).</p>
+<p>While Jake’s presentation left me pondering how we might imagine a utopian architecture for supervision (if that is not an oxymoron), Anthea Hucklesby’s final presentation quickly sobered me up! Her fascinating account of the expansion and increased intrusions of electronically monitored forms of supervision (EM) posed some unsettling conundrums. One effect of EM, at least in some jurisdictions, is a focus on ‘mere compliance’ with (or mere obedience to) the formal requirements of the order, with little concern for substantive engagement and the potential for rehabilitation to support longer-term change. Some EM providers are now providing ‘assisted compliance’ (to borrow Mike Nellis’s term) &#8212; sending text messages and making phone calls to remind people of their obligations. This kind of assistance may be helpful in preventing breach, but it doesn&#8217;t address needs or support change. Indeed, all it seeks is ‘mere obedience’ and all it offers is the avoidance of greater pains; and so it doesn’t require probation officers or social workers to deliver it.</p>
+<p>Moreover, Anthea talked about the possibilities created by GPS tracking. Whereas RF (radio frequency) location monitoring checks that a person is in the place at the right time, GPS tracking allows them to move, but it follows their every move. One technology (RF) monitors a restriction of liberty; the other (GPS) restricts privacy. In considering these two possibilities, there is a trade off between these two types of constraint. But how are we to weigh these pains and losses against one another &#8212; and against the pains and losses of imprisonment that they are sometimes intended to replace.</p>
+<p>Finally, why have I called this post ‘Dangling Conversations’? The image above (from the supervisible project’s Scottish strand) is a powerful one. It conveys the way in which the supervisee is left ‘dangling’ or hanging by the suspension implicit in supervision. This is a suspension of full access to social life, a suspension of the full rights of citizenship, a judgment (that the person must ‘prove’ him or herself) and a suspension of judgment (about whether or not he or she can really be ‘one of us’ again). And this suspension always occurs in the looming, immanent presence of a seemingly worse fate.</p>
+<p>For me, it is the pervasive and penetrating quality of this suspension &#8212; what we might call the haunting effects of a supervisory sanction &#8212; that we now need to examine more closely. We need to continue to strive to understand how it is experienced. But we also need to examine how the decisions around it are made: When and why is the hangman’s hand stayed? When and why does he open the trap door? When and why does he leads the once condemned back down from the scaffold?). We must also study how practitioners seek to manage the paradox that cooperation is what they desire and really require (at least if they want to support change), yet obedience is all that is necessary &#8212; and sometimes seems to be all that is valued in penal policy.</p>
+<p>Too often and for much too long, probation research (at least in its Anglophone forms) has focused naively on the ‘effectiveness’ of what probation officers do. But these ‘brief encounters’ between supervisor and supervisee &#8212; whatever they achieve or fail to achieve &#8212; are only the more or less human interludes in the continuous lived experience of (sometimes interminable) supervision. The continuous part of supervision is the suspension and even if the haunting is by a friendly ghost, it still seems a frightening thing to endure.</p>
+<p>On the other hand, perhaps I exaggerate. If people subject to supervision are commonly members of what Guy Standing and Loic Wacquant have referred to as the &#8216;precariat&#8217;, perhaps this sense of being haunted by marginality and insecurity, and by the threat of the penal state, is such a common feature of their lives that supervision adds less to their sufferings than we might imagine.</p>
+	                    </div>
+	                    
+	                </div>
+	                
+	                
+	            	            	            
+	            <div class="navigation"><p><a href="http://www.offendersupervision.eu/" >&laquo; Previous Page</a> &#8212; <a href="http://www.offendersupervision.eu/page/3" >Next Page &raquo;</a></p></div>
+				
+			</div>
+	        
+	        	        
+	        	    		    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    		    	
+	        <h3 class="title">Working Groups</h3>
+	    	<div class="post second">
+	    	
+				<!-- First Box -->
+					            					<div class="holder double first">
+						<div class="article">
+		                    <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/practising-supervision-innovative-research-methods" rel="bookmark"></a>
+		                    <h2 class="hpboxes cat1"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></h2>
+	                        <h3 class="headline smaller"><a href="http://www.offendersupervision.eu/blog-post/practising-supervision-innovative-research-methods" rel="bookmark">Practising supervision: Innovative research methods?</a></h3>
+	                        <h6 class="text-date">Tuesday, April 15, 2014</h6>          
+	                        <p>This post comes from Jake Phillips, who reflects on his experience of the &#8216;Practising Supervision&#8217; working group at the recent Malta meeting. This was the second time I&#8230;</p>
+	                    </div>
+	                </div>
+												
+				<!-- Second Box -->
+					            					<div class="holder double second">
+						<div class="article">
+		                    <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/multiple-methods-in-malta-or-the-joys-and-pains-of-comparative-research" rel="bookmark"></a>
+		                    <h2 class="hpboxes cat2"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></h2>
+	                        <h3 class="headline smaller"><a href="http://www.offendersupervision.eu/blog-post/multiple-methods-in-malta-or-the-joys-and-pains-of-comparative-research" rel="bookmark">Multiple Methods in Malta or: the joys and pains of comparative research</a></h3>
+	                        <h6 class="text-date">Thursday, April 3, 2014</h6>          
+	                        <p>This time, our COST caravan pitched the tents on the beautiful and hospitable island of Malta – Grazzi to Sandra, Mariella and Trevor! The spring sun was tempting,&#8230;</p>
+	                    </div>
+	                </div>
+					            				
+				<!-- Third Box -->
+					            					<div class="holder double first">
+						<div class="article">
+		                    <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/reflections-on-the-liverpool-conference" rel="bookmark"></a>
+		                    <h2 class="hpboxes cat3"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European policy and practice</a></h2>
+	                        <h3 class="headline smaller"><a href="http://www.offendersupervision.eu/blog-post/reflections-on-the-liverpool-conference" rel="bookmark">Reflections on the Liverpool Conference</a></h3>
+	                        <h6 class="text-date">Tuesday, April 30, 2013</h6>          
+	                        <p>This post comes from Christine Morgenstern, one of the leaders of our European Policy and Practice Working Group&#8230; Having a criminal record of delivering lengthy papers slightly after&#8230;</p>
+	                    </div>
+	                </div>
+												
+				<!-- Fourth Box -->
+					            					<div class="holder double second">
+						<div class="article">
+		                    <a class="featureimg" href="http://www.offendersupervision.eu/blog-post/designing-vignettes-for-comparative-research-on-breach" rel="bookmark"></a>
+		                    <h2 class="hpboxes cat4"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></h2>
+	                        <h3 class="headline smaller"><a href="http://www.offendersupervision.eu/blog-post/designing-vignettes-for-comparative-research-on-breach" rel="bookmark">Designing vignettes for comparative research on breach</a></h3>	                        
+	                        <h6 class="text-date">Monday, April 7, 2014</h6>          
+	                        <p>This post, reflecting on the progress made by the &#8216;Decision-Making and Supervision&#8217; group at our recent Malta meeting, comes from Niamh Maguire. The Malta meeting was a very&#8230;</p>
+	                    </div>
+	                </div>
+					            				
+				
+				
+				
+				
+				
+				
+	        </div>
+	        	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	    	
+	
+		</div> <!-- close homepage --> 
+	</div> <!-- close eight columns --> 
+
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-4" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-4">Archives</label>
+		<select id="archives-dropdown-4" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-2" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div><div id="recent-comments-3" class="widget widget_recent_comments"><h4>Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://herzog-evans.com' rel='external nofollow' class='url'>Martine Herzog-Evans</a></span> on <a href="http://www.offendersupervision.eu/blog-post/how-15-years-can-become-3#comment-69201">How 15 years can become 30</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://herzog-evans.com' rel='external nofollow' class='url'>Martine H-Evans</a></span> on <a href="http://www.offendersupervision.eu/blog-post/consultation-on-european-rules-for-csm#comment-69200">Consultation on European Rules for CSM</a></li><li class="recentcomments"><span class="comment-author-link">Paul Doran</span> on <a href="http://www.offendersupervision.eu/blog-post/2nd-world-congress-on-community-corrections#comment-67478">2nd World Congress on Community Corrections</a></li><li class="recentcomments"><span class="comment-author-link">Fergus McNeill</span> on <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comment-63804">&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference</a></li><li class="recentcomments"><span class="comment-author-link">Peter Raynor</span> on <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comment-63803">&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference</a></li></ul></div>    
+</div>	</div>
+	
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pbd_alp = {"startPage":"2","maxPages":"8","nextLink":"http:\/\/www.offendersupervision.eu\/page\/3"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+<script type='text/javascript'>
+var mejsL10n = {"language":"en-us","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_63a2f1287c4ca4fdf7965eceb036dcb1.js"></script></body>
+</html>

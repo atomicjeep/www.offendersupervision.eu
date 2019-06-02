@@ -1,0 +1,431 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Words…worth a discussion | Offender Supervision in Europe</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="canonical" href="http://www.offendersupervision.eu/blog-post/words-worth-a-discussion" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Words&#8230;worth a discussion Comments Feed" href="http://www.offendersupervision.eu/blog-post/words-worth-a-discussion/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Kind of beautiful work&#8230; this probation thing: Experiencing supervision in Ireland and the Netherlands' href='http://www.offendersupervision.eu/experiencing-supervision/kind-of-beautiful-work-this-probation-thing-experiencing-supervision-in-ireland-and-the-netherlands' />
+<link rel='next' title='Experiencing supervision in England and Wales' href='http://www.offendersupervision.eu/blog-post/experiencing-supervision-in-england-and-wales' />
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='http://www.offendersupervision.eu/?p=310' />
+<link rel="alternate" type="application/json+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fwords-worth-a-discussion" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fwords-worth-a-discussion&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=91A97AA64289793C358B2BE82D24667B');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-310 single-format-standard custom-background">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<p id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></p>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    	
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+<div id="content" class="row">
+
+	<div class="eight columns">
+	
+		<div class="post-310 post type-post status-publish format-standard hentry category-blog-post category-european-policy-and-practice" id="post-310">
+		
+				
+						
+			<h1 class="headline">Words&#8230;worth a discussion</h1>
+		
+	        <div class="postauthor">            
+	            <p>Posted by <a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a> on Thursday, January 17, 2013 &middot; <a href="http://www.offendersupervision.eu/blog-post/words-worth-a-discussion#comments">3 Comments</a> &nbsp; </p>
+	        </div>
+	        
+	        		        		            <div class="featureimg"></div>
+		         
+	        			
+			<div class="article">
+				<p>Last week in France I passed a beautiful but dilapidated old manor, in front of it a sign ‘Réhabilitation d’un chateau’, with the names of all those responsible: architects, engineers, masonry, plumbers.  So in France buildings (amongst others) can be rehabilitated &#8211; which of course immediately made me think of several discussions we had on this word and more generally on terminology, concepts and translations in our field…<br />
+The term ‘rehabilitation’ is one marked example of the Babylonian confusion we sometimes find when we discuss offender supervision: The Latin word exists in many of our languages, but does not necessarily stand for the same thing. So if we, in the criminal justice context, translate an English ‘rehabilitation’, we should use ‘réinsertion’ in French and ‘Resozialisierung’ in German. But maybe the correct English word would be ‘reintegration’? Or do we need a ‘social’ in front of all the terms I listed? And is the prefix ‘re-‘ correct or do the offenders we are talking about sometimes rather need a (first) habilitation or socialization? Readers know these terminological problems in their own language from multi-disciplinary discussions. And those who join meetings of the ESC Working Group on Community Sanctions and Measures (particularly when Martine Herzog-Evans and I are attending) &#8211; or of any other international group that discusses the subject in a comparative perspective – know that translations and (mis-)understandings give cause for endless discussions.<br />
+In our COST Action “Offender Supervision in Europe” the following official languages are represented: Norwegian, Swedish, Lithuanian, English, Danish, German, Dutch, French, Slovak, Hungarian, Romanian, Croatian, Italian, Spanish (got it? this was north to south!). If we count Irish, Catalan, Flemish, Swiss and Austrian German separately, our group is able to communicate in 19 different linguistic idioms. Since we additionally are a multi-disciplinary group – we have criminologists, lawyers, psychologists, social workers and others &#8211; we find a huge diversity of languages. By now we know at least that we cannot be too sure about the one and only correct understanding of a certain term (German and French lawyer may sometimes find it easier to understand each other than a German judge and a German social worker). And even if we found a proper translation of course we have to take into account domestic developments: If I want to translate ‘gemeinnützige Arbeit’ from German into English I choose ‘community service’, but is that the same as ‘unpaid work’? Or ‘community payback’? If I choose wrongly this already may be understood as a statement, even if it was just a translation problem…<br />
+So far, so banal: Translation problems (as long as they are detected) can even be part of the hermeneutic process; they can enrich discussions and understandings. As we committed ourselves to this COST Action we are quite aware of the problems and we have learned to consider that our colleagues from other countries have to deal with similar factual problems but within other legal and practical frameworks; using other concepts and names (or using the same terms, meaning different things).<br />
+Things, however, become even more complex because we have another terminological layer on top of our multi-lingual, multi-disciplinary and multi-cultural problems: We have a certain ’Eurolanguage’ or should I call it ‘EuroEnglish’? Understanding and interpreting this kind of English is one concern for our Working Group 4, European Policy and Practice, because we deal with recommendations and other texts by the Council of Europe and the European Union. The latter has 23 official languages, the CoE only two (English and French, but it accepts Italian, German and Russian as additional working languages). Nevertheless in both institutions the main language for all sorts of communication is English. Typically therefore texts are drafted and discussed in English. Later, all official EU documents &#8211; in our case relevant for example the Framework Decision on Probation &#8211; are translated into the 23 languages (the yearly budget of the ‘Directorate General Translation’ is 300 million Euros!). The CoE only has to translate into French or English, but aims at disseminating texts as the European Probation Rules or the Recommendation on Community Sanctions as widely as possible. Therefore the Council looks for translation sponsors and some semi-official translations exist, provided for example by Ministries of Justice.<br />
+Why is that interesting for us? Because obviously this extra layer, the EU or CoS texts, are an additional source both to create more confusion but also a chance to transport a certain harmonized understanding based on common values. Both – in my view – merits scholarly interest and analysis. The first question is: Are the translations provided correct? The COST group is a body that could check and discuss translations of certain key terms. To give you just one example (Martine certainly agrees): The term ‘desistance’ in the European Probation Rules (No. 57, 76 and in the glossary) in the German version it is translated once with ‘Rückfallprävention’ (prevention of recidivism) and twice with ‘Abwendung von Straftaten’ which is hard to translate and not a term that is used frequently but literally means ‘avoidance of delinquency’. I know that the French translation is equally unfortunate and I wonder how this concept is translated into Italian, Spanish or Hungarian (not sure whether we have translations of the Probation Rules yet…)! But this does not mean that native English speakers have nothing to contribute to that endeavour: They can check whether the (English!) words used in the European texts are those that normally would be used in England/Wales, Scotland or Ireland (I am quite sure there will be significant differences between the English speaking countries).<br />
+Sometimes they may find that rather uncommon English terms are employed. The reason may be what I referred to as ‘harmonised understanding based on common values’: The example (and here we have Sonja Snacken as expert for the Council of Europe’s Penal Policy) is ‘social inclusion’ (European Probation Rules, Basic Principle No 1): According to that Principle, probation agencies shall aim to promote the ‘social inclusion’ of offenders – none of the word rehabilitation, reintegration, resettlement, resocialisation, etc., are used here. We therefore need to analyse the linguistic usage both on the level of the European institutions and on the national (translated) level. Is using a certain word (and not another) in the original version a statement of some sort? Does it leave (too much) room for (imcompatible) interpretation in the Member States? In other words, is it culturally sensitive or is it a deliberate ‘constructive ambiguity’? Is it – Martine raised that question &#8212; a transplant of certain (Anglo-American?) concepts? Is it even imperialistic? And on the domestic level, is a bad translation just that or is it an attempt to avoid certain consequences?<br />
+Of course others have had similar thoughts: With the CoE Recommendations glossaries are provided that explain &#8211; in English and French – crucial terms a little further. Also the EU Framework Decision on Probation contains some technical definitions. Apart from these partly useful, partly somewhat self-referential definitions, multi-lingual approaches also exist. Martine, for example, has worked extensively on the terms ‘probation’ and particularly ‘probation officer’ (this analyses will be published soon in Eurovista and will be a worthwhile read!). Several attempts have also been made by Probation Organisations to develop a dictionary for all those that practically have to deal with colleagues and offenders that speak foreign languages. One example is the glossary “Criminal justice in Europe”, a co-production of English, French and German organisations with the assistance of the EU and the Danish Welfare Society. The authors – among them Norman Bishop – wanted to create a glossary which makes it easy to find an adequate translation as well as get quick information on the situation in other countries. The glossary is still online (http://www.ju-lex.com/engl/index.htm) and contains a huge number of entries from the entire criminal justice system in three languages. To give you one example: the search for ‘rehabiliation’ redirects the user to ‘resettlement’, German: ‘Resozialisierung’, French ‘réinsertion’. Per country you find two to three lines of explanation. Some definitions both in English and French that serve comparative purposes are also provided by the European Penological database SPACE II (http://www.unil.ch/wpmu/space). It seems to be a good idea to make more use of these very helpful approaches and to continue and update this work.<br />
+We, however, would like to go further, starting slowly with some key words, perhaps finally producing a sort of critical dictionary. Surely we would like to include more languages than the existing ones! Such a dictionary will most certainly have a complicated structure with several columns or entries per keyword, taking into account all the aspects I have mentioned above. Of course this only makes sense with the support of many contributors (and languages!). What do you think? And to start with: What terms would be relevant?</p>
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.offendersupervision.eu/blog-post/words-worth-a-discussion"
+    dc:identifier="http://www.offendersupervision.eu/blog-post/words-worth-a-discussion"
+    dc:title="Words&#8230;worth a discussion"
+    trackback:ping="http://www.offendersupervision.eu/blog-post/words-worth-a-discussion/trackback" />
+</rdf:RDF>			</div>
+			
+							
+			<div class="postmeta">
+				<p>Category: <a href="http://www.offendersupervision.eu/category/blog-post" rel="category tag">Blog Posts</a>, <a href="http://www.offendersupervision.eu/category/european-policy-and-practice" rel="category tag">European policy and practice</a> &middot; Tags: </p>
+			</div>
+		
+		</div>
+		
+		<div class="postcomments">
+				<div id="comments">
+	
+	
+			<h3 id="comments-title">
+			3 Comments on &ldquo;<span>Words&#8230;worth a discussion</span>&rdquo;		</h3>
+
+		
+		<ol class="commentlist">
+				<li class="comment byuser comment-author-martine-herzog-evans even thread-even depth-1" id="li-comment-241">
+		<article id="comment-241" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=72&#038;d=mm&#038;r=g' data-lazy-srcset='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=144&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-72 photo' height='72' width='72' /><noscript><img alt='' src='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=72&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /></noscript><span class="fn">Martine Herzog Evans</span> <br/> <a href="http://www.offendersupervision.eu/blog-post/words-worth-a-discussion#comment-241"><time pubdate datetime="2013-02-02T05:56:50+00:00">February 2, 2013</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>Jee that&#8217;s a fantastic start! how about a specific workshop for our CSM group or for COST? There is so much we can draw from this. Yes sometimes a choice of word is a form of statement. For instance choosing to translate  &#8216;desistance&#8217; by the horrible &#8216;désistement&#8217; is a statement and is a fun one: French people think there is a world war against the French language and that they should all endeavour to defend it. When I say French people I mean every single one of the 65 million inhabitants. Politicians often refer to &#8220;the defence of the French language&#8221; (la défence de la langue française) as in everybody knows that and it does not warrant discussion. Meanwhile Dutch people who would have more reason than us Gauls to think their language is at risk have become  bilinguals and one sees them everywhere (conferences, journals you name it). In this defence of the French language war theater the trick when a new concept comes along that originates from an anglophone country is to INVENT a French equivalent word or to use one that already exists, even if it does not fit. For instance we&#8217;re not supposed to say email but courriel; a word that&#8217;s been totally made up for this purpose and which, I love to say, nobody uses. With desistance, even if désistance exists in the French language &#8211; but was never used for this purpose because we weren&#8217;t aware of the desistance literature until recently &#8211; the translators of the probation rules chose &#8220;désistement&#8221; which also exists in French but refers to something that has ceased; not the process. I am sure translators weren&#8217;t aware of the nuance. Since then some of my colleagues  deliberately use &#8220;désistement&#8221; because it is different from desistance; because it has a French touch, thereby not only opting for their usual francisation but also implying that we have kind of invented desistance ourselves and it was not imported from abroad. There is shame in not having been aware of the desistance literature and instead of saying &#8216;Ok we missed this; it&#8217;s really fascinating&#8217; we cover our ignorance by annexing it via a word that sounds different. Désistance would have been too close to desistance. Now folks all this for just one word!  I could have a go at rehabilitation too. Definitely a no go for a French person &#8211; I realised recently that I never use it myself except when I speak English. The frog in me cannot help it: too religious. We have kept clerics at bay since the 1789 revolution and pride ourselves in having  a secular state (which of course is much more complicated than that). Use rehabilitation in French and you&#8217;ll sound like a bigot. I do a lot of translations and I stumble upon things like this every single time. It is great fun and one learns a lot from it.</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-863">
+		<article id="comment-863" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=72&#038;d=mm&#038;r=g' data-lazy-srcset='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=144&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-72 photo' height='72' width='72' /><noscript><img alt='' src='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=72&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/281da2617473d72e8f8c8597c1d5dd8b?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /></noscript><span class="fn"><a href='http://herzog-evans.com' rel='external nofollow' class='url'>Martine Herzog-Evans</a></span> <br/> <a href="http://www.offendersupervision.eu/blog-post/words-worth-a-discussion#comment-863"><time pubdate datetime="2013-05-25T09:16:18+00:00">May 25, 2013</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>Following this discussion, please read my paper in the latest ed of Eurovista:<br />
+« What’s in a name: Penological and institutional connotations of probation officers’ labelling in Europe’</p>
+<p>Eurovista, 2013, n° 2(3): 121-133</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+	
+</div><!-- #comments -->
+		</div>
+		
+				
+	</div>
+	
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-6" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-3" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>    
+</div>	</div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_2621b4858a5bd1fdfb79db7e21370a3d.js"></script></body>
+</html>

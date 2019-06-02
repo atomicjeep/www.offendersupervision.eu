@@ -1,0 +1,423 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Reflections on the Training School in Barcelona | Offender Supervision in Europe</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="canonical" href="http://www.offendersupervision.eu/blog-post/reflections-on-the-training-school-in-barcelona" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Compliance, Enforcement and Breach: An International Conference' href='http://www.offendersupervision.eu/blog-post/compliance-enforcement-and-breach-an-international-conference' />
+<link rel='next' title='Release, retribution and risk' href='http://www.offendersupervision.eu/blog-post/release-retribution-and-risk' />
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='http://www.offendersupervision.eu/?p=750' />
+<link rel="alternate" type="application/json+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Freflections-on-the-training-school-in-barcelona" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Freflections-on-the-training-school-in-barcelona&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=F873B4F6B193435C54F4D0C9403EFA00');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-750 single-format-standard custom-background">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<p id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></p>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    	
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+<div id="content" class="row">
+
+	<div class="eight columns">
+	
+		<div class="post-750 post type-post status-publish format-standard hentry category-blog-post" id="post-750">
+		
+				
+						
+			<h1 class="headline">Reflections on the Training School in Barcelona</h1>
+		
+	        <div class="postauthor">            
+	            <p>Posted by <a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a> on Friday, January 30, 2015 &middot; <a href="http://www.offendersupervision.eu/blog-post/reflections-on-the-training-school-in-barcelona#comments">Leave a Comment</a> &nbsp; </p>
+	        </div>
+	        
+	        		        		            <div class="featureimg"></div>
+		         
+	        			
+			<div class="article">
+				<p>I have compiled a number of reflections from trainees who atttended our recent Training School. They make for interesting and encouraging reading. I think the trainers also felt that we learned a lot, not just about each others&#8217; work and our own, but about each other!</p>
+<p>“For me, the training school was a very interesting, inspiring and enjoyable event in every sense. I mostly appreciated the intimate setting (small groups), the personal approach and the constructive way of giving and receiving ‘friendly feedback&#8217; during the pannel sessions. This approach made me feel comfortable to share thoughts and step out of my comfort zone.<br />
+I also very much appreciated the career advise session on the last day; it was very helpful, comforting and motivating to hear about the experiences of ‘senior researchers&#8217;. I am very thankful for being able to join this training school and meet all these interesting researchers and I left Barcelona with a buzzing head, full of new insights, inspiration and warm feelings. Thank you very much for this great opportunity.” (Anonymous Trainee)</p>
+<p>“My experience of the COST Training School surpassed my expectations, as there were numerous ways in which I was able to benefit greatly from the three-day event.<br />
+Firstly, although I am an early-career researcher, I enjoyed the opportunity to deliver a presentation of my PhD thesis to date and receive friendly yet constructive feedback similar to that of a viva. This experience has afforded me the ability to address any potential issues that were highlighted by both the Trainers and Trainees prior to my actual viva in the near future, and to obtain a greater sense of what to anticipate upon that day when I have to defend my thesis.<br />
+Secondly, at stages over the three days I was afforded the opportunity to listen to the Trainers describe the research they are currently conducting for COST upon offender supervision in the E.U. This enabled me to gain an understanding of the methodological and ethical issues they encountered, and how they were able to overcome these problems to conduct their research. Therefore, not only was I able to be illuminated by new research methodologies, notably visual research methods, I also gained insight in how best to avoid potential political and ethical issues that I myself may encounter.<br />
+Finally, the COST Training School allowed me to meet and speak with my fellow Trainees, especially from other jurisdictions. I was able to share knowledge and personal experiences with them which will have a positive influence upon my PhD thesis and future work.” (Wayne Campbell, Liverpool John Moores University).<br />
+“The training school was a good event and I am pleased that I was able to attend. I thought that it was well run &#8211; in an atmosphere that was a blend of real work and good fun. I came away with a number of specific learning points, including:</p>
+<p>&#8220;The training school was a good event and I am pleased that I was able to attend. I thought that it was well run &#8211; in an atmosphere that was a blend of real work and good fun. I came away with a number of specific learning points, including:</p>
+<p>1) The feedback that I received on my presentation was encouraging. I used the time to talk about the way I am trying to analyse and interpret interview data &#8211; and the comments from trainers and students were positive and helpful. I am also following up some ideas from other people&#8217;s presentations &#8211; for example, ideas about probation and punishment.</p>
+<p>2) It was good to hear about the various strands of the COST project &#8211; in more detail than is possible in the short presentations at ESC conferences. I would like a greater involvement in COST over the coming<br />
+18 months &#8211; but am still not sure it will be possible to achieve this.<br />
+I know there are issues about UK dominance of the work.</p>
+<p>3) I thought that the trainers were generous with their time and ideas &#8211; both in formal sessions and during breaks and mealtimes. I was reminded again of the importance of colleagues and teamwork in academia.</p>
+<p>What would I have liked to have been different? I already knew the background to the COST action &#8211; so some of the input covered familiar ground. But I realise that I&#8217;ve had previous opportunities to attend conferences and talk to people. And I would have been happy for my presentation to have been subject to more stringent assessment &#8211; but I realise this would probably have required me to submit it in advance and certainly would have made extra work for the trainers.&#8221; (Jane Dominey, Institute of Criminology, Cambridge).</p>
+<p>“Attending the COST training school provided a fantastic opportunity for me to receive feedback on my research from leading experts in my field. There isn’t much of a focus on offender supervision at my current university so being able to meet with colleagues who share similar research interests to me was hugely beneficial. The plenary session with the trainers on career development strategies was, for me, one of the most useful (and stress relieving) sessions as, not only did it give me the opportunity to ask questions about how to survive in the world of academia, it also made me realise that the pressures that I am currently experiencing as a final year PhD student, had been experienced by everyone and are not as insurmountable as they seem. I returned home from the school with renewed confidence and enthusiasm for my field.” (Chris Kay, University of Manchester)</p>
+<p>“My experience during the training school could perhaps be more adequately reflected on three different levels: educational, interpersonal and personal. The Training School was a unique experience to learn from the fascinating studies, methodologies and research findings presented. As well as a significant opportunity to interact with and gain insights form established researchers and respected academics with diverse perspectives and approaches on the field. Additionally, for those of us working on European research programs, gaining inside to the reality of other countries is always interesting and extremely valuable in order to achieve a better understanding of our own work.<br />
+What distinguishes, however, the Cost Training School from other similar event was its very positive, friendly and cooperative nature, in an otherwise rather competitive and antagonistic field. Meeting and most importantly connecting with other young as well as established researchers reminds us and helps realize that we all share the same problems, difficulties and challenges in our work.<br />
+Finally, I think that the most rewarding and important aspect was the opportunity to receive valuable feedback and focus on our own research, as opposed to all the diverse and different obligations and projects that consume the better part of our working time. I felt inspired from all the diverse speeches and perspectives presented during those 3 days and got many fresh ideas for my research. Most importantly, I left Barcelona with renewed passion in my own PhD research”. (Alexandra Koufouli, Athens)<br />
+“Some reflections on the Training school experience:<br />
+I have spent three days at the COST on Offender Supervision training school, presenting my research and receiving priceless feedback. I have learned new methodological developments and received great pieces of advice on academic life, while having a great time. Here I will share some anecdotes and reflections to illustrate my experience.<br />
+Friendly critics: If this would have been twitter #friendlycritics would have been trending. People didn’t just say it, they meant it. I was quite nervous because it was my first presentation in English, but everyone was so supportive – both about the English issue, and also about the research. Kristel Beyens was so kind not just to give me valuable observations on my work, but also to point out the good things about it (as the other trainers and my early staged peers did). I am so glad that my “debut” was in such a friendly environment.<br />
+Humility: On day three, trainees had to “peer review” the trainers’ presentations from the day before. We took that duty very seriously and prepared in groups our friendly critiques, even though it was unclear to us how this could help. Firstly, we learned a lot looking more deeply at methodology, and how originality, rigour and significance are measured. Secondly, it was amazing to watch trainers diligently taking notes while group delegates were giving their reviews! That made me think that the only way to achieve excellence is always being open to critics and new approaches to your research.<br />
+Renewal: It can sound quite obvious that I learnt a lot&#8230; It is true, but it is also true that my own research and motivation were renewed. During all three days, my mind was on fire… I think our researchers minds are quite self centred: every time I was enjoying a presentation or, in general, listening to someone’s research and learning from them, my mind went immediately to my own research issues with new approaches to cope with them.<br />
+Collegiality: This isn’t something new: “scholars get each other” and after few minutes, different cultural backgrounds meant nothing considering our shared passions and pains! Lunches, coffee breaks and a fancy dinner were moments of cheerful comradeship hard to explain between people who had met just few hours before. Collegiality was also quite evident in the career development panels, where experienced researchers gave us an insight into their careers and lives, sharing things they struggled with at our stage and things that still worried them were raised in an almost therapeutic session. Another example is this small reflection, which was kindly edited by two of my newest friends: Nicola Edwards and Jean Anne Kennedy.<br />
+Good work: Everybody gave their best, trainers and trainees, the COST team and specially Ester Blay, who ensured we had the perfect conditions to have this amazing experience.” (Consuelo Murillo, PhD student at Pompeu Fabra University)<br />
+“My experience at Cost Action on Offender Supervision Training School far exceeded my best expectations: it was really inspiring in several ways.<br />
+First, because it allowed me to get to know and talk on several occasions with people whose work I admire and that were very open to get to know about my interests and field of research. In this regard, I want to sincerely acknowledge all the trainers due to the openness, interest and encouragement they all showed. I also want to highlight that trainers’ feedback and the friendly criticism on my presentation was great, and it will be of great value to incorporate those reflections on my research. This training school was also a great opportunity to get to know other early-stage researchers that share interests and experiences with me. We ended up creating a really good network to engage in further collaboration.<br />
+Secondly, being able to gain insight into the current research that is being conducted within the COST Action on Offender Supervision fostered my creative thinking and promoted the input of a variety of ideas that I might now apply in subsequent research projects focused on offender supervision. It was very interesting to observe, for example, how the use of visual methods in research can be so fruitful. Regarding conceptual tools, since offender supervision is a recent research area for me, during the Training School I was able to learn a lot, to understand the main trends in this field and apprehend which challenges and difficulties are associated with this kind of research. Furthermore, the presentations of both trainees and trainers were also really useful for understand how different methodologies might be used in this area, comprising what are the main advantages and disadvantages of each one of them.<br />
+Thirdly, in the last day, being offered the possibility to reflect and give some feedback on what is being done in this COST Action was an incredible experience in terms of critical thinking. While thinking together on the work that is being done, trainees were able to reflect more clearly about our own work. The presentation of the “friendly criticism” and debate that followed also created a sharing environment that is very good because it really showed how senior researchers are open to our suggestions and reflections, which creates a lot of confidence to early-stage researchers.<br />
+Connected to this, finally, I also want to highlight that it was really inspiring to be able to hear from senior academics about their past and present challenges in their professional paths. The discussion opened to trainees’ questions was really a good way to get involved in themes that are usually not discussed in this type of events but that, in fact, very prominently affect our academic careers. For a researcher like me who is, at this stage, analyzing which should be my future steps to build a successful career in academia this was a wonderful opportunity to reflect.<br />
+To finish, I would also emphasize, how not being an English native speaker, I happily noticed how everyone involved – both trainers and trainees &#8211; proved so sympathetic to some expression’ difficulties, creating an environment where all, regardless of academic status or nationality, could openly participate.<br />
+Thank you for this opportunity!&#8221; (Rafaela Granja Goncalves, Minho University, Portugal)</p>
+<p>&#8220;I found it was a great event and am really glad I went. It boosted my confidence in my abilities and in what I had learned in the past few weeks.<br />
+I wasn&#8217;t 100% sure my research (nor myself) would be in any way &#8220;on par&#8221; with others because I only started my studies in October 2014, and doing a PhD can be so isolating and so often (physically) lonesome.<br />
+Also, my interest had previously been focused on family, gender and child rights so this study was a slight side-step for me.<br />
+It was really useful to put the study in the wider context of offender supervision (in Europe), to learn about other approaches and methodologies and I&#8217;m sure that&#8217;ll be reflected in my thought process and how my studies develop.<br />
+Indeed, I&#8217;m finding that my thought process has already been informed by this event through either reinforcing what approach or research or thoughts I had before the event, or contributing towards structure or deign of any new or future approach I may take to this project.<br />
+This training was a real &#8220;turning point&#8221; and landed me smack into the epicentre of my own research! It’s like finally realising my own identity as a criminology researcher! I know who I am!!<br />
+I was also invigorated by meeting the trainers and other early stage researchers.<br />
+There is a lot to be said for supporting the &#8220;younger generation&#8221; (younger in studies or in career or in age) of researchers and indeed, in giving them a chance not only to present but to critically review current European research and contribute towards shaping it.<br />
+It was a real community and I hope to attend more COST events or indeed, consider hosting a PhD training school myself in later years. I look forward to being part of the (potential) post-grad movement of COST and look forward also to hearing more about it.<br />
+Logistically, it was well planned and executed. My only criticism would be to offer the daily programme times (if not the content) more in advance. I booked a Saturday flight nervous that I might miss something if I caught a Friday flight and knowing that it finished at 3pm on the final day would have better informed that decision I think. I hope also that COST would consider committing some small resources to making sure the early stage researchers can follow up after the event and potentially create a forum. Overall though, as a &#8220;conference junky&#8221; and having been to a lot of European and international events, this one will stick out as one of my favourites and the most successful. Thanks again!&#8221; (Jean Anne Kennedy, Ireland)</p>
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.offendersupervision.eu/blog-post/reflections-on-the-training-school-in-barcelona"
+    dc:identifier="http://www.offendersupervision.eu/blog-post/reflections-on-the-training-school-in-barcelona"
+    dc:title="Reflections on the Training School in Barcelona"
+    trackback:ping="http://www.offendersupervision.eu/blog-post/reflections-on-the-training-school-in-barcelona/trackback" />
+</rdf:RDF>			</div>
+			
+							
+			<div class="postmeta">
+				<p>Category: <a href="http://www.offendersupervision.eu/category/blog-post" rel="category tag">Blog Posts</a> &middot; Tags: </p>
+			</div>
+		
+		</div>
+		
+		<div class="postcomments">
+				<div id="comments">
+	
+	
+			<p class="nocomments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+		</div>
+		
+				
+	</div>
+	
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-6" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-3" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>    
+</div>	</div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_2621b4858a5bd1fdfb79db7e21370a3d.js"></script></body>
+</html>

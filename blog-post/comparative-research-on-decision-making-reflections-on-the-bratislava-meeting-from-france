@@ -1,0 +1,781 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Comparative research on decision-making: Reflections on the Bratislava meeting (from France) | Offender Supervision in Europe</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="canonical" href="http://www.offendersupervision.eu/blog-post/comparative-research-on-decision-making-reflections-on-the-bratislava-meeting-from-france" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='A framework for comparative research on supervision?' href='http://www.offendersupervision.eu/blog-post/a-framework-for-comparative-research-on-supervision' />
+<link rel='next' title='Every picture tells a story: Bratislava reflections' href='http://www.offendersupervision.eu/blog-post/every-picture-tells-a-story-bratislava-reflections' />
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='http://www.offendersupervision.eu/?p=538' />
+<link rel="alternate" type="application/json+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fcomparative-research-on-decision-making-reflections-on-the-bratislava-meeting-from-france" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fcomparative-research-on-decision-making-reflections-on-the-bratislava-meeting-from-france&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=161960F222D93692E89387B1AFDCC80F');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-538 single-format-standard custom-background">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<p id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></p>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    	
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+<div id="content" class="row">
+
+	<div class="eight columns">
+	
+		<div class="post-538 post type-post status-publish format-standard hentry category-blog-post category-decision-making-and-supervision" id="post-538">
+		
+				
+						
+			<h1 class="headline">Comparative research on decision-making: Reflections on the Bratislava meeting (from France)</h1>
+		
+	        <div class="postauthor">            
+	            <p>Posted by <a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a> on Monday, October 28, 2013 &middot; <a href="http://www.offendersupervision.eu/blog-post/comparative-research-on-decision-making-reflections-on-the-bratislava-meeting-from-france#comments">Leave a Comment</a> &nbsp; </p>
+	        </div>
+	        
+	        		        		            <div class="featureimg"></div>
+		         
+	        			
+			<div class="article">
+				<p><!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+</o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+<p><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves/>
+<w:TrackFormatting/>
+<w:PunctuationKerning/>
+<w:ValidateAgainstSchemas/>
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF/>
+<w:LidThemeOther>EN-GB</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables/>
+<w:SnapToGridInCell/>
+<w:WrapTextWithPunct/>
+<w:UseAsianBreakRules/>
+<w:DontGrowAutofit/>
+<w:SplitPgBreakAndParaMark/>
+<w:DontVertAlignCellWithSp/>
+<w:DontBreakConstrainedForcedTables/>
+<w:DontVertAlignInTxbx/>
+<w:Word11KerningPairs/>
+<w:CachedColBalance/>
+</w:Compatibility>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math"/>
+<m:brkBin m:val="before"/>
+<m:brkBinSub m:val="&#45;-"/>
+<m:smallFrac m:val="off"/>
+<m:dispDef/>
+<m:lMargin m:val="0"/>
+<m:rMargin m:val="0"/>
+<m:defJc m:val="centerGroup"/>
+<m:wrapIndent m:val="1440"/>
+<m:intLim m:val="subSup"/>
+<m:naryLim m:val="undOvr"/>
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+<w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+UnhideWhenUsed="false" Name="Table Grid"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 1"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 2"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 3"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 4"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 5"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 6"/>
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+<w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+</w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+
+
+
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:FR;
+	mso-fareast-language:EN-US;}
+</style>
+
+<![endif]--></p>
+<p class="MsoNormal" style="text-align: justify;"><em>This post comes from our colleague Prof Martine Herzog Evans&#8230;</em></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="mso-ansi-language: EN-GB;">Whilst my friends and colleagues were brainstorming about comparative research methodology in Bratislava on October 25-26, I was trying to listen to their presentations and debates via a rather unreliable skype connection. However I got the gist of what was said. Unfortunately I did not get a chance to participate in the ensuing debates and for this reason, I would like to make a series of observations and suggestions in the present post. </span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span style="text-decoration: underline;"><span style="mso-ansi-language: EN-GB;">First about methodology</span></span></b></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">On Saturday morning Kristel Beyens and Niamh Maguire discussed methodology in sentencing research.<span style="text-decoration: underline;"> Vignettes</span> were mentioned as being useful tools; however there was much debate about their limitation in particular in terms of realism and reality. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">For this reason, the common conclusion was that vignettes could not be stand-alone tool. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">Much as I agree with this I would also like to say that there are also ways and means to make ‘vignettes’ closer to the truth. Usually, vignettes are <i style="mso-bidi-font-style: normal;">fictitious cases</i>; they are typically of a maximum of one page long. Indeed a lot is missed: files that courts (and other decision-makers) rely on; hearing and what goes on during them… and so on. One way around this to a certain extent is to create <i style="mso-bidi-font-style: normal;">fictitious files</i> rather than cases. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">As an example, I am currently conducting a joint research with two psychologists from my Uni (Patrick Mollaret and Régis Lefeubvre) which focuses on values and principles of <i style="mso-bidi-font-style: normal;">juges de l’application des peines </i>(JAP). </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">We had much debates together about this technique. Having worked in sentences’ implementation for decades by now, I know too well that a huge amount of parameters lead to JAP decisions. There was no way, I told my psychologist colleagues that vignettes would reflect closely enough what JAP were used to. However they were used to building their studies like that and I gave in on two conditions: a) that the so-called vignettes would be as I mentioned above fictitious files; b) that the interview we would have based on the vignettes would strictly follow their scaled-questionnaire, but would also allow for discussion with JAP so that we would understand why they chose one way or another </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">My colleagues designed the scaled-questionnaire and I designed the fictitious files. It comprised : an extract of a PO report; an extract of the prosecutor’s requisitions; in one case an extract of the risk assessment made by an ‘expert’ and in all breach cases, an extract of the ruling which had granted the decision which was breached. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">Four cases were designed with specific parameters as guidelines from the psychologists and based on what I knew was their typical situations and contexts and also the usual language of PO reports, prosecutors’ requisitions and experts’ assessments. All interviewees have so far confirmed that these were absolutely typical to a T. For each one of them the offender had been sentenced to imprisonment and was referred to the JAP for transformation of his sentence into a CSM. Then each offender breached. JAP are asked about their dealing with both granting and breaching. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">So far I have used other methods with JAP research: ruling analysis (see below) + observation + interviews + interviews of those they work with + interviews of probationers (the latter ongoing). I have to say that vignettes have taught me a thing or two about JAP’s perceptions and about some of their biases (in particular with addicts: their understanding of addiction does not seem to be as good as their rulings had allowed me to believe). </span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span style="color: #7030a0; mso-ansi-language: EN-GB;">Conclusive note on this first comment: working with scholars from a different field is particularly enlightening when one is designing research methods. </span></b></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="mso-ansi-language: EN-GB;">I would also like to mention a research tool which is seldom mentioned in the literature: quantitative and qualitative analysis of judicial rulings. Judges also write rulings to explain why and how they made their decisions. In French law it is called ‘motivation’ (the word is telling) and it is in my experience a very powerful research tool and a wonderful way of getting closer to why the decisions are made. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">As an example, in my first bigger scale JAP research (soon published by l’Harmattan, <i style="mso-bidi-font-style: normal;">French reentry courts: Mister Jourdain of desistance</i>), I analysed 1,300 rulings. I looked for a great deal of factors… long story. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">Indeed one finds in these rulings a lot of legal babble and to an extent, a lot of things which they are expected to do and say (postures) – depending of course on the legal systems and the demands they put on courts’ ‘shoulder’. But, <b style="mso-bidi-font-weight: normal;"><span style="color: #7030a0;">and this is where being a lawyer is immensely useful,</span></b>in order to use this particular tool, one needs to know what and where to look for in a ruling. In particular one needs to be able to distinguish, one the one hand, what is legally mandatory (and how much leeway there is in this respect – eg I analysed the use of guideline articles as opposed to specific technical articles) and, on the other hand, what is a mere description of the facts as presented by other parties (eg PO, prosecutor, attorney). One must also distinguish what has been proved and established (for instance the probation service report has checked whether the person actually has employment) and what has just been said (for instance the probation service just states that the offender said he had a job). Lastly, the essential part of rulings, the one which is the most promising in terms of empirical research is where the court’s own point of view appears – as opposed to the description of facts, opinions, and legal rules which apply. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">For instance, in French rulings there are two to three (sometimes one, four) paragraphs which represent the core analysis and thoughts of the court situated right before the court states what the decision is. The analysis of these one to four paragraphs is an exceptionally rich empirical source. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">These paragraphs convey judges’ views, appreciations, values, principles, on offenders, measures, contexts, issues (eg addiction, domestic violence). It explains the process of their thinking and not just the output (the decision which is made).</span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">Like with vignettes it is even more powerful when interviews ensue where judges are asked questions about rulings. As an example I asked them for whom they wrote their rulings: for prosecutors (in case they appealed), for courts of appeal (in case there was an appeal and their ruling would be scrutinized), for society in general (because they rule in the name of the French people/or because they would be blamed if they made a mistake), or for offenders. I got a great variety of responses…. (do read my book : LoL!) and several of them responded that they also wrote for themselves… in order to check out that their first view of the case would still stand when they would have to objectively justify it in writing (in some cases it did not). </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">In conclusion I cannot imagine conducting a research on any judicial decision (and in particular in sentencing) or related issues such as release, bifurcation or breach without analysing rulings. </span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span style="mso-ansi-language: EN-GB;">About things to study</span></b></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">In our book chapters each one of the COST work group leaders mentioned gaps in the literature. In our decision-making chapter, Miranda Boone and I pointed to a long list of them. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">In the following paragraphs, I would like to insist on several re sentencing (but this could also be said about release and breach decisions, especially whenever a court is involved) and in particular:</span></p>
+<p class="MsoNormal"><span style="text-decoration: underline;"><span style="mso-ansi-language: EN-GB;">Cognitive processes</span></span></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="mso-ansi-language: EN-GB;">As I mentioned in the book chapter with Miranda, there is an important US literature on the cognitive processes of judicial DM (see for ex.: Klein D. and Mitchell G. (eds.) (2010), <i style="mso-bidi-font-style: normal;">The Psychology of Judicial Decision Making, </i>Oxford University Press). To the point where the American Judges’ Association made recommendations based on what is now known (P. Casey, Judge K. Burke, Judge S. Leben, <i style="mso-bidi-font-style: normal;">Minding the Court. Enhancing the Decision-Making Process. A White paper of the American Judges Association. Making Better Judges</i>, October 1, 2012). In particular, they recommended ways of going back to the reflective brain rather than relying as most experts in a given field do, on their reflexive brain. Interestingly the reflexive brain is what explains this ‘hunch’ which Cyrus Tata was referring to on Friday in Bratislava, The reflexive brain is less sugar greedy and less tiring and works well enough most of the time. However, it is also open to biases and errors (and judges are no different: C. Guthrie, J. J. Rachlingski, A. J. Wistrich, ‘Inside the Judicial Mind’, Cornell Law Review, 2001, n° 86(4). Hence the recommendations made by the AJA: to use checklists, to eat enough and have small breaks, to sleep enough before a hearing, and so on. </span></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="mso-ansi-language: EN-GB;">As Cyrus recommended hunches are also important and should not to be ignored for being either uninteresting or interviewee’s defensive strategies. They can be and are also study objects. I would thus strongly recommend we also included <b style="mso-bidi-font-weight: normal;"><span style="color: #7030a0;">cognitive psychologists and even neuroscientists</span> </b>(as a good proportion of this literature comes from neurosciences) to any ‘hunch exploration’ endeavour. </span></p>
+<p class="MsoNormal"><span style="text-decoration: underline;"><span style="mso-ansi-language: EN-GB;">Collegial versus one judge courts</span></span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">In the aforementioned literature, there are some papers on the difference between collegial courts and one judge courts. In collegial courts (e.g. V.A. Hettinger, S. A. Lindquist &amp; L. Martinek<i style="mso-bidi-font-style: normal;">, Judging on a Collegial Court: Influences on Federal Appellate Decision-Making</i>, University of Virginia Press, 2007) there is a group factor and there are other relevant ones: the respective status of the judges, who has the more experience or charisma, who studies the files better and son on… The necessity to render a common judgement has lots of consequences (Malzmann F. Spriggs J. F. OO &amp; Wahlbeck P. J., <i style="mso-bidi-font-style: normal;">Crafting Law on the Supreme Court: The Collegial game</i>, Cambridge Univ. press, 2000; Baum, op. cit.) and how people get along as well as organisational factors play a great part in their decision-making (Cohen J. M., <i style="mso-bidi-font-style: normal;">Inside Appellate Courts: The Impact of Court Organization on Judicial Decision Making in the United-States Courts of Appeals</i>, Univ. of Michigan press, 2002). </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">I may be wrong but I am not aware of such studies conducted in Europe. It clearly is a major issue</span></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="text-decoration: underline;"><span style="mso-ansi-language: EN-GB;">Courts of appeal</span></span></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="mso-ansi-language: EN-GB;">IT’s linked because courts of appeal are typically collegial, but they have particularities which lower courts don’t possess: judges are often older and more experienced; they may also be more consensual and (boring?) as in some legal systems they will have needed not to make any waves and to be friends with the right people in order to become appellate judges. They may also be particularly concerned by their public image and the desire to make “good justice” (Baum L., Judges and Their Audiences, Princeton Univ. press, 2006 ) and may thus be very sensitive to the risk of reversal by higher (supreme) courts( J. Barnes Bowie, D. R. Songer, ‘Assessing the Applicability of Strategic Theory to Explain Decision Making on the Courts of Appeals’, Political Research Quaterly, 2009, n° 62(2): 393-407). </span></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="mso-ansi-language: EN-GB;">It is conversely extremely difficult to approach them and to do research with them. </span></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="mso-ansi-language: EN-GB;">I do not think that we know much about how European Courts of Appeal judge (what are their values and views) compared to lower judges. </span></p>
+<p class="MsoNormal"><span style="text-decoration: underline;"><span style="mso-ansi-language: EN-GB;">Attorneys</span></span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">We have little knowledge about what type of attorney influence judges. What judges expect. What is a good attorney? Whether they can and under what conditions, reverse a case’s outcome. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">We would need to know more about factors like their status (newbie… ordinary… Bar star…), their eloquence, their legal knowledge, their knowledge of the case or of their client? Others? </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">It would also be important to know what their clients expect? Is it mainly outcome related or is it more about the fact that he makes sure they’re given a legitimate/fair trial? My own hunch based on the legitimacy of justice literature is that attorneys also play their own part in the perception which offenders have about how legitimate justice is. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">Similarly in jurisdictions where release and breach decisions are made by courts and probationers have a right to counsel, we know little if anything about the role played by attorneys in assisting the desisting process and, more immediately about their influence on the courts. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">In my aforementioned JAP research I also interviewed attorneys (N32) and found that there may be a fascinating dichotomy in this respect between classic penal attorneys and holistic attorneys, who develop a form of therapeutic alliance with their clients. I am currently launching a specific research on attorneys in sentences’ implementation to test this typology. </span></p>
+<p class="MsoNormal"><span style="text-decoration: underline;"><span style="mso-ansi-language: EN-GB;">Procedure</span></span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">It struck me that we were discussing sentencing as if it the sentencing process was the same everywhere. However there are fundamental differences and to name a few: </span></p>
+<p class="MsoListParagraphCxSpFirst" style="text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><span style="mso-ascii-font-family: Calibri; mso-fareast-font-family: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; mso-ansi-language: EN-GB;"><span style="mso-list: Ignore;">&#8211;<span style="font: 7.0pt 'Times New Roman';">          </span></span></span><span style="mso-ansi-language: EN-GB;">Whether the legal system is adversarial or inquisitorial…. The balance of powers and the role of the judge are vastly different;</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><span style="mso-ascii-font-family: Calibri; mso-fareast-font-family: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; mso-ansi-language: EN-GB;"><span style="mso-list: Ignore;">&#8211;<span style="font: 7.0pt 'Times New Roman';">          </span></span></span><span style="mso-ansi-language: EN-GB;">Whether the court decides on the day of the trial or whether it postpones its decision. In the first case the trial is their last memory of the case before they decide; in the second, they can withdraw from the emotions of the trial, forget about what was said and rule more neutrally, but less humanly based on the file. In fact in some cases the court can decide between the two and the reasons are also interesting to analyse;</span></p>
+<p class="MsoListParagraphCxSpLast" style="text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><span style="mso-ascii-font-family: Calibri; mso-fareast-font-family: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; mso-ansi-language: EN-GB;"><span style="mso-list: Ignore;">&#8211;<span style="font: 7.0pt 'Times New Roman';">          </span></span></span><span style="mso-ansi-language: EN-GB;">And of course whether there is a hearing at all or not. In many situations where people are sentenced nowadays, there is none at all… </span></p>
+<p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span style="mso-ansi-language: EN-GB;">Martine’s suggestion </span></b></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">I have an idea which may be putting the cart before the horse (in French the cart before the ox). Nonetheless, here it is…</span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">On Friday, we heard Reuben Miller telling us that reentry programmes, which being an outsider I imagined were wonderful, are in fact maintaining people in a poverty-exclusion web. He told us they were not so much about helping people desist (: finding a job, real housing…), but much more about asking people to admit they were ‘fucked up’ (one of his interviewees’ quote) and accepting the help required to ‘un-fuck’ themselves up.</span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">Parallel to this, there is more and more criticism against the Drug Court movement (e.g. E. Miller, ‘Drugs, Courts and the New penology, 2009, Sandford Law and Policy Review, 2009, n° 20(2): 101-145) – to be fair to a great extent fuelled by the desire of policy makers to withdraw funding, but some of what critics say must be listened to: in some cases (in particular in the US? ) it seems, again, to be more about asking people to take responsibility for their actions, for them to change… and not always about really helping, supporting, or ‘accompanying’ as French probation practitioners say (<i style="mso-bidi-font-style: normal;">suivre</i>) them on their desistance journey. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">All this makes me all the more confident that <b style="mso-bidi-font-weight: normal;">one of the core element about what practitioners, institutions and agencies do is their values, principles, perceptions</b>. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">As Cyrus pointed out, we cannot just analyse things from the top; we must also get down to street level as Reuben called it. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">A mix of both is nonetheless probably essential. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">For instance it is important to see that in the framework decision 947, it is allegedly about reinsertion… but really it was all about saving dimes, pennies or bucks in the first place. Once that is understood, to what extent does it impact on practitioners who will be implementing it? </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">Another example: in France there are beautiful legal reinsertion and resocialisation principles and guidelines. But in fact in the field social work has virtually disappeared (at least from official probation) as PO say a)’ it’s not my job to help’; b) ‘so long as offenders don’t want to stop we can’t do anything’; c) ‘our job is to be an interface between the judiciary and the rest of the… world, and other agencies’. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">And then there is what I said above about cognition: what feeds the hunch is a mix of experience and shortcuts in practitioners’ brains and of biases, values and principles. This is why we need to know what the inner principles (and not only the legal or even the institutional principles – and perhaps we need to compare them) are. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">Another reason why I am interested in this is that we have also heard M. Phelps in Liverpool and read Fergus (‘Community Sanctions and European Penology, in Daems and al., <i style="mso-bidi-font-style: normal;">European Penology</i>, Hart Publishing, 2013, 171-191: ‘) that there is a risk for CSM to become the mass punishment which follows – and/ or is parallel to mass incarceration. There are thus serious concerns about human rights in CSM. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">There is some literature on values and principles in probation. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">So far it has essentially been addressed by the criminology literature: </span></p>
+<p class="MsoNormal" style="margin-left: 35.4pt;"><span style="mso-ansi-language: EN-GB;">Ward and Connolly, <i style="mso-bidi-font-style: normal;">Morals, Rights and Practice in the Human Services</i>, 2008, Jessica Kingsely Publishers</span></p>
+<p class="MsoNormal" style="margin-left: 35.4pt;"><span style="mso-ansi-language: EN-GB;">Canton and Eadie, ‘Accountability, Legitimacy, and Discretion: Applying Criminology in Professional Practice, in<span style="mso-spacerun: yes;">  </span>B. Stout, J. Yates and B. Williams, <i style="mso-bidi-font-style: normal;">Applied Criminology</i>, 2008, Sage</span></p>
+<p class="MsoNormal" style="margin-left: 35.4pt;"><span style="mso-ansi-language: EN-GB;">M. Nellis and L. Gelsthorpe, ‘Human Rights and the Probation Value Debate’, in Chui W. H. and Nellis M. (eds.), <i style="mso-bidi-font-style: normal;">Moving Probation Forward: evidence, arguments and practice</i>, London, Longman Pearson, 2003</span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">Or in the social work literature: </span></p>
+<p class="MsoNormal" style="text-indent: 35.4pt;"><span style="mso-ansi-language: EN-GB;">Eg: Sarah BANKS, <i style="mso-bidi-font-style: normal;">Practical Social Work</i>, 4<sup>th</sup> ed, 2012, Palgrave</span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">With all due respect most would have needed a legal touch when they have touched upon… legal matters. </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;"> </span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">My point is we need to cross methodologies here and in particular: <b style="mso-bidi-font-weight: normal;"><i style="mso-bidi-font-style: normal;">criminology, social sciences, psychology , cognitive psychology, neurosciences and law. </i></b></span></p>
+<p class="MsoNormal"><span style="mso-ansi-language: EN-GB;">How do we do this and would you like to join me in the study of values, goals, principles, guidelines, and <a name="_GoBack"></a>deontology? </span></p>
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.offendersupervision.eu/blog-post/comparative-research-on-decision-making-reflections-on-the-bratislava-meeting-from-france"
+    dc:identifier="http://www.offendersupervision.eu/blog-post/comparative-research-on-decision-making-reflections-on-the-bratislava-meeting-from-france"
+    dc:title="Comparative research on decision-making: Reflections on the Bratislava meeting (from France)"
+    trackback:ping="http://www.offendersupervision.eu/blog-post/comparative-research-on-decision-making-reflections-on-the-bratislava-meeting-from-france/trackback" />
+</rdf:RDF>			</div>
+			
+							
+			<div class="postmeta">
+				<p>Category: <a href="http://www.offendersupervision.eu/category/blog-post" rel="category tag">Blog Posts</a>, <a href="http://www.offendersupervision.eu/category/decision-making-and-supervision" rel="category tag">Decision-making and supervision</a> &middot; Tags: </p>
+			</div>
+		
+		</div>
+		
+		<div class="postcomments">
+				<div id="comments">
+	
+	
+			<p class="nocomments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+		</div>
+		
+				
+	</div>
+	
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-6" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-3" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>    
+</div>	</div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_2621b4858a5bd1fdfb79db7e21370a3d.js"></script></body>
+</html>

@@ -1,0 +1,471 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>&#039;Dangling Conversations&#039; about Supervision: Reflections on the Athens conference | Offender Supervision in Europe</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="canonical" href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; &#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference Comments Feed" href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='New perspectives on supervision&#8230;' href='http://www.offendersupervision.eu/blog-post/new-perspectives-on-supervision' />
+<link rel='next' title='Reality testing: A psychologist&#8217;s reflection on researching supervision' href='http://www.offendersupervision.eu/blog-post/reality-testing-a-psychologists-reflection-on-researching-supervision' />
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='http://www.offendersupervision.eu/?p=785' />
+<link rel="alternate" type="application/json+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fdangling-conversations-about-supervision-reflections-on-the-athens-conference" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fdangling-conversations-about-supervision-reflections-on-the-athens-conference&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=DB9BE77617C34E285770D69740DFB508');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-785 single-format-standard custom-background">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<p id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></p>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    	
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+<div id="content" class="row">
+
+	<div class="eight columns">
+	
+		<div class="post-785 post type-post status-publish format-standard hentry category-blog-post" id="post-785">
+		
+				
+						
+			<h1 class="headline">&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference</h1>
+		
+	        <div class="postauthor">            
+	            <p>Posted by <a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a> on Saturday, April 18, 2015 &middot; <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comments">4 Comments</a> &nbsp; </p>
+	        </div>
+	        
+	        		        		            <div class="featureimg"></div>
+		         
+	        			
+			<div class="article">
+				<p>For those who did and those who couldn’t attend our recent conference in Athens on ‘Compliance, Enforcement and Breach’, I thought I’d share the gist of my concluding summary of the event.</p>
+<p><a href="http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35.png"><img class="lazy lazy-hidden alignnone size-medium wp-image-786" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35-300x202.png" alt="Screen Shot 2015-04-18 at 19.48.35" width="300" height="202" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35-300x202.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35.png 416w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" /><noscript><img class="alignnone size-medium wp-image-786" src="http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35-300x202.png" alt="Screen Shot 2015-04-18 at 19.48.35" width="300" height="202" srcset="http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35-300x202.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2015/04/Screen-Shot-2015-04-18-at-19.48.35.png 416w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a></p>
+<p>Setting aside my own opening contribution (with Gwen Robinson) on ‘Compliance, Legitimacy and Offender Supervision’, which was based on two papers that some readers will know well, our first major contribution came from an unfamiliar voice and an unfamiliar discipline (to many of us). Prof Stef Decoene (who is both an academic at the Free University of Brussels and a practicing prison psychologist) questioned conventional criminological thinking on compliance by introducing us to how social psychologists understand how one person influences another.</p>
+<p>The first &#8212; and perhaps most fundamental challenge that he posed was that when we (as criminologists) discuss ‘compliance’, we indulge in a kind of collective use of euphemism; the word we should use is ‘obedience’. For social psychologists the term compliance (and the term conformity) apply only to influence between people of the same status and/or in the same social group. When there is a difference in social status or a clear power differential, as in most criminal justice encounters, or when one social group is trying to influence another, obedience is the ‘correct’ term for the objective of the influence attempt. For Stef, this is not a moral or a normative claim but rather an empirically derived distinction. However, he (correctly) anticipated that many of us (both academics and practitioners) would find the term obedience difficult.</p>
+<p>Reflecting on our conversations throughout the conference, I think this may be because obedience implies <em>submission</em>, and while we may typically want people subject to supervision to submit to its formal conditions, a lot of emphasis has been placed on more active forms of <em>cooperation</em> that seem to be implied in the aspirations and content of supervision &#8212; which are often cast in rehabilitative (and sometimes welfarist) terms. Indeed, in my own talk, I had suggested a possible path to legitimate supervision that moved from formal compliance (based on instrumental mechanisms of incentive and disincentive) towards a more substantive compliance based on receiving help, developing an attachment (to the supervisor), and thus coming to see the authority as psychologically (and not just legally) legitimate.</p>
+<p>But, of course, my law scholar colleagues (and in particular Christine Morgenstern) reminded me that, in fact, the obedience of submission to the formal requirements of the order is all that we can reasonably and lawfully <em>demand</em> of the person under supervision. Since these requirements (as I’ll illustrate below) have real punitive weight, submission to them is all that is necessary for retributive justice to be done; and demanding anything further (in the way of substantive compliance or cooperation) would be to cross the threshold into punishment beyond the law (even if the intent is benign). That said, we can<em> ask</em> people to engage more substantively with the constructive intent of supervision (in terms of rehabilitation, reintegration or resocialisation) &#8212; and we can and should do all that we can to <em>offer</em> assistance (not least to mitigate any unintended collateral pains of the punishment).</p>
+<p>In my talk, I had also alluded to the work of Valerie Braithwaite on tax-payers’ ‘motivational postures’ towards tax authorities. She distinguishes between postures of <em>deference</em> (which might represent commitment to or capitulation in the face of the tax authorities) and postures of <em>defiance</em> (which might include explicit resistance, game-playing or disengagement). Crucially, her empirical research shows that these different postures are discernible but that their relationship to tax-payers’ actual compliance with (or obedience towards) tax regimes is contingent.</p>
+<p>This idea of postures (or attitudes and dispositions) towards supervision came alive in our second session focused on the two pilot projects of our working group on experiencing supervision. Wendy Fitzgibbon presented some of the early findings from our ongoing ‘Supervisible’ project. In research sites in England, Germany and Scotland, we have asked people with lived experiences of supervision (past or present, and of whatever sort) to represent their experiences in and through photographs. In the images that Wendy shared (and in a different way in the pilot testing of the ‘Eurobarometer’ &#8212; a survey measure of experiences of supervision &#8212; that Ioan Durnescu presented), we found some evidence that postures of commitment and substantive, cooperative engagement with supervision are possible. However, by far the stronger message of the images was that supervision is experienced as pervasive and painful, particularly in the constraints that it imposes. While we make no claims that these pilot study findings are generalizable or representative, in the three sites the recurring images of <em>constraint</em> (and of <em>waste</em> and of <em>judgment</em>) seemed to endorse Stef’s argument that, first and foremost, supervisees feel that they are compelled to submit obediently. And even when supervision becomes a positive and helpful experience (often represented in images of <em>nature and growth</em>), this does <em>not</em> mean that it stops being experienced as painful and pervasive.</p>
+<p>In the third session, our working group on decision-making and supervision explored how ‘breach’ decisions are made (and avoided). Intriguingly, reporting the Spanish part of the multi-site pilot study, Ester Blay suggested that these judgments are much more about ‘attitudes’ (and hence postures or dispositions) than they are about the formal requirements of the law. The decision-makers (whether immediate supervisors, or managers, or judges) have dispositional postures towards supervisees, and they judge the dispositional postures (or attitudes) of the supervisee. If they deem the supervisee to be <em>trying to</em> comply (or obey), they are typically quick to re-intepret or to forgive formal non-compliance or disobedience. In the Spanish case, the decision-makers exercise of discretion seems to offer the promise of protecting supervisees from what might be seen as cruel or disproportionate enforcement. But, of course, supervisees in other contexts might be highly vulnerable to discretionary decision-making by powerful actors with different dispositions &#8212; for example, in those US states where the approach to probation and parole is sometimes described as “tail them, nail them and fail them”.</p>
+<p>In the penultimate session, the working group on ‘practising supervision’ presented two papers. One came from Ines Sucic and Renata Tkalic (from Croatia) and drew on their recent paper in the <a href="http://www.uk.sagepub.com/journals/Journal202239">European Journal of Probation</a>. They offered and then evidenced an important difference between consent to the <em>order</em> itself (and its formal requirements) and agreement with the <em>content</em> of supervision (and the substantive expectations implied in that content). Their research revealed that, to use a Scottish term, Croatian supervisees are effectively compelled (not least by the threat of imprisonment) to agree to ‘a pig in a poke’. They consent to an order the lived experience of which is shaped later by a ‘treatment plan’ over which they have little or no control and which they typically had no idea would be so central to their supervision. In other words, they sort of agree to obey, but are offered little choice about the implications of required cooperation.</p>
+<p>Jake Phillips then went on to use photographs from the working group’s ‘Picturing Probation’ project (which has collected photos from practitioners in several countries) to explore the relationships between probation architecture and compliance. Drawing on Goffman’s familiar concepts, Jake’s presentation suggested (to me at least) that the front-stage of supervision (the buildings, the waiting areas and the interview rooms) often sets the stage for obedience rather than cooperation. Security measures in particular construct the supervisee as a risk or a threat, and control and constrain access to help in ways which might serve to set people up for <em>dis</em>engagement and passivity rather than cooperation. On the other hand, where the architecture sets the stage for help, nurture and support, it might nonetheless also be an architecture of infantilisation &#8212; and indeed, this was one of the themes that emerged in the ‘supervisible’ project’s photographs (linked to the themes of both constraint and judgment).</p>
+<p>While Jake’s presentation left me pondering how we might imagine a utopian architecture for supervision (if that is not an oxymoron), Anthea Hucklesby’s final presentation quickly sobered me up! Her fascinating account of the expansion and increased intrusions of electronically monitored forms of supervision (EM) posed some unsettling conundrums. One effect of EM, at least in some jurisdictions, is a focus on ‘mere compliance’ with (or mere obedience to) the formal requirements of the order, with little concern for substantive engagement and the potential for rehabilitation to support longer-term change. Some EM providers are now providing ‘assisted compliance’ (to borrow Mike Nellis’s term) &#8212; sending text messages and making phone calls to remind people of their obligations. This kind of assistance may be helpful in preventing breach, but it doesn&#8217;t address needs or support change. Indeed, all it seeks is ‘mere obedience’ and all it offers is the avoidance of greater pains; and so it doesn’t require probation officers or social workers to deliver it.</p>
+<p>Moreover, Anthea talked about the possibilities created by GPS tracking. Whereas RF (radio frequency) location monitoring checks that a person is in the place at the right time, GPS tracking allows them to move, but it follows their every move. One technology (RF) monitors a restriction of liberty; the other (GPS) restricts privacy. In considering these two possibilities, there is a trade off between these two types of constraint. But how are we to weigh these pains and losses against one another &#8212; and against the pains and losses of imprisonment that they are sometimes intended to replace.</p>
+<p>Finally, why have I called this post ‘Dangling Conversations’? The image above (from the supervisible project’s Scottish strand) is a powerful one. It conveys the way in which the supervisee is left ‘dangling’ or hanging by the suspension implicit in supervision. This is a suspension of full access to social life, a suspension of the full rights of citizenship, a judgment (that the person must ‘prove’ him or herself) and a suspension of judgment (about whether or not he or she can really be ‘one of us’ again). And this suspension always occurs in the looming, immanent presence of a seemingly worse fate.</p>
+<p>For me, it is the pervasive and penetrating quality of this suspension &#8212; what we might call the haunting effects of a supervisory sanction &#8212; that we now need to examine more closely. We need to continue to strive to understand how it is experienced. But we also need to examine how the decisions around it are made: When and why is the hangman’s hand stayed? When and why does he open the trap door? When and why does he leads the once condemned back down from the scaffold?). We must also study how practitioners seek to manage the paradox that cooperation is what they desire and really require (at least if they want to support change), yet obedience is all that is necessary &#8212; and sometimes seems to be all that is valued in penal policy.</p>
+<p>Too often and for much too long, probation research (at least in its Anglophone forms) has focused naively on the ‘effectiveness’ of what probation officers do. But these ‘brief encounters’ between supervisor and supervisee &#8212; whatever they achieve or fail to achieve &#8212; are only the more or less human interludes in the continuous lived experience of (sometimes interminable) supervision. The continuous part of supervision is the suspension and even if the haunting is by a friendly ghost, it still seems a frightening thing to endure.</p>
+<p>On the other hand, perhaps I exaggerate. If people subject to supervision are commonly members of what Guy Standing and Loic Wacquant have referred to as the &#8216;precariat&#8217;, perhaps this sense of being haunted by marginality and insecurity, and by the threat of the penal state, is such a common feature of their lives that supervision adds less to their sufferings than we might imagine.</p>
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference"
+    dc:identifier="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference"
+    dc:title="&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference"
+    trackback:ping="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference/trackback" />
+</rdf:RDF>			</div>
+			
+							
+			<div class="postmeta">
+				<p>Category: <a href="http://www.offendersupervision.eu/category/blog-post" rel="category tag">Blog Posts</a> &middot; Tags: </p>
+			</div>
+		
+		</div>
+		
+		<div class="postcomments">
+				<div id="comments">
+	
+	
+			<h3 id="comments-title">
+			4 Comments on &ldquo;<span>&#8216;Dangling Conversations&#8217; about Supervision: Reflections on the Athens conference</span>&rdquo;		</h3>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-63760">
+		<article id="comment-63760" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://2.gravatar.com/avatar/e4c3ae8e5b06302cd7fd9df230d011c7?s=72&#038;d=mm&#038;r=g' data-lazy-srcset='http://2.gravatar.com/avatar/e4c3ae8e5b06302cd7fd9df230d011c7?s=144&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-72 photo' height='72' width='72' /><noscript><img alt='' src='http://2.gravatar.com/avatar/e4c3ae8e5b06302cd7fd9df230d011c7?s=72&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/e4c3ae8e5b06302cd7fd9df230d011c7?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /></noscript><span class="fn"><a href='http://pepinsky.blogspot.com' rel='external nofollow' class='url'>Hal Pepinsky</a></span> <br/> <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comment-63760"><time pubdate datetime="2015-04-19T12:24:46+00:00">April 19, 2015</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>It&#8217;s refreshing to see the radical recognition that obedience is the control sought, whatever the gloss. I&#8217;m reminded that in my paradigm, promoting empathy by giving it is the alternative to the quest for rule-based quest for obedience, essentially violence itself. The link to my article/chapter on the subject: &#8220;empathy works, obedience doesn&#8217;t,&#8221; is <a href="http://192.185.89.153/~crit/critpapers/pepinsky4.pdf" rel="nofollow">http://192.185.89.153/~crit/critpapers/pepinsky4.pdf</a> .  love and peace, hal (pepinsky)</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-63761">
+		<article id="comment-63761" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://2.gravatar.com/avatar/e4c3ae8e5b06302cd7fd9df230d011c7?s=72&#038;d=mm&#038;r=g' data-lazy-srcset='http://2.gravatar.com/avatar/e4c3ae8e5b06302cd7fd9df230d011c7?s=144&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-72 photo' height='72' width='72' /><noscript><img alt='' src='http://2.gravatar.com/avatar/e4c3ae8e5b06302cd7fd9df230d011c7?s=72&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/e4c3ae8e5b06302cd7fd9df230d011c7?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /></noscript><span class="fn"><a href='http://pepinsky.blogspot.com' rel='external nofollow' class='url'>Hal Pepinsky</a></span> <br/> <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comment-63761"><time pubdate datetime="2015-04-19T12:29:57+00:00">April 19, 2015</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>ps to last message: Woops, sorry, references  for &#8220;empathy works, obedience doesn&#8217;t&#8221; are at <a href="http://192.185.89.153/~crit/critpapers/pepinsky8.pdf" rel="nofollow">http://192.185.89.153/~crit/critpapers/pepinsky8.pdf</a> .  l&amp;p hal</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-63803">
+		<article id="comment-63803" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://1.gravatar.com/avatar/a9105d162a68b136335211a1f7bbc491?s=72&#038;d=mm&#038;r=g' data-lazy-srcset='http://1.gravatar.com/avatar/a9105d162a68b136335211a1f7bbc491?s=144&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-72 photo' height='72' width='72' /><noscript><img alt='' src='http://1.gravatar.com/avatar/a9105d162a68b136335211a1f7bbc491?s=72&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a9105d162a68b136335211a1f7bbc491?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /></noscript><span class="fn">Peter Raynor</span> <br/> <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comment-63803"><time pubdate datetime="2015-04-20T20:57:16+00:00">April 20, 2015</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>Unfortunately I was not able to attend this conference, which I regret even more having read Fergus&#8217; summary. It might also have been an opportunity to draw attention to the recent book &#8216;What Works in Offender Compliance&#8217;, edited by Pamela Ugwudike (who also could not get to this conference) and me, published by Palgrave Macmillan in 2013. However, if I had been there I think I might have questioned whether an interest in the effectiveness of supervision is so &#8216;naive&#8217; as the report above suggests. After about forty years of pursuing this interest, I think that many other interesting questions about community sentences and supervision (e.g. are they fair? Are they just? Are they proportionate? Are they right?) are even more difficult to answer if we do not know about the likely consequences of supervision &#8211; in particular, is it likely to help people towards desistance from offending (and of so how, and in what circumstances) or is it likely to do them harm? This is an important moral question as well as a technical one, and it is also relevant to the public interest, and indeed the common good. I think it is important that at least some of us continue to explore questions about effectiveness, otherwise it is difficult to see how we can engage in policy discussion about the value and utility of supervision in criminal justice.</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-fergus-mcneill bypostauthor odd alt depth-2" id="li-comment-63804">
+		<article id="comment-63804" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://0.gravatar.com/avatar/3a92f3f893f34e445e4bbdf38c416fdb?s=48&#038;d=mm&#038;r=g' data-lazy-srcset='http://0.gravatar.com/avatar/3a92f3f893f34e445e4bbdf38c416fdb?s=96&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-48 photo' height='48' width='48' /><noscript><img alt='' src='http://0.gravatar.com/avatar/3a92f3f893f34e445e4bbdf38c416fdb?s=48&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3a92f3f893f34e445e4bbdf38c416fdb?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span class="fn">Fergus McNeill</span> <br/> <a href="http://www.offendersupervision.eu/blog-post/dangling-conversations-about-supervision-reflections-on-the-athens-conference#comment-63804"><time pubdate datetime="2015-04-20T21:19:53+00:00">April 20, 2015</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>Forgive me Peter: I meant no disrespect at all to much-loved and respected colleagues like you who have worked so hard to answer the &#8216;what works?&#8217; question thoughtfully and always with regard to questions of values and morals (and not just utilitarian or consequentialist ones). Perhaps it would be better to say that the &#8216;what works&#8217; question is naive (or at worst cynical) when divorced from the ethical questions that necessarily surround it. As you yourself once wrote, the question &#8216;what works?&#8217; makes no sense without a discussion of the ends that we pursue in criminal justice. And those ends are not just the ends of utility.</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+	
+</div><!-- #comments -->
+		</div>
+		
+				
+	</div>
+	
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-6" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-3" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>    
+</div>	</div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_2621b4858a5bd1fdfb79db7e21370a3d.js"></script></body>
+</html>

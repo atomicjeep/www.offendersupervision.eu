@@ -1,0 +1,596 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<link type="text/css" media="all" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_6c870b24ee11022d4863c615b85a00f8.css" rel="stylesheet" /><link type="text/css" media="screen" href="http://www.offendersupervision.eu/wp-content/cache/autoptimize/css/autoptimize_303d5ec0b95e622586d65aef722c0312.css" rel="stylesheet" /><title>Probation: Myths, realities and challenges | Offender Supervision in Europe</title>
+<link rel="Shortcut Icon" href="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/favicon.ico" type="image/x-icon">
+
+
+
+
+
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<link rel="canonical" href="http://www.offendersupervision.eu/blog-post/probation-myths-realities-and-challenges" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Feed" href="http://www.offendersupervision.eu/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Comments Feed" href="http://www.offendersupervision.eu/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe &raquo; Probation: Myths, realities and challenges Comments Feed" href="http://www.offendersupervision.eu/blog-post/probation-myths-realities-and-challenges/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<link rel='stylesheet' id='dashicons-css'  href='http://www.offendersupervision.eu/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+
+
+<script type='text/javascript' src='http://www.offendersupervision.eu/wp-includes/js/jquery/jquery.js'></script>
+
+<link rel='https://api.w.org/' href='http://www.offendersupervision.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.offendersupervision.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.offendersupervision.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='The Quality of Supervision' href='http://www.offendersupervision.eu/blog-post/the-quality-of-supervision' />
+<link rel='next' title='Penal Evolution and Probation' href='http://www.offendersupervision.eu/blog-post/penal-evolution-and-probation' />
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='http://www.offendersupervision.eu/?p=650' />
+<link rel="alternate" type="application/json+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fprobation-myths-realities-and-challenges" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.offendersupervision.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.offendersupervision.eu%2Fblog-post%2Fprobation-myths-realities-and-challenges&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.offendersupervision.eu/?wordfence_lh=1&hid=4CE342545F2C8742F938404BD494AC22');
+</script>		
+		
+
+<link rel="alternate" type="application/rss+xml" title="Offender Supervision in Europe Feed" href="http://www.offendersupervision.eu/feed/">
+<link rel="pingback" href="http://www.offendersupervision.eu/xmlrpc.php">
+
+<!-- Social -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,300,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+	    $j('.menu').superfish({
+	    	delay: 200,
+	    	animation: {opacity:'show', height:'show'},
+	    	speed: 'fast',
+	    	autoArrows: true,
+	    	dropShadows: false
+	    }); 
+	}); 
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(window).load(function() { 
+		// Call fitVid before FlexSlider initializes, so the proper initial height can be retrieved.
+		$j('.flexslider').fitVids().flexslider({
+			slideshowSpeed: 6000,
+			animationDuration	: 400,
+			animation: 'fade',
+			video: true,
+			useCSS: false,
+			animationLoop: true,
+			smoothHeight: true
+		});
+	});
+</script>
+
+<!-- Make Social Buttons Load in Ajax -->
+<script type="text/javascript">
+	jQuery(document).ajaxComplete(function($) {
+		gapi.plusone.go();
+		twttr.widgets.load();
+		try {
+			FB.XFBML.parse();
+		}catch(ex){}
+	});
+</script>
+
+</head>
+
+<body class="post-template-default single single-post postid-650 single-format-standard custom-background">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div class="container">
+	
+	<div class="row">
+	
+	    <div id="header">
+	    
+	    		    		    	
+	    		    		<p id="custom-header"><a href="http://www.offendersupervision.eu/" title="Home"><img src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/logo1.png" height="320" width="1320" alt="Offender Supervision in Europe - COST Action IS1106" />Offender Supervision in Europe - COST Action IS1106</a></p>
+	    		<span class="costlogo">
+	    			<a href="http://www.cost.eu/" title="COST (European Cooperation in Science and Technology)">
+					<img alt="COST (European Cooperation in Science and Technology)" src="http://www.offendersupervision.eu/wp-content/uploads/2012/09/cost-logo-gray.png">
+					</a>
+	    		</span>
+	    	
+	    		    	
+	    </div>
+    
+    <!--     START SEARCH BOX -->
+    	            <!--     END SEARCH BOX -->
+    
+    </div>
+    
+    <div class="row">
+    
+	    <div id="navigation">
+	        <div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132"><a href="http://www.offendersupervision.eu/">Home</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-264"><a>Working Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.offendersupervision.eu/practising-supervision">Practising supervision</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.offendersupervision.eu/experiencing-supervision">Experiencing Supervision</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.offendersupervision.eu/european-policy-and-practice">European norms, policy and practice</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.offendersupervision.eu/decision-making-and-supervision">Decision-making and supervision</a></li>
+</ul>
+</li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.offendersupervision.eu/supervisible">Seen and Heard</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.offendersupervision.eu/ways-to-get-involved">Ways to Get Involved</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="http://www.offendersupervision.eu/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-333"><a href="http://www.offendersupervision.eu/international-conference">First International Conference &#8211; Liverpool</a>
+	<ul class="sub-menu">
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.offendersupervision.eu/international-conference/conference-multimedia">Conference Multimedia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="http://www.offendersupervision.eu/events/second-international-conference-athens">Second International Conference &#8211; Athens</a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.offendersupervision.eu/documents-and-resources">Documents and Resources</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="http://www.offendersupervision.eu/about">About</a></li>
+</ul></div>	        
+	        
+	    </div>
+    
+    </div>
+<div id="content" class="row">
+
+	<div class="eight columns">
+	
+		<div class="post-650 post type-post status-publish format-standard hentry category-blog-post" id="post-650">
+		
+				
+						
+			<h1 class="headline">Probation: Myths, realities and challenges</h1>
+		
+	        <div class="postauthor">            
+	            <p>Posted by <a href="http://www.offendersupervision.eu/author/fergus-mcneill" title="Posts by Fergus McNeill" rel="author">Fergus McNeill</a> on Wednesday, June 18, 2014 &middot; <a href="http://www.offendersupervision.eu/blog-post/probation-myths-realities-and-challenges#comments">1 Comment</a> &nbsp; </p>
+	        </div>
+	        
+	        		        		            <div class="featureimg"></div>
+		         
+	        			
+			<div class="article">
+				<p><em>This blog post is the text of a speech I delivered in Helsinki on 17<sup>th</sup> and 18<sup>th</sup> June at the 19<sup>th</sup> Council of Europe Conference of Directors of Prisons and Probation Services.</em></p>
+<p><strong>INTRODUCTION</strong><strong> </strong></p>
+<p>In very many jurisdictions in Europe and around the world, recent decades have seen very significant developments in relation to offender supervision in the community. Probation institutions (meaning those institutions responsible for implementing all sorts of community sanctions and measures (CSM) at whichever stage in the criminal justice process) have grown remarkably both in their scale and in their geographical reach. The forms of supervision that they deliver have also intensified so that probationers (meaning here those subject to CSM) now may face a range of different and more onerous conditions; for example, relating to residence in or exclusion from particular places, medical, psychiatric or psychological interventions, offending behaviour programmes, drug or alcohol related interventions, electronically monitored curfews, and so on.</p>
+<p>The rapid expansion of offender supervision (and its changing forms) has been remarkably under-researched, at least relative to the attention that has been paid to ‘mass incarceration’. However, recent efforts have begun to redress this neglect, partly under the auspices of the COST Action on Offender Supervision in Europe (IS1106: see <a href="http://www.offendersupervision.eu">www.offendersupervision.eu</a>) which I chair. That research network’s first book contains a brief, thematic review of the available European research on how supervision is experienced (by those subject to it) and practiced (by those who deliver it), as well as on associated decision-making processes and on the influence of European norms and standards (McNeill and Beyens, 2013).</p>
+<p>For many years now, advocates of probation expansion have developed and deployed a number of compelling arguments. Perhaps the most influential of these, at least in the European context, has been that probation represents a much more cost-effective way of dealing with many offenders than imprisonment. It also avoids many of the unintended criminogenic consequences of imprisonment (e.g. disrupting family ties, diminishing labour market participation, stigmatizing and alienating offenders). The best available evidence suggests that, in general, reconviction rates are slightly lower for CSM, even taking into account differences between the prison and probation populations. From a moral or principled perspective moreover, advocates argue (or assume) that probation is inherently less problematic than prison in terms of respect for human rights and human dignity, since it obviously damages the person (and their family) less and thus represents a more parsimonious and less destructive punishment. Of course, critics sometimes see this as a weakness and suggest that probation is insufficiently onerous to represent an adequate sanction for some offences and some offenders.</p>
+<p>Whilst I continue to regard myself as an advocate of the development of probation systems and practices, for precisely the sorts of reasons outlined above, my research and experience over the last few years has compelled me to qualify these arguments – and to call for more critical and measured sort of advocacy for probation; one that recognizes its potential costs and harms as well as its benefits. The question becomes less whether probation is a useful and constructive institution of justice and more <strong>under what conditions is probation a useful and constructive institution of justice</strong>?</p>
+<p><strong>THREE MYTHS AND AN ILLUSTRATION</strong></p>
+<p>Perhaps the simplest way to illustrate my reasoning is to reflect on the example of my own jurisdiction. The Scottish experience of the last 40 years is helpful in debunking three myths about probation:</p>
+<ol>
+<li>The growth of probation shrinks the prison population.</li>
+<li>Making probation ‘tougher’ and/or more ‘credible’ and/or more ‘effective’ and/or more ‘professional’ increases public and judicial support for it.</li>
+<li>Doing probation is easier for offenders than doing prison time.</li>
+</ol>
+<p>In Scotland, between 1977 and 2008-09 (the peak year) we witnessed a near nine-fold increase in community sanctions and measures (from just over 2,000 to about 18,000, and this figure excludes post-release supervision)[1]. Not only have the numbers of people under such supervision increased, the legal forms of supervision have multiplied, as have the range of conditions to which people can be subject. This remarkable growth has been achieved partly through Government investment in ring-fenced funding (since 1991) of the criminal justice social work services delivered by local authorities, through the implementation of national objectives and standards and through the development of social work education and training. In the last decade, rates of reconviction of those subject to CSM have declined (especially relative to those receiving custodial sentences). The credibility of criminal justice social work services has improved.</p>
+<p><a href="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions.png"><img class="lazy lazy-hidden alignnone  wp-image-653" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions-300x181.png" alt="Scottish sanctions" width="454" height="274" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions-300x181.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions.png 815w" data-lazy-sizes="(max-width: 454px) 100vw, 454px" /><noscript><img class="alignnone  wp-image-653" src="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions-300x181.png" alt="Scottish sanctions" width="454" height="274" srcset="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions-300x181.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2014/06/Scottish-sanctions.png 815w" sizes="(max-width: 454px) 100vw, 454px" /></noscript></a></p>
+<p>However, over the same period, the number of custodial sentences in Scotland has also increased, from about 10,000 to about 16,000. This puzzling simultaneous rise in <em>both</em> probation <em>and</em> custodial sentences is largely explained by the dramatic decline in the use of financial penalties – from around 160,000 in 1977 (and 180,000 by 1983) to about 70,000 by 2008-09 (and less than 60,000 in 2012-13). Though it would take more detailed research to establish the precise relationships between the fates of the three main sorts of penalties (financial, supervisory and custodial), <em>prima facie</em> it seems that probation’s growth has, for the most part, displaced financial penalties rather than custodial sentences.</p>
+<p>In the Scottish case, this finding may be accounted for in part by reforms elsewhere in the justice system. Since more and more ‘low-level’ offences and offenders have been diverted from court processes altogether (often through fines or fixed penalties applied by prosecutors), the profile of the population coming to court for sentencing today is different from that in the 1970s. If that population now includes a higher proportion of more serious offences and offenders, then that might account for the decline of the fine <em>as court imposed sanction. </em></p>
+<p>However, since the total number of convictions has also fallen significantly in Scotland over the same period, the rise in the prison population, and the apparent failure of probation to do much to arrest that rise remains a matter of concern. Indeed, examining the data about the criminal histories of people receiving supervisory and prison sanctions in Scotland does not provide strong evidence that probation is successfully diverting higher tariff offenders:</p>
+<table width="411">
+<tbody>
+<tr>
+<td rowspan="2" width="92"><strong>Community Service Order (CSO)</strong></td>
+<td rowspan="2" width="106"><strong>Total number of all offenders = 100</strong></td>
+<td colspan="4" width="213"><strong>Number of previous convictions</strong></td>
+</tr>
+<tr>
+<td width="50"><strong>None </strong></td>
+<td width="55"><strong>1 or 2 </strong></td>
+<td width="52"><strong>3 to 10</strong></td>
+<td width="56"><strong>Over 10</strong></td>
+</tr>
+<tr>
+<td width="92">2007-08</td>
+<td width="106">3,501</td>
+<td width="50">35</td>
+<td width="55">25</td>
+<td width="52">29</td>
+<td width="56">11</td>
+</tr>
+<tr>
+<td width="92">2008-09</td>
+<td width="106">3,727</td>
+<td width="50">34</td>
+<td width="55">26</td>
+<td width="52">29</td>
+<td width="56">11</td>
+</tr>
+<tr>
+<td width="92">2009-10</td>
+<td width="106">3,631</td>
+<td width="50">36</td>
+<td width="55">24</td>
+<td width="52">29</td>
+<td width="56">11</td>
+</tr>
+<tr>
+<td width="92">2010-11</td>
+<td width="106">3,668</td>
+<td width="50">34</td>
+<td width="55">25</td>
+<td width="52">29</td>
+<td width="56">12</td>
+</tr>
+<tr>
+<td width="92"></td>
+<td width="106"></td>
+<td width="50"></td>
+<td width="55"></td>
+<td width="52"></td>
+<td width="56"></td>
+</tr>
+<tr>
+<td rowspan="2" width="92"><strong>Probation Order (PO)</strong></td>
+<td rowspan="2" width="106"><strong>Total number of all offenders = 100</strong></td>
+<td colspan="4" width="213"><strong>Number of previous convictions</strong></td>
+</tr>
+<tr>
+<td width="50"><strong>None </strong></td>
+<td width="55"><strong>1 or 2 </strong></td>
+<td width="52"><strong>3 to 10</strong></td>
+<td width="56"><strong>Over 10</strong></td>
+</tr>
+<tr>
+<td width="92">2007-08</td>
+<td width="106">4,634</td>
+<td width="50">23</td>
+<td width="55">23</td>
+<td width="52">35</td>
+<td width="56">19</td>
+</tr>
+<tr>
+<td width="92">2008-09</td>
+<td width="106">5,150</td>
+<td width="50">23</td>
+<td width="55">23</td>
+<td width="52">36</td>
+<td width="56">18</td>
+</tr>
+<tr>
+<td width="92">2009-10</td>
+<td width="106">5,048</td>
+<td width="50">21</td>
+<td width="55">24</td>
+<td width="52">35</td>
+<td width="56">19</td>
+</tr>
+<tr>
+<td width="92">2010-11</td>
+<td width="106">4,597</td>
+<td width="50">20</td>
+<td width="55">22</td>
+<td width="52">37</td>
+<td width="56">21</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="411">
+<tbody>
+<tr>
+<td rowspan="2" width="92"><strong>Discharged from custody</strong></td>
+<td rowspan="2" width="106"><strong>Total number of all offenders = 100</strong></td>
+<td colspan="4" width="213"><strong>Number of previous convictions</strong></td>
+</tr>
+<tr>
+<td width="50"><strong>None </strong></td>
+<td width="57"><strong>1 or 2 </strong></td>
+<td width="50"><strong>3 to 10</strong></td>
+<td width="57"><strong>Over 10</strong></td>
+</tr>
+<tr>
+<td width="92">2007-08</td>
+<td width="106">7,060</td>
+<td width="50">12</td>
+<td width="57">11</td>
+<td width="50">32</td>
+<td width="57">46</td>
+</tr>
+<tr>
+<td width="92">2008-09</td>
+<td width="106">7,404</td>
+<td width="50">12</td>
+<td width="57">11</td>
+<td width="50">31</td>
+<td width="57">46</td>
+</tr>
+<tr>
+<td width="92">2009-10</td>
+<td width="106">7,432</td>
+<td width="50">12</td>
+<td width="57">10</td>
+<td width="50">32</td>
+<td width="57">46</td>
+</tr>
+<tr>
+<td width="92">2010-11</td>
+<td width="106">7,289</td>
+<td width="50">12</td>
+<td width="57">10</td>
+<td width="50">29</td>
+<td width="57">49</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>A recent US research study has helped us to better understand the complexities of the relationships between probation and prison growth. Based on an analysis of data across all US states and over 30 years (from 1980-2010), Phelps (2013) concludes that, under different conditions, probation can be both a genuine alternative to imprisonment and a form of net-widening. The following figure sets out the key conditions and relationships which affect the which of these outcomes arises:</p>
+<p><a href="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model.png"><img class="lazy lazy-hidden alignnone  wp-image-652" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model-300x184.png" alt="Phelps model" width="355" height="218" data-lazy-srcset="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model-300x184.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model.png 824w" data-lazy-sizes="(max-width: 355px) 100vw, 355px" /><noscript><img class="alignnone  wp-image-652" src="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model-300x184.png" alt="Phelps model" width="355" height="218" srcset="http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model-300x184.png 300w, http://www.offendersupervision.eu/wp-content/uploads/2014/06/Phelps-model.png 824w" sizes="(max-width: 355px) 100vw, 355px" /></noscript></a></p>
+<p><em>Phelps (2013: 58)</em></p>
+<p>There is too little space to elaborate these relationships properly here, but perhaps the key point is that reforming probation itself (for example, in relation to its effectiveness, or its approach to breach and violation of conditions, or even in relation to its symbolic and expressive aspects) is an insufficient means of seeking to reduce prison populations. The wider structural contexts and the ways in which sentencing processes are governed and implemented are also crucial influences on outcomes. In order for probation to reduce prison populations and to avoid a net-widening effect, its systemic context needs to facilitate and incentivize penal reductionist goals (through political and sentencing reform); it needs to be effectively targeted; its practices need to be effective; and its management of breach/violations needs to be careful and considered.</p>
+<p>In the Scottish case, some similar findings emerged from small scale research into efforts to establish Probation Alternative to Custody projects in the 1980s and 90s (Creamer, Hartley and Williams, 1992). When intensive probation was carefully targeted, when pre-sentences reports were well-prepared, and when judges had confidence in the quality of the supervision, probation could exercise an influence for penal reductionism.</p>
+<p>The recent Scottish Prisons Commission (2008) drew on similar arguments and evidence to recommend not just internal reforms to the organization and practice of criminal justice social work, but also <em>systemic</em> reforms to sentencing, emphasizing of the centrality of reparative, community-based sanctions not as alternatives to prison, but as the default penalty (except for those who commit serious offences or present significant risks to public safety). The subsequent introduction of some of the proposed reforms and specifically of the Community Payback Order (in 2010-11) does seem to have had some effect in reducing the use of short-term prison sentences, though we await a full evaluation of these reforms.</p>
+<p>The final myth I mentioned above relates to public (and sometimes judicial) misperceptions about the demands that probation (and other CSM) make of those subject to them. Although I noted at the outset how increasingly onerous conditions have become a part of sentencing options in many jurisdictions – both for ‘front-door’ CSM and for post-release (‘back-door’) supervision – both probation’s advocates and its critics tend to stress its ‘helping’ aspects. And indeed, the available research of the experiences of those supervised tends to stress its positive aspects and effects (Durnescu, Enengl and Grafl, 2013). However, although such research is affected by problems of possible selection bias (i.e. those with more positive experiences and who are complying with supervision are likely to be over-sampled), it is also reveals ‘holding’ and ’hurting’ aspects of supervision (see McNeill, 2009). While ‘holding’ can imply both constraint and support, both recent research on the pains of probation (Durnescu, 2011) and historical research (McNeill, 2009) makes clear that that probation can and does often cause forms of suffering – whether legitimate or illegitimate and whether intended or unintended.</p>
+<p>Offenders in several jurisdictions have reporting finding supervision – and the conditionality with which it is commonly associated (Turnbull and Hannah-Moffat, 2009) – increasingly burdensome. Indeed, there is evidence that significant proportions of those with experience of both community-based and custodial sanctions find the latter easier to deal with – at least in certain respects. Thus, for example, in Scotland, Armstrong and Weaver (2011) found that some respondents regarded short prison sentences, whilst damaging in many respects, represented respite from chaotic lives. Though they regarded CSM as more constructive sanctions, this did not mean they regarded them as easier to negotiate; indeed, they pointed out the challenging and demanding aspects of supervision. Other studies have suggested that some offenders actively prefer the apparent simplicity and clarity of doing their jail time to the intrusions and complexities of supervision. In particular, they fear ending up suffering more severe sanctions as a result of violating conditions (May and Wood, 2010; Payne and Gainey, 1998).</p>
+<p><strong>CONCLUSION</strong></p>
+<p>In my own work in recent years, I have often argued – both directly and indirectly – that prison represents an unpromising context for seeking to support desistance from crime (e.g Weaver and McNeill, 2007). It follows that if reducing reoffending is an important objective of criminal justice, we should use prisons sparingly and that we should construct their regimes carefully. I have also argued for reforms to probation practices so as to enable them to better support desistance.</p>
+<p>None of the reflections above represent a retreat from these positions or arguments: I remain convinced that – other things being equal – probation is better placed to support desistance than imprisonment. However, the caution that I have sought to add in this address is this: <strong>We cannot and must not assume that probation and its growth is an unqualified good.</strong> While it can and does support change, it also represents an expansive and penetrating form of penal control which – like all others forms of penal control – must be used proportionately and parsimoniously. Moreover, even where probation’s principal intent is to support social rehabilitation or reintegration and thus to benefit probationers, its intrusions into the lives of its European citizens must always constrained by the same human rights safeguards and principles that we apply to imprisonment.</p>
+<p><strong>REFERENCES</strong></p>
+<p><strong> </strong>Armstrong, S. and Weaver, B. (2011), <em>User Views of Punishment: The dynamics of community based punishment</em>. Glasgow: Scottish Centre for Crime and Justice Research.</p>
+<p>Creamer, A., Hartley, L and Williams, B. (1992) <em>The probation alternative A study of the impact of four enhanced probation schemes on sentencing outcomes.</em> Edinburgh: Scottish Office Central Research Unit.</p>
+<p>Durnescu, I. (2011) ‘Pains of probation: Effective practice and human rights’, International Journal of Offender Therapy and Comparative Criminology, 55: 530-545.</p>
+<p>Durnescu, I, Enengl, C. and Grafl, C. (2013) ‘Experiencing Supervision’ in McNeill, F. and Beyens, K. (2013)(eds.) <em>Offender Supervision in Europe</em>, Basingstoke: Palgrave.</p>
+<p>McNeill, F. (2009) ‘<em>Helping, Holding, Hurting: Recalling and reforming punishment’</em>, the 6<sup>th</sup> annual Apex Lecture, at the Signet Library, Parliament Square, Edinburgh, 8<sup>th</sup> September 2009. Available online at: <a href="https://pure.strath.ac.uk/portal/files/521675/strathprints026701.pdf">https://pure.strath.ac.uk/portal/files/521675/strathprints026701.pdf</a></p>
+<p>McNeill, F. and Beyens, K. (2013)(eds.) <em>Offender Supervision in Europe</em>, Basingstoke: Palgrave.</p>
+<p>May, D., &amp; Wood, P. (2010) Ranking Correctional Punishments: Views From Offenders, Practitioners and the Public. Carolina Academic Press.</p>
+<p>Payne, B.K. &amp; Gainey, R.R. (1998) ‘A qualitative assessment of the pains experienced on electronic monitoring’, International Journal of Offender Therapy and Comparative Criminology, 42, 2: 149-63.</p>
+<p>Phelps, M. (2013) ‘The paradox of probation: community supervision in the age of mass incarceration’. <em>Law and Policy, </em>35(1–2), 55–80.</p>
+<p>Scottish Prisons Commission (2008) <em>Scotland’s Choice.</em> Edinburgh: Scottish Prisons Commission.</p>
+<p>Turnbull, S. and Hannah-Moffat, K. (2009) ‘Under These Conditions:Gender, Parole and the Governance of Reintegration’<em>,</em><em>British Journal of Criminology </em>doi: 10.1093/bjc/azp015 (First published online: April 21, 2009)</p>
+<p>Weaver, B. and McNeill, F. (2007) <em>Giving up Crime: Directions for Policy</em>. Edinburgh: Scottish Consortium on Crime and Criminal Justice.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>[1]The Scottish data, charts and tables discussed in this section were supplied directly by Justice Analytical Services in the Scottish Government.</p>
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.offendersupervision.eu/blog-post/probation-myths-realities-and-challenges"
+    dc:identifier="http://www.offendersupervision.eu/blog-post/probation-myths-realities-and-challenges"
+    dc:title="Probation: Myths, realities and challenges"
+    trackback:ping="http://www.offendersupervision.eu/blog-post/probation-myths-realities-and-challenges/trackback" />
+</rdf:RDF>			</div>
+			
+							
+			<div class="postmeta">
+				<p>Category: <a href="http://www.offendersupervision.eu/category/blog-post" rel="category tag">Blog Posts</a> &middot; Tags: </p>
+			</div>
+		
+		</div>
+		
+		<div class="postcomments">
+				<div id="comments">
+	
+	
+			<h3 id="comments-title">
+			One Comment on &ldquo;<span>Probation: Myths, realities and challenges</span>&rdquo;		</h3>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-28439">
+		<article id="comment-28439" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='http://1.gravatar.com/avatar/72277f4cdf48369681a04d49c37f2d2a?s=72&#038;d=mm&#038;r=g' data-lazy-srcset='http://1.gravatar.com/avatar/72277f4cdf48369681a04d49c37f2d2a?s=144&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-72 photo' height='72' width='72' /><noscript><img alt='' src='http://1.gravatar.com/avatar/72277f4cdf48369681a04d49c37f2d2a?s=72&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/72277f4cdf48369681a04d49c37f2d2a?s=144&#038;d=mm&#038;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /></noscript><span class="fn">Dan Beto</span> <br/> <a href="http://www.offendersupervision.eu/blog-post/probation-myths-realities-and-challenges#comment-28439"><time pubdate datetime="2014-06-28T09:45:50+00:00">June 28, 2014</time></a> <br/>				</div><!-- .comment-author .vcard -->
+			</footer>
+
+			<div class="comment-content">
+								<p>Fergus ~ This is a good speech.  What are the chances of getting permission to reprint it in Executive Exchange, the publication of the National Association of Probation Executives?  Dan Beto</p>
+				<div class="reply">
+									</div><!-- .reply -->
+							</div>
+
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+	
+</div><!-- #comments -->
+		</div>
+		
+				
+	</div>
+	
+	<div class="four columns">
+		<div class="sidebar right">
+ 
+	<div id="archives-6" class="widget widget_archive"><h4>Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.offendersupervision.eu/2016/10'> October 2016 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2016/04'> April 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/03'> March 2016 &nbsp;(6)</option>
+	<option value='http://www.offendersupervision.eu/2016/02'> February 2016 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2016/01'> January 2016 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2015/10'> October 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/07'> July 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/06'> June 2015 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2015/04'> April 2015 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2015/03'> March 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2015/01'> January 2015 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/11'> November 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/10'> October 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/09'> September 2014 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2014/07'> July 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/06'> June 2014 &nbsp;(4)</option>
+	<option value='http://www.offendersupervision.eu/2014/05'> May 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/04'> April 2014 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2014/03'> March 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2014/01'> January 2014 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/12'> December 2013 &nbsp;(1)</option>
+	<option value='http://www.offendersupervision.eu/2013/11'> November 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/10'> October 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/09'> September 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/07'> July 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/06'> June 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/05'> May 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/04'> April 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/03'> March 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2013/02'> February 2013 &nbsp;(3)</option>
+	<option value='http://www.offendersupervision.eu/2013/01'> January 2013 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/12'> December 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/11'> November 2012 &nbsp;(2)</option>
+	<option value='http://www.offendersupervision.eu/2012/10'> October 2012 &nbsp;(4)</option>
+
+		</select>
+		</div><div id="wgs_widget-3" class="widget widget_wgs_widget"><h4>Search</h4><div class="wgs_wrapper"><div class="gcse-searchbox-only" data-resultsUrl="http://www.offendersupervision.eu/search_gcse"></div></div></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/COST_OSE" data-widget-id="254958490127306753">Tweets by @COST_OSE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>    
+</div>	</div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+</div> <!-- close container -->
+
+<div class="footerwidgets">
+
+	<div class="row">
+        
+            <div class="two columns">
+				<div id="text-5" class="widget widget_text"><h4>About</h4>			<div class="textwidget"><a href="http://www.offendersupervision.eu/about">This Project</a><br />
+<a href="http://www.offendersupervision.eu/archive">Archive</a></div>
+		</div>            </div>
+            
+            <div class="two columns">
+				<div id="text-9" class="widget widget_text"><h4>EU</h4>			<div class="textwidget"><img class="lazy lazy-hidden alignnone wp-image-884 size-medium" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /><noscript><img class="alignnone wp-image-884 size-medium" src="http://www.offendersupervision.eu/wp-content/uploads/2016/01/EU-FLAG_black_304dpi-300x205.jpg" alt="EU Flag" width="100" /></noscript>
+
+COST is supported by the EU Framework Programme Horizon 2020</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	<div id="text-2" class="widget widget_text"><h4>Disclaimer</h4>			<div class="textwidget">The views expressed on this website are the sole responsibility of the author and do not necessarily reflect the views of COST.</div>
+		</div>            </div>
+            
+            <div class="two columns">
+            	                            </div>
+            
+            <div class="four columns">
+				                            </div>
+
+	</div>
+
+</div>
+
+<div class="footer">
+
+	<div class="row">
+		<div class="twelve columns">
+    
+    	<div class="footerleft">       
+            <p>Copyright &copy; 2017 &middot; All Rights Reserved &middot; Offender Supervision in Europe</p>
+
+<!--             <p><a href="http://www.organicthemes.com/themes/magazine-theme/" title="Organic Magazine WordPress Theme" target="_blank">Magazine Theme v4</a> by <a href="http://www.organicthemes.com" title="Premium WordPress Themes" target="_blank">Organic Themes</a> &middot; <a href="http://kahunahost.com" target="_blank" title="WordPress Hosting">WordPress Hosting</a> &middot; <a href="http://www.offendersupervision.eu/feed">RSS Feed</a> &middot; <a href="http://www.offendersupervision.eu/wp-login.php">Log in</a></p> -->
+        </div>
+        
+        <div class="footerright">
+<!--     		<a href="http://www.organicthemes.com" title="Designer WordPress Themes" target="_blank"><img src="http://www.offendersupervision.eu/wp-content/themes/organic_magazine/images/footer_logo.png" alt="Organic Themes" /></a> -->
+    	</div>
+		
+		</div>
+	</div>
+	
+</div> <!-- close container -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.offendersupervision.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"014591171123653113810:f0bntwxejq4"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" defer src="http://www.offendersupervision.eu/wp-content/cache/autoptimize/js/autoptimize_2621b4858a5bd1fdfb79db7e21370a3d.js"></script></body>
+</html>
